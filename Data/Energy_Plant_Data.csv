@@ -1,0 +1,1057 @@
+Country,Sub-sector,Name of the Plant,,Location,Status ( Whether Operational or Not),Capacity ( in MW),Operator,Owner,Latitude,Longitude,Link
+Kenya,Geothermal,Akiira One geothermal power plant,Geothermal,Nakuru,pre-construction,70,Akiira Geothermal,Frontier Energy [100%],-0.3024,36.0805,https://www.gem.wiki/Akiira_One_geothermal_power_plant
+,Geothermal,Akiira One geothermal power plant,,Nakuru,pre-construction,70,Akiira Geothermal,Frontier Energy [100%],-0.3024,36.0805,https://www.gem.wiki/Akiira_One_geothermal_power_plant
+,Geothermal,Baringo-Silali geothermal power plant,,Baringo Province,pre-construction,100,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],0.91886,36.1834,https://www.gem.wiki/Baringo-Silali_geothermal_power_plant
+,Geothermal,BVC geothermal power plant,,,pre-construction,70,,Olsuswa Energy Ltd,2.1536,35.78748,https://www.gem.wiki/BVS_geothermal_power_plant
+,Geothermal,BVC geothermal power plant,,,announced,70,,Olsuswa Energy Ltd,2.1536,35.78748,https://www.gem.wiki/BVS_geothermal_power_plant
+,Geothermal,Eburru geothermal power plant,,,operating,2.5,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.64075,36.24887,https://www.gem.wiki/Eburru_geothermal_power_plant
+,Geothermal,EcoCloud-G42 Mega Data Center geothermal power plant,,,pre-construction,100,,Olkaria EcoCloud,-0.9116443,36.3304996,https://www.gem.wiki/EcoCloud-G42_Mega_Data_Center_geothermal_power_plant
+,Geothermal,Korosi geothermal power plant,,,pre-construction,100,Geothermal Development Company (GDC),Geothermal Development Company (GDC),0.91853,36.18405,https://www.gem.wiki/Korosi_geothermal_power_plant
+,Geothermal,Longonot geothermal power plant,,,pre-construction,35,Pertamina Geothermal Energy,,-0.8964646,36.4761962,https://www.gem.wiki/Longonot_geothermal_power_plant
+,Geothermal,Longonot geothermal power plant,,,pre-construction,105,Pertamina Geothermal Energy,,-0.8964646,36.4761962,https://www.gem.wiki/Longonot_geothermal_power_plant
+,Geothermal,Menengai 1 geothermal power plant,,Nakuru,operating,35,Orpower Twenty Two,Geothermal Development Company (GDC) [100%],-0.2137,36.0591,https://www.gem.wiki/Menengai_1_geothermal_power_plant
+,Geothermal,Menengai 1 geothermal power plant,,Nakuru,construction,35,Quantum East Africa Power,Geothermal Development Company (GDC) [100%],-0.2137,36.0591,https://www.gem.wiki/Menengai_1_geothermal_power_plant
+,Geothermal,Menengai 1 geothermal power plant,,Nakuru,construction,35,Sosian Energy,Geothermal Development Company (GDC) [100%],-0.2137,36.0591,https://www.gem.wiki/Menengai_1_geothermal_power_plant
+,Geothermal,Menengai 2 geothermal power plant,,Nakuru,pre-construction,60,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],-0.196,36.063,https://www.gem.wiki/Menengai_2_geothermal_power_plant
+,Geothermal,Menengai 3 geothermal power plant,,Nakuru,announced,300,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],-0.196,36.063,https://www.gem.wiki/Menengai_3_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,retired,15,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,construction,21,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,retired,15,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,construction,21,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,retired,15,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,construction,21,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,operating,70,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.891,36.2961,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,operating,70,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.891,36.2961,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 1 geothermal power plant,,Nakuru,operating,83,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8893,36.2557,https://www.gem.wiki/Olkaria_1_geothermal_power_plant
+,Geothermal,Olkaria 2 geothermal power plant,,Nakuru,operating,35,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_2_geothermal_power_plant
+,Geothermal,Olkaria 2 geothermal power plant,,Nakuru,operating,35,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_2_geothermal_power_plant
+,Geothermal,Olkaria 2 geothermal power plant,,Nakuru,operating,35,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_2_geothermal_power_plant
+,Geothermal,Olkaria 3 geothermal power plant,,Nakuru,operating,59,Ormat Technology,Ormat Technology Inc [100%],-0.889,36.2562,https://www.gem.wiki/Olkaria_3_geothermal_power_plant
+,Geothermal,Olkaria 3 geothermal power plant,,Nakuru,operating,36,Ormat Technology,Ormat Technology Inc [100%],-0.889,36.2562,https://www.gem.wiki/Olkaria_3_geothermal_power_plant
+,Geothermal,Olkaria 3 geothermal power plant,,Nakuru,operating,26,Ormat Technology,Ormat Technology Inc [100%],-0.889,36.2562,https://www.gem.wiki/Olkaria_3_geothermal_power_plant
+,Geothermal,Olkaria 3 geothermal power plant,,Nakuru,operating,26,Ormat Technology,Ormat Technology Inc [100%],-0.889,36.2562,https://www.gem.wiki/Olkaria_3_geothermal_power_plant
+,Geothermal,Olkaria 4 geothermal power plant,,Nakuru,operating,70,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.9186,36.3338,https://www.gem.wiki/Olkaria_4_geothermal_power_plant
+,Geothermal,Olkaria 4 geothermal power plant,,Nakuru,operating,70,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.9186,36.3338,https://www.gem.wiki/Olkaria_4_geothermal_power_plant
+,Geothermal,Olkaria 5 geothermal power plant,,Nakuru,operating,82,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.907,36.3232,https://www.gem.wiki/Olkaria_5_geothermal_power_plant
+,Geothermal,Olkaria 5 geothermal power plant,,Nakuru,operating,82,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.907,36.3232,https://www.gem.wiki/Olkaria_5_geothermal_power_plant
+,Geothermal,Olkaria 6 geothermal power plant,,Nakuru,shelved - inferred 2 y,140,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_6_geothermal_power_plant
+,Geothermal,Olkaria 6 geothermal power plant,,Nakuru,shelved - inferred 2 y,420,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_6_geothermal_power_plant
+,Geothermal,Olkaria 7 geothermal power plant,,,pre-construction,80,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-0.8644,36.2985,https://www.gem.wiki/Olkaria_7_geothermal_power_plant
+,Geothermal,OrPower 22 geothermal power plant,,,construction,35,,Orpower Twenty Two Ltd,-0.215054,36.0745596,https://www.gem.wiki/OrPower_22_geothermal_power_plant
+,Geothermal,Paka geothermal power plant,,,pre-construction,100,Geothermal Development Company (GDC),Geothermal Development Company (GDC),1.16846,36.17395,https://www.gem.wiki/Paka_geothermal_power_plant
+,Geothermal,Sosian Highland geothermal power plant,,Thome,pre-construction,50,Sosian Energy,Sosian Energy [100%],0.3009,36.6878,https://www.gem.wiki/Sosian_Highland_geothermal_power_plant
+,Geothermal,Suswa geothermal power plant,,Olesharo,pre-construction,50,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],-1.16045,36.23814,https://www.gem.wiki/Suswa_geothermal_power_plant
+,Geothermal,Suswa geothermal power plant,,Olesharo,pre-construction,100,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],-1.16045,36.23814,https://www.gem.wiki/Suswa_geothermal_power_plant
+,Geothermal,Suswa geothermal power plant,,Olesharo,pre-construction,100,Geothermal Development Company (GDC),Geothermal Development Company (GDC) [100%],-1.16045,36.23814,https://www.gem.wiki/Suswa_geothermal_power_plant
+,Geothermal,Suswa geothermal power plant,,Olesharo,announced,50,Geothermal Development Company (GDC),Geothermal Development Company (GDC),-1.16045,36.23814,https://www.gem.wiki/Suswa_geothermal_power_plant
+,Geothermal,Wellhead geothermal power plant,,,pre-construction,67,,RentCo Africa Ltd,-0.87444,36.30055,https://www.gem.wiki/Wellhead_geothermal_power_plant
+,Nuclear Power,Tana River nuclear power plant 1,,Kwale,pre-construction,"1,000",,Nuclear Power And Energy Agency,-2.575,40.3567,
+,Nuclear Power,Tana River nuclear power plant 2,,Kwale,pre-construction,"3,000",,Nuclear Power And Energy Agency,-2.575,40.3567,
+,Bioenergy,Dandora Waste-to-Energy power station,,Nairobi,pre-construction,45,,Kenya Electricity Generating Company PLC [100%],-1.2428,37.0157,https://www.gem.wiki/Dandora_Waste-to-Energy_power_station
+,Bioenergy,Mumias Sugar Company power station,,Kakamega,operating,34,,Sarrai Group Ltd [100%],0.3643,34.5052,https://www.gem.wiki/Mumias_Sugar_Company_power_station
+,Bioenergy,West Kenya Sugar Factory power plant,,Kakamega,cancelled - inferred 4 y,40,,,0.379686799,34.83134197,https://www.gem.wiki/West_Kenya_Sugar_Factory_power_plant
+,HydroEnergy,Arror Multipurpose Dam hydroelectric plant,,,construction,60,,Kerio Valley Development Authority,0.7098,35.6288,https://www.gem.wiki/Arror_Multipurpose_Dam_hydroelectric_plant
+,HydroEnergy,Gitaru hydroelectric plant,,Machakos County,operating,225,,Kenya Electricity Generating Company (KenGen) [100%],-0.7942,37.7523,https://www.gem.wiki/Gitaru_hydroelectric_plant
+,HydroEnergy,High Grand Falls hydroelectric plant,,Kitui County,pre-construction,"1,000",,Government of Kenya,-0.2781,38.0758,https://www.gem.wiki/High_Grand_Falls_hydroelectric_plant
+,HydroEnergy,Kamburu hydroelectric plant,,Machakos County,operating,94,,Kenya Electricity Generating Company (KenGen) [100%],-0.8064,37.6861,https://www.gem.wiki/Kamburu_hydroelectric_plant
+,HydroEnergy,Karura hydroelectric plant,,Embu,pre-construction,90,,Kenya Electricity Generating Company (KenGen),-0.8113,37.865,https://www.gem.wiki/Karura_hydroelectric_plant
+,HydroEnergy,Kiambere hydroelectric plant,,Kitui County,operating,168,,Kenya Electricity Generating Company (KenGen) [100%],-0.6404,37.9094,https://www.gem.wiki/Kiambere_hydroelectric_plant
+,HydroEnergy,Kindaruma hydroelectric plant,,Embu,operating,72,,Kenya Electricity Generating Company (KenGen),-0.806,37.811,https://www.gem.wiki/Kindaruma_hydroelectric_plant
+,HydroEnergy,Magwagwa hydroelectric plant,,Nyamira County,announced,120,,,-0.4852,35.035,https://www.gem.wiki/Magwagwa_hydroelectric_plant
+,HydroEnergy,Oldorko hydroelectric plant,,Kajiado County,cancelled - inferred 4 y,90,,,-2.027,36.1174,https://www.gem.wiki/Oldorko_hydroelectric_plant
+,HydroEnergy,Sondu Miriu hydroelectric plant,,Nyakach,operating,60,,Kenya Electricity Generating Company (KenGen),-0.3426,34.8521,https://www.gem.wiki/Sondu_Miriu_hydroelectric_plant
+,HydroEnergy,Turkwel hydroelectric plant,,West Pokot,operating,103,,Kenya Electricity Generating Company (KenGen) [100%],1.8981,35.334,https://www.gem.wiki/Turkwel_hydroelectric_plant
+,Wind Energy,Baharini Wind Power Project,,Lamu West,cancelled,90,,Elicio NV; Kenwind Holding Ltd,1.442,38.4314,https://www.gem.wiki/Baharini_Wind_Power_Project
+,Wind Energy,Bubisa wind farm,,Marsabit,construction,300,,Gitson Energy,2.7053,38.087,https://www.gem.wiki/Bubisa_wind_farm
+,Wind Energy,Chania Green Wind Project,,Kajiado,operating,50,,Chania Green Limited (CGEL),-2.5462,36.7916,https://www.gem.wiki/Chania_Green_Wind_Project
+,Wind Energy,Devki Samburu wind farm,,Kwale,announced,60,,Devki Group,1.2737,37.0532,https://www.gem.wiki/Devki_Samburu_wind_farm
+,Wind Energy,Electrawinds Bahari wind farm,,Lamu,pre-construction,50,,Electrawinds NV,-2.3897,40.6987,https://www.gem.wiki/Electrawinds_Bahari_wind_farm
+,Wind Energy,Electrawinds Bahari wind farm,,Lamu,pre-construction,40,,Electrawinds NV,-2.3897,40.6987,https://www.gem.wiki/Electrawinds_Bahari_wind_farm
+,Wind Energy,Esidai wind farm,,,shelved,50,,Frontier Energy II,-1.6396,36.5829,https://www.gem.wiki/Esidai_wind_farm
+,Wind Energy,Kajiado wind farm,,Kajiado,cancelled - inferred 4 y,50,,Kenya Craftskills Energy International Ltd,-2.5462,36.7916,https://www.gem.wiki/Kajiado_wind_farm
+,Wind Energy,Kilifi wind farm,,Kilifi,operating,36,,Mombasa Cement Ltd,-3.627,39.8518,https://www.gem.wiki/Kilifi_wind_farm
+,Wind Energy,Kinangop Wind Park,,,cancelled,61,,Macquarie Green Investment Group (GIG); Old Mutual Limited (OML),0.8281,36.5554,https://www.gem.wiki/Kinangop_Wind_Park
+,Wind Energy,Kipeto wind farm,,,operating,100,,Kenya Craftskills Energy International Ltd; BTE Renewables,-1.7196,36.6945,https://www.gem.wiki/Kipeto_wind_farm
+,Wind Energy,Lake Turkana wind farm,,,operating,50,Lake Turkana Wind Power,KP&P Africa BV; Sandpiper Ltd; Finnfund; Anergi Turkana Investments Ltd; Blackrock Alternatives; Danish Climate Investment Fund (DCIF),2.4891,36.7932,https://www.gem.wiki/Lake_Turkana_wind_farm
+,Wind Energy,Lake Turkana wind farm,,,operating,260,Lake Turkana Wind Power,KP&P Africa BV; Sandpiper Ltd; Finnfund; Anergi Turkana Investments Ltd; Blackrock Alternatives; Danish Climate Investment Fund (DCIF),2.4891,36.7932,https://www.gem.wiki/Lake_Turkana_wind_farm
+,Wind Energy,Lambe Valley wind farm,,South Nyanza,cancelled - inferred 4 y,100,,Bluesea Energy,-0.665,34.7269,https://www.gem.wiki/Lambe_Valley_wind_farm
+,Wind Energy,Limuru wind farm,,Kiambu,pre-construction,50,,Hydrochina Corp,-1.1159,36.6393,https://www.gem.wiki/Limuru_wind_farm
+,Wind Energy,Malindi Offshore wind farm,,Kilifi,cancelled,50,,VR Holding AB,-3.5102,39.9593,https://www.gem.wiki/Malindi_Offshore_wind_farm
+,Wind Energy,Marsabit (KenGen) wind farm,,Marsabit,announced,300,,Kenya Electricity Generating Company PLC,2.3326,37.9731,https://www.gem.wiki/Marsabit_(KenGen)_wind_farm
+,Wind Energy,Marsabit (Sosian) wind farm,,Marsabit,announced,50,,Sosian Energy,2.5209,38.2751,https://www.gem.wiki/Marsabit_(Sosian)_wind_farm
+,Wind Energy,Marsabit 1GW (KenGen) wind farm,,Marsabit,announced,"1,000",,Kenya Electricity Generating Company PLC,4.0208,36.6613,https://www.gem.wiki/Marsabit_1GW_(KenGen)_wind_farm
+,Wind Energy,Meru (Bluesea Energy) wind farm,,Meru,cancelled - inferred 4 y,400,,Bluesea Energy,0.0501,37.6501,https://www.gem.wiki/Meru_(Bluesea_Energy)_wind_farm
+,Wind Energy,Meru (Isiolo) wind farm,,Meru,pre-construction,80,,Windlab Africa PTY LTD (WA); Meru County Investment and Development Corporation (MCIDC),0.0501,37.6501,https://www.gem.wiki/Meru_(Isiolo)_wind_farm
+,Wind Energy,Meru (Kengen) wind farm,,Meru,cancelled - inferred 4 y,100,,Kenya Electricity Generating Company PLC,0.0501,37.6501,https://www.gem.wiki/Meru_(Kengen)_wind_farm
+,Wind Energy,Meru (Kengen) wind farm,,Meru,cancelled - inferred 4 y,300,,Kenya Electricity Generating Company PLC,0.0501,37.6501,https://www.gem.wiki/Meru_(Kengen)_wind_farm
+,Wind Energy,National Cement Company (Kenya) wind farm,,West Pokot,pre-construction,60,,National Cement Co Ltd,1.3958,35.3375,https://www.gem.wiki/National_Cement_Company_(Kenya)_wind_farm
+,Wind Energy,Ngong wind farm,,,operating,14,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-1.3803,36.638,https://www.gem.wiki/Ngong_wind_farm
+,Wind Energy,Ngong wind farm,,,operating,12,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-1.3803,36.638,https://www.gem.wiki/Ngong_wind_farm
+,Wind Energy,Ngong wind farm,,,operating,11,Kenya Electricity Generating Company,Kenya Electricity Generating Company PLC,-1.3803,36.638,https://www.gem.wiki/Ngong_wind_farm
+,Wind Energy,Ol-Ndanyat wind farm,,Kajiado,announced,30,,China Gezhouba Group Co Ltd,-2.5462,36.7916,https://www.gem.wiki/Ol-Ndanyat_wind_farm
+,Wind Energy,Prunus wind farm,,Kajiado,announced,50,,,-1.3666,36.6501,https://www.gem.wiki/Prunus_wind_farm
+,Solar Energy,Cedata solar farm,,Uasin Gishu County,operating,40,,Selenkei Investment Ltd; Cedate Ltd; Frontier Investment Management ApS; Paramount Universal Bank,0.4267,35.3601,https://www.gem.wiki/Cedata_solar_farm
+,Solar Energy,Garissa solar farm,,Tana River County,operating,54,,Rural Energy Authority of Kenya,-0.3326,39.6065,https://www.gem.wiki/Garissa_solar_farm
+,Solar Energy,HDF Green Hydrogen Solar PV Project,,,announced,180,,,0.9668,38.124,https://www.gem.wiki/HDF_Green_Hydrogen_Solar_PV_Project
+,Solar Energy,Isiolo solar farm,,Isiolo County,cancelled - inferred 4 y,40,,Greenmillenia Energy,0.367,37.5888,https://www.gem.wiki/Isiolo_solar_farm
+,Solar Energy,Kabariange solar farm,,Tharaka-Nithi,operating,32,,,-0.2801,37.8101,https://www.gem.wiki/Kabariange_solar_farm
+,Solar Energy,Kamburu Dam floating solar farm,,,announced,40,,Kenya Electricity Generating Company PLC,-0.8068,37.6844,https://www.gem.wiki/Kamburu_Dam_floating_solar_farm
+,Solar Energy,Kesses 2 solar farm,,Uasin Gishu County,shelved - inferred 2 y,55,,Alten Energías Renovables,0.4129,35.4011,https://www.gem.wiki/Kesses_2_solar_farm
+,Solar Energy,Kesses solar farm,,Uasin Gishu County,operating,40,,Alten Energías Renovables,0.4304,35.4032,https://www.gem.wiki/Kesses_solar_farm
+,Solar Energy,Kisumu solar farm,,Kisumu County,construction,40,,Ergon Solair,-0.1971,34.7779,https://www.gem.wiki/Kisumu_solar_farm
+,Solar Energy,Kitui solar farm,,Kitui County,cancelled - inferred 4 y,40,,Looop Inc,-1.5642,38.3728,https://www.gem.wiki/Kitui_solar_farm
+,Solar Energy,Lamu Kensen solar farm,,Lamu County,shelved,40,,Kenya Solar Energy Ltd,-0.4699,39.6429,https://www.gem.wiki/Lamu_Kensen_solar_farm
+,Solar Energy,Malindi solar farm,,Kilifi County,operating,40,,Globeleq Generation Ltd ; Africa Energy Development Corp,-3.2009,39.7446,https://www.gem.wiki/Malindi_solar_farm
+,Solar Energy,Nyeri solar farm,,Nyeri County,construction,40,,Kumar and Associates,-0.436,36.9656,https://www.gem.wiki/Nyeri_solar_farm
+,Solar Energy,Radiant solar farm,,Uasin Gishu County,operating,40,,Selenkei Investment Ltd; Cedate Ltd; Frontier Investment Management ApS; Paramount Universal Bank,0.4211,35.3537,https://www.gem.wiki/Radiant_solar_farm
+,Solar Energy,Rumuruti solar farm,,Laikipia County,cancelled - inferred 4 y,40,,Kenergy Renewable,0.2379,36.5492,https://www.gem.wiki/Rumuruti_solar_farm
+,Solar Energy,Seven Forks solar farm,,Embu County,pre-construction,43,,Kenya Electricity Generating Company PLC,-0.5377,37.4584,https://www.gem.wiki/Seven_Forks_solar_farm
+,Solar Energy,Siaya County solar farm,,Siaya County,shelved - inferred 2 y,40,,Xago Africa,-0.0604,34.2001,https://www.gem.wiki/Siaya_County_solar_farm
+,Solar Energy,Voltalia Kopere solar farm,,Nandi County,pre-construction,40,,Voltalia SA,0.2254,35.1245,https://www.gem.wiki/Voltalia_Kopere_solar_farm
+,Solar Energy,Mwale Mtc solar farm,,Kakanega County,operating,11,,Mcx Environmental Energy Corp,0.2597,34.5514,https://www.gem.wiki/Mwale_Mtc_solar_farm
+,Solar Energy,Mwale Mtc solar farm,,Kakamega County,shelved - inferred 2 y,19,,Mcx Environmental Energy Corp,0.2597,34.5513,https://www.gem.wiki/Mwale_Mtc_solar_farm
+,,,,,,,,,,,
+Uganda,Geothermal,Buranga geothermal power plant,,Mongiro,Not Operational,100,Gids Consult,Gids Consult Ltd [100%],0.8332,30.1664,https://www.gem.wiki/Buranga_geothermal_power_plant
+,Geothermal,Katwe geothermal power plant,,Kampala,Not Operational,200,AAE Systems,AAE Systems Inc [100%],-0.0804,29.9193,https://www.gem.wiki/Katwe_geothermal_power_plant
+,HydroEnergy,Ayago hydroelectric plant,,Kiryandongo,pre-construction,840,,Uganda Electricity Generation Company LTD (UEGCL),2.3454,31.9369,https://www.gem.wiki/Ayago_hydroelectric_plant
+,HydroEnergy,Bujagali hydroelectric plant,,Buikwe,operating,250,,,0.5015,33.1359,https://www.gem.wiki/Bujagali_hydroelectric_plant
+,HydroEnergy,Isimba hydroelectric plant,,Kayunga,operating,183,,Uganda Electricity Generation Company LTD (UEGCL) [100%],0.7714,33.0416,https://www.gem.wiki/Isimba_hydroelectric_plant
+,HydroEnergy,Karuma hydroelectric plant,,Kiryandongo,operating,600,,Uganda Electricity Generation Company LTD (UEGCL) [100%],2.2484,32.2682,https://www.gem.wiki/Karuma_hydroelectric_plant
+,HydroEnergy,Kiba hydroelectric plant,,Kiryandongo,pre-construction,400,,Uganda Electricity Generation Company LTD (UEGCL),2.3695,31.8328,https://www.gem.wiki/Kiba_hydroelectric_plant
+,HydroEnergy,Kiira hydroelectric plant,,,operating,200,,Uganda Electricity Generation Company LTD (UEGCL) [100%],0.4503,33.1856,https://www.gem.wiki/Kiira_hydroelectric_plant
+,HydroEnergy,Muzizi hydroelectric plant,,Kyenjojo,announced,48,,Uganda Electricity Generation Company LTD (UEGCL),0.8285,30.8311,https://www.gem.wiki/Muzizi_hydroelectric_plant
+,HydroEnergy,Nalubaale hydroelectric plant,,Buikwe,operating,180,,Uganda Electricity Generation Company LTD (UEGCL) [100%],0.4435,33.1847,https://www.gem.wiki/Nalubaale_hydroelectric_plant
+,HydroEnergy,Oriang hydroelectric plant,,Kiryandongo,announced,392,,Mota-Engil SGPS SA,2.2655,32.0827,https://www.gem.wiki/Oriang_hydroelectric_plant
+,Wind Energy,Karamoja wind farm,,Karamoja,announced,120,,AMEA Power,2.6606,34.5689,https://www.gem.wiki/Karamoja_wind_farm
+,Wind Energy,Rupa Wind Power Plant,,Rupa,cancelled - inferred 4 y,20,,Senok Wind Uganda Limited,2.5835,34.667,https://www.gem.wiki/Rupa_Wind_Power_Plant
+,Wind Energy,Tororo wind farm,,Tororo,cancelled - inferred 4 y,20,,Xsabo Group,0.6843,34.1816,https://www.gem.wiki/Tororo_wind_farm
+,Wind Energy,West Nile wind farm,,West Nile,announced,10,,AMEA Power,0.4258,33.2171,https://www.gem.wiki/West_Nile_wind_farm
+,Solar Energy,Bukedea solar farm,,,announced,20,,TotalEnergies EP Uganda,1.348,34.0436,https://www.gem.wiki/Bukedea_solar_farm
+,Solar Energy,Ceec solar farm,,Nakasongola,cancelled - inferred 4 y,250,,China ENERGY Engineering Corp Ltd,1.5334,32.2167,https://www.gem.wiki/Ceec_solar_farm
+,Solar Energy,Ceec solar farm,,Nakasongola,cancelled - inferred 4 y,250,,China ENERGY Engineering Corp Ltd,1.5334,32.2167,https://www.gem.wiki/Ceec_solar_farm
+,Solar Energy,Ergon Solair solar farm,,Nakasongola,cancelled - inferred 4 y,125,,Ergon Solair,1.5334,32.2167,https://www.gem.wiki/Ergon_Solair_solar_farm
+,Solar Energy,Ergon Solair solar farm,,Nakasongola,cancelled - inferred 4 y,125,,Ergon Solair,1.5334,32.2167,https://www.gem.wiki/Ergon_Solair_solar_farm
+,Solar Energy,Ergon Solair solar farm,,Nakasongola,cancelled - inferred 4 y,125,,Ergon Solair,1.5334,32.2167,https://www.gem.wiki/Ergon_Solair_solar_farm
+,Solar Energy,Ergon Solair solar farm,,Nakasongola,cancelled - inferred 4 y,125,,Ergon Solair,1.5334,32.2167,https://www.gem.wiki/Ergon_Solair_solar_farm
+,Solar Energy,Iganga solar farm,,,announced,20,,TotalEnergies EP Uganda,0.6116,33.4757,https://www.gem.wiki/Iganga_solar_farm
+,Solar Energy,Ituka solar farm,,,announced,24,,,3.0668,30.931,https://www.gem.wiki/Ituka_solar_farm
+,Solar Energy,Kabulasoke solar farm,,Gomba,operating,24,,Xsabo Group; Great Lakes Africa Energy (GLAE),0.1501,31.7951,https://www.gem.wiki/Kabulasoke_solar_farm
+,Solar Energy,Kapeeka solar farm,,,announced,20,,TotalEnergies EP Uganda,0.6789,32.2481,https://www.gem.wiki/Kapeeka_solar_farm
+,Solar Energy,Kumi solar farm,,,announced,20,,TotalEnergies EP Uganda,1.4851,33.9348,https://www.gem.wiki/Kumi_solar_farm
+,Solar Energy,Kween solar farm,,,announced,150,,Abu Dhabi Future Energy Co,1.492,34.5746,https://www.gem.wiki/Kween_solar_farm
+,Solar Energy,Lira solar farm,,,pre-construction,50,,Xsabo Group,2.3555,32.927,https://www.gem.wiki/Lira_solar_farm
+,Solar Energy,Namugoga Solar Power Station,,,announced,50,,Naanovo Energy Inc; Solar Energy for Africa,0.363,32.493,https://www.gem.wiki/Namugoga_Solar_Power_Station
+,Solar Energy,Nkonge solar farm,,Mubende,operating,23,,Xsabo Group,0.6209,31.8287,https://www.gem.wiki/Nkonge_solar_farm
+,Solar Energy,Paliisa solar farm,,,announced,20,,TotalEnergies EP Uganda,1.1691,33.7102,https://www.gem.wiki/Paliisa_solar_farm
+,Solar Energy,Tororo solar farm,,,announced,20,,TotalEnergies EP Uganda,0.681,34.1865,https://www.gem.wiki/Tororo_solar_farm
+,Solar Energy,Uganda (AMEA) solar farm,,,announced,25,,AMEA Power,0.9669,31.799,https://www.gem.wiki/Uganda_(AMEA)_solar_farm
+,Solar Energy,Uganda (Masdar) solar farm,,,announced,150,,Abu Dhabi Future Energy Co,1.1207,31.6452,https://www.gem.wiki/Uganda_(Masdar)_solar_farm
+,Solar Energy,Bufulubi solar project,,Mayuge,operating,8.7,,,0.4892,33.427,https://www.gem.wiki/Bufulubi_solar_project
+,Solar Energy,Busia solar project,,Busia,operating,4,,,0.5505,34.0187,https://www.gem.wiki/Busia_solar_project
+,Solar Energy,Gomba solar project,,Gomba,operating,10.9,,,0.1489,31.8204,https://www.gem.wiki/Gomba_solar_project
+,Solar Energy,Kanoni solar project,,Gomba,operating,6.3,,,0.1564,31.8204,https://www.gem.wiki/Kanoni_solar_project
+,Solar Energy,Lake Albert (Uganda) solar farm,,,announced,15,,TotalEnergies SE,1.3849,30.8983,https://www.gem.wiki/Lake_Albert_(Uganda)_solar_farm
+,Solar Energy,Rakai solar project,,Rakai,operating,10.3,,,-0.4612,31.2076,https://www.gem.wiki/Rakai_solar_project
+,Solar Energy,Soroti solar project,,Soroti,operating,8,,,1.6861,33.6577,https://www.gem.wiki/Soroti_solar_project
+,Solar Energy,Tororo solar project I,,Tororo,operating,8,,,0.6314,34.111,https://www.gem.wiki/Tororo_solar_project_I
+,Solar Energy,Tororo solar project II,,Tororo,operating,10.8,,,0.5906,34.139,https://www.gem.wiki/Tororo_solar_project_II
+,,,,,,,,,,,
+Ethiopia,Geothermal,Aluto Langano geothermal power plant,,Arsi,construction,35,Ethiopian Electric Power (EEP),Ethiopian Electric Power (EEP) [100%],7.7888,38.7952,https://www.gem.wiki/Aluto_Langano_geothermal_power_plant
+,Geothermal,Aluto Langano geothermal power plant,,Arsi,construction,35,Ethiopian Electric Power (EEP),Ethiopian Electric Power (EEP) [100%],7.7888,38.7952,https://www.gem.wiki/Aluto_Langano_geothermal_power_plant
+,Geothermal,Aluto Langano geothermal power plant,,Arsi,mothballed,7.3,,,7.7888,38.7952,https://www.gem.wiki/Aluto_Langano_geothermal_power_plant
+,Geothermal,Corbetti geothermal power plant,,Shashamane,pre-construction,50,Corbetti Geothermal,InfraCo Africa [33%]; Reykjavik Geothermal [33%]; Berkeley Energy [33%],7.1819,38.4371,https://www.gem.wiki/Corbetti_geothermal_power_plant
+,Geothermal,Corbetti geothermal power plant,,Shashamane,pre-construction,100,Corbetti Geothermal,InfraCo Africa [33%]; Reykjavik Geothermal [33%]; Berkeley Energy [33%],7.1819,38.4371,https://www.gem.wiki/Corbetti_geothermal_power_plant
+,Geothermal,Tendaho geothermal power plant,,Tendaho,pre-construction,180,Ethiopian Electric Power (EEP),Ethiopian Electric Power (EEP) [100%],11.6925,40.9563,https://www.gem.wiki/Tendaho_geothermal_power_plant
+,Geothermal,Tulu Moye geothermal power plant,,Moye,cancelled,50,Meridiam,Reykjavik Geothermal [50%]; Meridiam [50%],8.16711,39.13934,https://www.gem.wiki/Tulu_Moye_geothermal_power_plant
+,Geothermal,Tulu Moye geothermal power plant,,Moye,cancelled,100,Meridiam,Reykjavik Geothermal [50%]; Meridiam [50%],8.16711,39.13934,https://www.gem.wiki/Tulu_Moye_geothermal_power_plant
+,HydroEnergy,Aleltu East hydroelectric plant,,Oromia,cancelled - inferred 4 y,186,,Ethiopian Electric Power (EEP) [100%],9.2034,39.1538,https://www.gem.wiki/Aleltu_East_hydroelectric_plant
+,HydroEnergy,Aleltu West hydroelectric plant,,Oromia,cancelled - inferred 4 y,265,,Ethiopian Electric Power (EEP) [100%],9.2034,39.1538,https://www.gem.wiki/Aleltu_West_hydroelectric_plant
+,HydroEnergy,Awash II hydroelectric plant,,East Shewa,operating,64,,,8.3932,39.352,https://www.gem.wiki/Awash_II_hydroelectric_plant
+,HydroEnergy,Baro 1 hydroelectric plant,,Illubabor,cancelled - inferred 4 y,200,,Ethiopian Electric Power (EEP) [100%],8.4671,35.4475,https://www.gem.wiki/Baro_1_hydroelectric_plant
+,HydroEnergy,Baro 2 hydroelectric plant,,Illubabor,cancelled - inferred 4 y,500,,Ethiopian Electric Power (EEP) [100%],8.5303,35.4452,https://www.gem.wiki/Baro_2_hydroelectric_plant
+,HydroEnergy,Beles hydroelectric plant,,West Gojjam,operating,460,,Ethiopian Electric Power (EEP) [100%],11.8204,36.9204,https://www.gem.wiki/Beles_hydroelectric_plant
+,HydroEnergy,Chemoga Yeda I hydroelectric plant,,Amhara,shelved - inferred 2 y,162,,Ethiopian Electric Power (EEP) [100%],10.3202,37.732,https://www.gem.wiki/Chemoga_Yeda_I_hydroelectric_plant
+,HydroEnergy,Chemoga Yeda II hydroelectric plant,,Amhara,shelved - inferred 2 y,118,,Ethiopian Electric Power (EEP) [100%],10.3202,37.732,https://www.gem.wiki/Chemoga_Yeda_II_hydroelectric_plant
+,HydroEnergy,Dabus I hydroelectric plant,,Asosa,shelved - inferred 2 y,304,,Ethiopian Electric Power (EEP) [100%],9.9991,34.876,https://www.gem.wiki/Dabus_I_hydroelectric_plant
+,HydroEnergy,Dabus II hydroelectric plant,,Asosa,shelved - inferred 2 y,494,,Ethiopian Electric Power (EEP) [100%],9.9991,34.876,https://www.gem.wiki/Dabus_II_hydroelectric_plant
+,HydroEnergy,Didessa hydroelectric plant,,Illubabor,shelved - inferred 2 y,550,,Ethiopian Electric Power (EEP) [100%],8.4539,36.6948,https://www.gem.wiki/Didessa_hydroelectric_plant
+,HydroEnergy,Fincha Amerti Neshe hydroelectric plant,,Horo Guduru,operating,97,,Ethiopian Electric Power (EEP) [100%],9.5607,37.3625,https://www.gem.wiki/Fincha_Amerti_Neshe_hydroelectric_plant
+,HydroEnergy,Fincha hydroelectric plant,,Horo Guduru,operating,134,,Ethiopian Electric Power (EEP) [100%],9.558,37.3663,https://www.gem.wiki/Fincha_hydroelectric_plant
+,HydroEnergy,Geba 1 hydroelectric plant,,Agnuak,pre-construction,220,,Ethiopian Electric Power (EEP) [100%],8.1937,35.1084,https://www.gem.wiki/Geba_1_hydroelectric_plant
+,HydroEnergy,Geba 2 hydroelectric plant,,Agnuak,pre-construction,165,,Ethiopian Electric Power (EEP) [100%],8.1937,35.1084,https://www.gem.wiki/Geba_2_hydroelectric_plant
+,HydroEnergy,Genale Dawa III hydroelectric plant,,Guji,operating,254,,Ethiopian Electric Power (EEP) [100%],5.5105,39.7182,https://www.gem.wiki/Genale_Dawa_III_hydroelectric_plant
+,HydroEnergy,Genale Dawa V hydroelectric plant,,,pre-construction,100,,Ethiopian Electric Power (EEP) [100%],5.5201,39.7738,https://www.gem.wiki/Genale_Dawa_V_hydroelectric_plant
+,HydroEnergy,Genale Dawa VI hydroelectric plant,,Bale,pre-construction,256,,Ethiopian Electric Power (EEP) [100%],5.5201,39.7738,https://www.gem.wiki/Genale_Dawa_VI_hydroelectric_plant
+,HydroEnergy,Gengi hydroelectric plant,,Illubabor,cancelled - inferred 4 y,200,,Ethiopian Electric Power (EEP) [100%],8.4671,35.4475,https://www.gem.wiki/Gengi_hydroelectric_plant
+,HydroEnergy,Gilgel Gibe I hydroelectric plant,,Jimma,operating,184,,Ethiopian Electric Power (EEP) [100%],7.8376,37.326,https://www.gem.wiki/Gilgel_Gibe_I_hydroelectric_plant
+,HydroEnergy,Gilgel Gibe II hydroelectric plant,,Hadiya,operating,420,,Ethiopian Electric Power (EEP) [100%],7.7567,37.5626,https://www.gem.wiki/Gilgel_Gibe_II_hydroelectric_plant
+,HydroEnergy,Gilgel Gibe III hydroelectric plant,,Dawro,operating,1870,,Ethiopian Electric Power (EEP) [100%],6.8482,37.3018,https://www.gem.wiki/Gilgel_Gibe_III_hydroelectric_plant
+,HydroEnergy,Gilgel Gibe V hydroelectric plant,,South Omo,cancelled - inferred 4 y,660,,Ethiopian Electric Power (EEP) [100%],6.3819,36.083,https://www.gem.wiki/Gilgel_Gibe_V_hydroelectric_plant
+,HydroEnergy,Gojeb hydroelectric plant,,Dawro,cancelled - inferred 4 y,153,,Ethiopian Electric Power (EEP) [100%],7.2166,36.9501,https://www.gem.wiki/Gojeb_hydroelectric_plant
+,HydroEnergy,Grand Ethiopian Renaissance hydroelectric plant,,Metekel,construction,5700,,Ethiopian Electric Power (EEP) [100%],11.2165,35.0936,https://www.gem.wiki/Grand_Ethiopian_Renaissance_hydroelectric_plant
+,HydroEnergy,Grand Ethiopian Renaissance hydroelectric plant,,Metekel,operating,750,,Ethiopian Electric Power (EEP) [100%],11.2165,35.0936,https://www.gem.wiki/Grand_Ethiopian_Renaissance_hydroelectric_plant
+,HydroEnergy,Halelle Werabesa I hydroelectric plant,,Guraghe,pre-construction,96,,Ethiopian Electric Power (EEP),8.0556,38.0633,https://www.gem.wiki/Halelle_Werabesa_I_hydroelectric_plant
+,HydroEnergy,Halelle Werabesa II hydroelectric plant,,Guraghe,pre-construction,326,,Ethiopian Electric Power (EEP) [100%],8.0556,38.0633,https://www.gem.wiki/Halelle_Werabesa_II_hydroelectric_plant
+,HydroEnergy,Karadobi hydroelectric plant,,West Shewa,shelved - inferred 2 y,1600,,Ethiopian Electric Power (EEP) [100%],9.0001,37.5001,https://www.gem.wiki/Karadobi_hydroelectric_plant
+,HydroEnergy,Koysha hydroelectric plant,,Gamo Gofa,construction,2160,,Ethiopian Electric Power (EEP) [100%],6.5743,36.5489,https://www.gem.wiki/Koysha_hydroelectric_plant
+,HydroEnergy,Melka Wakena hydroelectric plant,,West Arsi,operating,153,,Ethiopian Electric Power (EEP) [100%],7.225,39.4618,https://www.gem.wiki/Melka_Wakena_hydroelectric_plant
+,HydroEnergy,Mendya hydroelectric plant,,Oromia,cancelled - inferred 4 y,1700,,Ethiopian Electric Power (EEP) [100%],10.1089,35.4087,https://www.gem.wiki/Mendya_hydroelectric_plant
+,HydroEnergy,Tams hydroelectric plant,,,shelved - inferred 2 y,1060,,Ethiopian Electric Power (EEP) [100%],7.7709,35.4166,https://www.gem.wiki/Tams_hydroelectric_plant
+,HydroEnergy,Tekeze I hydroelectric plant,,Central Tigray,operating,300,,Ethiopian Electric Power (EEP) [100%],13.3493,38.7406,https://www.gem.wiki/Tekeze_I_hydroelectric_plant
+,HydroEnergy,Tekeze II hydroelectric plant,,North Western Tigray,cancelled - inferred 4 y,450,,Ethiopian Electric Power (EEP) [100%],13.7401,38.2001,https://www.gem.wiki/Tekeze_II_hydroelectric_plant
+,HydroEnergy,Tis Abay II hydroelectric plant,,West Gojjam,operating,73,,Ethiopian Electric Power (EEP),11.4888,37.5999,https://www.gem.wiki/Tis_Abay_II_hydroelectric_plant
+,Wind Energy,Adama wind farm,,East Shewa,operating,51,,Ethiopian Electric Power Corp,8.5449,39.2301,https://www.gem.wiki/Adama_wind_farm
+,Wind Energy,Adama wind farm,,East Shewa,operating,153,,Ethiopian Electric Power Corp,8.5449,39.2301,https://www.gem.wiki/Adama_wind_farm
+,Wind Energy,Adigala wind farm,,Siti,shelved - inferred 2 y,150,,Ethiopian Electric Power Corp,10.4416,42.2417,https://www.gem.wiki/Adigala_wind_farm
+,Wind Energy,Ashegoda wind farm,,Southern Tigray,operating,30,,Ethiopian Electric Power Corp,13.4255,39.5735,https://www.gem.wiki/Ashegoda_wind_farm
+,Wind Energy,Ashegoda wind farm,,Southern Tigray,operating,45,,Ethiopian Electric Power Corp,13.4255,39.5735,https://www.gem.wiki/Ashegoda_wind_farm
+,Wind Energy,Ashegoda wind farm,,Southern Tigray,operating,45,,Ethiopian Electric Power Corp,13.4255,39.5735,https://www.gem.wiki/Ashegoda_wind_farm
+,Wind Energy,Assela wind farm,,,construction,100,,Ethiopian Electric Power Corp,8.1726,39.2017,https://www.gem.wiki/Assela_wind_farm
+,Wind Energy,Assela wind farm,,Arsi,announced,150,,,8.1726,39.2017,https://www.gem.wiki/Assela_wind_farm
+,Wind Energy,Aysha wind farm,,,operating,120,,Ethiopian Electric Power Corp,10.6971,42.5919,https://www.gem.wiki/Aysha_wind_farm
+,Wind Energy,Aysha wind farm,,,operating,120,,Ethiopian Electric Power Corp,10.7538,42.5703,https://www.gem.wiki/Aysha_wind_farm
+,Wind Energy,Aysha wind farm,,,announced,152,,Ethiopian Electric Power Corp,10.7538,42.5703,https://www.gem.wiki/Aysha_wind_farm
+,Wind Energy,Aysha wind farm,,,announced,300,,,7.9508,43.5533,https://www.gem.wiki/Aysha_wind_farm
+,Wind Energy,Debre Berhan wind farm,,,cancelled - inferred 4 y,100,,Ethiopian Electric Power Corp,9.4253,39.3579,https://www.gem.wiki/Debre_Berhan_wind_farm
+,Wind Energy,Debre Berhan wind farm,,,cancelled - inferred 4 y,300,,Ethiopian Electric Power Corp,9.4253,39.3579,https://www.gem.wiki/Debre_Berhan_wind_farm
+,Wind Energy,Deday wind farm,,Zone 1,announced,134,,Ethiopian Electric Power Corp,11.9037,41.7765,https://www.gem.wiki/Deday_wind_farm
+,Wind Energy,Dire Dawa wind farm,,Siti,shelved - inferred 2 y,150,,Ethiopian Electric Power Corp,9.7603,41.7294,https://www.gem.wiki/Dire_Dawa_wind_farm
+,Wind Energy,Mesebo-Harena wind farm,,North Shewa (Oromia Region),cancelled - inferred 4 y,42,,,10.2117,38.6521,https://www.gem.wiki/Mesebo-Harena_wind_farm
+,Solar Energy,ACWA Dicheto solar farm,,Afar,cancelled,125,,ACWA Power Co,11.9041,41.5657,https://www.gem.wiki/ACWA_Dicheto_solar_farm
+,Solar Energy,ACWA Gad solar farm,,Somali,cancelled,125,,ACWA Power Co,9.5091,42.0393,https://www.gem.wiki/ACWA_Gad_solar_farm
+,Solar Energy,Ethiopia Roadmap (Masdar) solar farm,,,pre-construction,500,,Abu Dhabi Future Energy Co,8.8637,41.3561,https://www.gem.wiki/Ethiopia_Roadmap_(Masdar)_solar_farm
+,Solar Energy,Ethiopia Roadmap (Masdar) solar farm,,,announced,1500,,Abu Dhabi Future Energy Co,8.8637,41.3561,https://www.gem.wiki/Ethiopia_Roadmap_(Masdar)_solar_farm
+,Solar Energy,Gad 2 solar farm,,Somali Region,shelved - inferred 2 y,125,,,9.8652,41.8875,https://www.gem.wiki/Gad_2_solar_farm
+,Solar Energy,Humera solar farm,,Tigray,shelved,100,,,14.265,36.6189,https://www.gem.wiki/Humera_solar_farm
+,Solar Energy,Hurso solar farm,,Somali Region,shelved - inferred 2 y,125,,,9.6134,41.6375,https://www.gem.wiki/Hurso_solar_farm
+,Solar Energy,Masdar solar farm (Ethiopia),,Oromia Region,pre-construction,500,,Masdar Clean Energy,10.2117,38.6521,https://www.gem.wiki/Masdar_solar_farm_(Ethiopia)
+,Solar Energy,Mekele solar farm,,Tigray,shelved,100,,,13.5319,39.5908,https://www.gem.wiki/Mekele_solar_farm
+,Solar Energy,Metehara solar farm,,Oromia,pre-construction,100,,Orchid Business Group ; Enel Green Power SpA,8.8884,40.0138,https://www.gem.wiki/Metehara_solar_farm
+,Solar Energy,Metema solar farm,,Amhara Region,shelved,125,,,12.9548,36.1688,https://www.gem.wiki/Metema_solar_farm
+,Solar Energy,Tigray Effort solar farm,,Tigray,shelved - inferred 2 y,500,,Lotus Energy COOP,13.779,39.6002,https://www.gem.wiki/Tigray_Effort_solar_farm
+,Solar Energy,Weranso solar farm,,Afar Region,announced,150,,,11.3034,40.5337,https://www.gem.wiki/Weranso_solar_farm
+,Solar Energy,Wolenchiti solar farm,,Oromia Region,shelved - inferred 2 y,150,,,8.6605,39.4205,https://www.gem.wiki/Wolenchiti_solar_farm
+,Solar Energy,Hawassa solar project,,Hawassa,operating,1.2,,,7.1122,38.4048,https://www.gem.wiki/Hawassa_solar_project
+,,,,,,,,,,,
+Tanzania,Geothermal,Ngozi geothermal power plant,,Mbeya Region,construction,,,Tanzania Geothermal Development Company (TGDC) [100%],-9.2556,33.6434,https://www.gem.wiki/Ngozi_geothermal_power_plant
+,Geothermal,Ngozi geothermal power plant,,Mbeya Region,announced,,,Tanzania Geothermal Development Company (TGDC) [100%],-9.2556,33.6434,https://www.gem.wiki/Ngozi_geothermal_power_plant
+,Bioenergy,Mbeya Power Project,,Mbeya Region,announced,150,,Kibo Mining [100%],-8.9147128,33.4548536,https://www.gem.wiki/Mbeya_Power_Project
+,Bioenergy,Mbeya Power Project,,Mbeya Region,announced,150,,Kibo Mining [100%],-8.9147128,33.4548536,https://www.gem.wiki/Mbeya_Power_Project
+,Bioenergy,Mufindi Paper Mills power station,,Mufindi,cancelled - inferred 4 y,36,,Mufindi Paper Mills Ltd [100%],-8.7283,35.2911,https://www.gem.wiki/Mufindi_Paper_Mills_power_station
+,HydroEnergy,Julius Nyerere hydroelectric plant,,Rufiji,operating,2115,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-7.8032,37.8511,https://www.gem.wiki/Julius_Nyerere_hydroelectric_plant
+,HydroEnergy,Kakono hydroelectric plant,,Missenyi,pre-construction,88,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-1.0518,30.9332,https://www.gem.wiki/Kakono_hydroelectric_plant
+,HydroEnergy,Kidatu hydroelectric plant,,Kilosa,operating,200,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-7.6367,36.8866,https://www.gem.wiki/Kidatu_hydroelectric_plant
+,HydroEnergy,Kihansi hydroelectric plant,,Kilombero,operating,180,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-8.5751,35.8512,https://www.gem.wiki/Kihansi_hydroelectric_plant
+,HydroEnergy,Kikonge hydroelectric plant,,Ludewa,announced,300,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-10.2682,34.9856,https://www.gem.wiki/Kikonge_hydroelectric_plant
+,HydroEnergy,Malagarasi hydroelectric plant,,Uvinza,pre-construction,49,,Tanzania Electric Supply Company LTD (TANESCO),-5.1786,30.0636,https://www.gem.wiki/Malagarasi_hydroelectric_plant
+,HydroEnergy,Mpanga hydroelectric plant,,Kilombero,cancelled - inferred 4 y,160,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-8.7827,35.8084,https://www.gem.wiki/Mpanga_hydroelectric_plant
+,HydroEnergy,Mtera hydroelectric plant,,,operating,80,,Tanzania Electric Supply Company LTD (TANESCO) [100%],-7.1386,35.9888,https://www.gem.wiki/Mtera_hydroelectric_plant
+,HydroEnergy,Pangani Falls hydroelectric plant,,Muheza,operating,68,,Tanzania Electric Supply Company LTD (TANESCO),-5.3491,38.6503,https://www.gem.wiki/Pangani_Falls_hydroelectric_plant
+,HydroEnergy,Ruhudji hydroelectric plant,,Malinyi,pre-construction,358,,Government of Tanzania,-8.9328,35.9471,https://www.gem.wiki/Ruhudji_hydroelectric_plant
+,HydroEnergy,Rumakali hydroelectric plant,,Makete,pre-construction,222,,Tanzania Electric Supply Company LTD (TANESCO); China Gezhouba Group Co Ltd,-9.4231,34.1018,https://www.gem.wiki/Rumakali_hydroelectric_plant
+,HydroEnergy,Rusumo hydroelectric plant,,,operating,40,,Government of Tanzania [30%]; Government of Burundi [33%]; Government of Rwanda [33%],-2.3823,30.7832,https://www.gem.wiki/Rusumo_hydroelectric_plant
+,Wind Energy,Arusha wind farm,,Arusha,announced,50,,,-3.3971,36.6916,https://www.gem.wiki/Arusha_wind_farm
+,Wind Energy,Arusha wind farm,,Arusha,announced,50,,,-3.3971,36.6916,https://www.gem.wiki/Arusha_wind_farm
+,Wind Energy,Dodoma wind farm,,Dodoma,announced,50,,,-6.1596,35.7292,https://www.gem.wiki/Dodoma_wind_farm
+,Wind Energy,Dodoma wind farm,,Dodoma,announced,50,,,-6.1596,35.7292,https://www.gem.wiki/Dodoma_wind_farm
+,Wind Energy,Iringa wind farm,,Iringa,announced,40,,,-7.7637,35.6913,https://www.gem.wiki/Iringa_wind_farm
+,Wind Energy,Iringa wind farm,,Iringa,announced,40,,,-7.7637,35.6913,https://www.gem.wiki/Iringa_wind_farm
+,Wind Energy,Iringa wind farm,,Iringa,announced,40,,,-7.7637,35.6913,https://www.gem.wiki/Iringa_wind_farm
+,Wind Energy,Makambako (Norsk Vind As) wind farm,,Makambako,shelved,100,,Norsk Vind AS,-8.8453,34.823,https://www.gem.wiki/Makambako_(Norsk_Vind_As)_wind_farm
+,Wind Energy,Miombo Hewani wind farm,,Makambako,cancelled - inferred 4 y,100,,Eurus Energy ; Windlab Pty Ltd,-8.631,34.8109,https://www.gem.wiki/Miombo_Hewani_wind_farm
+,Wind Energy,Miombo Hewani wind farm,,Makambako,cancelled - inferred 4 y,200,,Eurus Energy ; Windlab Pty Ltd,-8.631,34.8109,https://www.gem.wiki/Miombo_Hewani_wind_farm
+,Wind Energy,Njombe I wind farm,,Njombe,cancelled - inferred 4 y,100,,,-9.3352,34.7684,https://www.gem.wiki/Njombe_I_wind_farm
+,Wind Energy,Njombe Ii wind farm,,Njombe,cancelled - inferred 4 y,200,,,-9.3352,34.7684,https://www.gem.wiki/Njombe_Ii_wind_farm
+,Wind Energy,Singida (Wind East Africa) wind farm,,Singida,shelved,100,,Wind East Africa,-4.8405,34.7559,https://www.gem.wiki/Singida_(Wind_East_Africa)_wind_farm
+,Wind Energy,Singida Ii wind farm,,,announced,100,,,-4.8405,34.7559,https://www.gem.wiki/Singida_Ii_wind_farm
+,Wind Energy,Singida Iii wind farm,,,announced,200,,,-4.8405,34.7559,https://www.gem.wiki/Singida_Iii_wind_farm
+,Wind Energy,Vr Holding Tanzania wind farm,,,shelved - inferred 2 y,50,,VR Holding AB,-7.2045,39.5397,https://www.gem.wiki/Vr_Holding_Tanzania_wind_farm
+,Wind Energy,Zanzibar (Aseel Oilfield Services) wind farm,,Bambi,announced,200,,Aseel Oilfield Services Limited,-6.0734,39.3698,https://www.gem.wiki/Zanzibar_(Aseel_Oilfield_Services)_wind_farm
+,Wind Energy,Zanzibar (Pougex Energy Proprietary) wind farm,,,announced,100,,Pougex Energy Proprietary LTD.,-5.2034,39.872,https://www.gem.wiki/Zanzibar_(Pougex_Energy_Proprietary)_wind_farm
+,Wind Energy,Zanzibar (Pougex Energy Proprietary) wind farm,,,announced,50,,Pougex Energy Proprietary LTD.,-5.2034,39.872,https://www.gem.wiki/Zanzibar_(Pougex_Energy_Proprietary)_wind_farm
+,Wind Energy,Zanzibar (Pougex Energy Proprietary) wind farm,,,announced,50,,Pougex Energy Proprietary LTD.,-6.0166,39.4428,https://www.gem.wiki/Zanzibar_(Pougex_Energy_Proprietary)_wind_farm
+,Wind Energy,Zanzibar (Pougex Energy Proprietary) wind farm,,,announced,250,,Pougex Energy Proprietary LTD.,-6.0166,39.4428,https://www.gem.wiki/Zanzibar_(Pougex_Energy_Proprietary)_wind_farm
+,Solar Energy,Kigoma Region solar project,,Kigoma Region,operating,4.8,,,-4.8987,29.6877,https://www.gem.wiki/Kigoma_Region_solar_project
+,Solar Energy,Mgandu solar project,,Singida Region,operating,4.1,,,-5.8425,34.4836,https://www.gem.wiki/Mgandu_solar_project
+,Solar Energy,Dodoma solar farm,,Dodoma,announced,128,,,-6.1398,35.7196,https://www.gem.wiki/Dodoma_solar_farm
+,Solar Energy,Dodoma solar farm,,Dodoma,announced,128,,,-6.1398,35.7196,https://www.gem.wiki/Dodoma_solar_farm
+,Solar Energy,Iringa solar farm,,Iringa,announced,95,,,-7.7637,35.694,https://www.gem.wiki/Iringa_solar_farm
+,Solar Energy,Iringa solar farm,,Iringa,announced,95,,,-7.7637,35.694,https://www.gem.wiki/Iringa_solar_farm
+,Solar Energy,Kishapu solar farm,,Kishapy,operating,50,,Tanzania Electric Supply Co Ltd,-6.5247,35.7878,https://www.gem.wiki/Kishapu_solar_farm
+,Solar Energy,Kishapu solar farm,,Kishapy,operating,100,,Tanzania Electric Supply Co Ltd,-6.5247,35.7878,https://www.gem.wiki/Kishapu_solar_farm
+,Solar Energy,Morogoro solar farm,,Morogoro,announced,175,,,-6.7783,37.6329,https://www.gem.wiki/Morogoro_solar_farm
+,Solar Energy,Morogoro solar farm,,Morogoro,announced,175,,,-6.7783,37.6329,https://www.gem.wiki/Morogoro_solar_farm
+,Solar Energy,Morogoro solar farm,,Morogoro,announced,175,,,-6.7783,37.6329,https://www.gem.wiki/Morogoro_solar_farm
+,Solar Energy,Shinyanga solar farm,,Shinyanga,construction,60,,NextGen Solawazi,-6.5247,35.7878,https://www.gem.wiki/Shinyanga_solar_farm
+,Solar Energy,Singida solar farm,,Singida,announced,58.5,,,-4.8152,34.7613,https://www.gem.wiki/Singida_solar_farm
+,Solar Energy,Singida solar farm,,Singida,announced,58.5,,,-4.8152,34.7613,https://www.gem.wiki/Singida_solar_farm
+,Solar Energy,Singida solar farm,,Singida,announced,58.5,,,-4.8152,34.7613,https://www.gem.wiki/Singida_solar_farm
+,Solar Energy,Singida solar farm,,Singida,announced,58.5,,,-4.8152,34.7613,https://www.gem.wiki/Singida_solar_farm
+,Solar Energy,Tanzania solar farm,,,announced,600,,Tanzania Electric Supply Co Ltd; Abu Dhabi Future Energy Co,-5.7826,33.9328,https://www.gem.wiki/Tanzania_solar_farm
+,Solar Energy,Zanzibar Clean and Renewable Energy Park Project solar farm,,Unguja Island,pre-construction,42.5,,Astra Energy Inc,-6.0767,39.3535,https://www.gem.wiki/Zanzibar_Clean_and_Renewable_Energy_Park_Project_solar_farm
+,Solar Energy,Zanzibar solar farm,,Bambi,pre-construction,30,,,-6.0759,39.3815,https://www.gem.wiki/Zanzibar_solar_farm
+,Solar Energy,Zanzibar solar farm,,Bambi,announced,150,,,-6.0759,39.3815,https://www.gem.wiki/Zanzibar_solar_farm
+,,,,,,,,,,,
+Malawi,Bioenergy,Blantyre Waste to Energy power station,,Limbe,shelved - inferred 2 y,50,,Afro Renewable Energy Group [100%],-15.7755,35.0402,https://www.gem.wiki/Blantyre_Waste_to_Energy_power_station
+,HydroEnergy,Fufu hydroelectric plant,,,announced,261,,Electricity Supply Corporation of Malawi Ltd,-10.7466,34.1533,https://www.gem.wiki/Fufu_hydroelectric_plant
+,HydroEnergy,Kapichira hydroelectric plant,,Chikwawa,operating,130,,Electricity Generation Co (Malawi) Ltd [100%],-15.8954,34.7531,https://www.gem.wiki/Kapichira_hydroelectric_plant
+,HydroEnergy,Kholombidzo hydroelectric plant,,Neno,pre-construction,210,,Electricity Generation Co (Malawi) Ltd,-15.3947,34.8942,https://www.gem.wiki/Kholombidzo_hydroelectric_plant
+,HydroEnergy,Mpatamanga Gorge hydroelectric plant,,Neno,pre-construction,358,,Electricity Generation Co (Malawi) Ltd [30%]; Scatec ASA [14%]; unknown [1%]; British International Investment PLC [13%]; Norwegian Norfund [13%]; EDF Energy Ltd [27%],-15.7172,34.7264,https://www.gem.wiki/Mpatamanga_Gorge_hydroelectric_plant
+,HydroEnergy,Nkula B hydroelectric plant,,Neno,operating,100,,Electricity Generation Co (Malawi) Ltd [100%],-15.5269,34.8192,https://www.gem.wiki/Nkula_B_hydroelectric_plant
+,HydroEnergy,Songwe hydroelectric plant,,Chitipa,pre-construction,90,,ZESCO Ltd [50%]; Tanzania Electric Supply Company LTD (TANESCO) [50%],-9.4975,33.1841,https://www.gem.wiki/Songwe_hydroelectric_plant
+,HydroEnergy,Tedzani Falls hydroelectric plant,,Neno,operating,121,,Electricity Generation Co (Malawi) Ltd [100%],-15.5598,34.7765,https://www.gem.wiki/Tedzani_Falls_hydroelectric_plant
+,Wind Energy,Mzimba (Nthundwa Village) wind farm,,Nthundwa Village,announced,150,,Cresco; Hafnia Wind; Wind & Solar,-11.8934,33.5888,https://www.gem.wiki/Mzimba_(Nthundwa_Village)_wind_farm
+,Wind Energy,Mzimba wind farm,,Chipumulo,pre-construction,50,,Frontier Energy II; Droege Energy,-11.8988,33.5843,https://www.gem.wiki/Mzimba_wind_farm
+,Solar Energy,Bwengu solar farm,,Ulalo Nyirenda,construction,50,,Quantel Renewable Energy; Frontier Energy; Vidullanka PLC,-11.8988,33.5843,https://www.gem.wiki/Bwengu_solar_farm
+,Solar Energy,Dwangwa solar farm,,Dwanga lake,announced,55,,Voltalia SA,-12.3811,34.0694,https://www.gem.wiki/Dwangwa_solar_farm
+,Solar Energy,Golomoti solar farm,,Golomoti,operating,20,,InfraCo Africa; JCM Power,-14.4399,34.5994,https://www.gem.wiki/Golomoti_solar_farm
+,Solar Energy,Malawi (Elsewedy) solar farm,,,pre-construction,50,,Elsewedy Electric,-13.1904,34.1055,https://www.gem.wiki/Malawi_(Elsewedy)_solar_farm
+,Solar Energy,Malawi (Elsewedy) solar farm,,,announced,50,,Elsewedy Electric,-13.1904,34.1055,https://www.gem.wiki/Malawi_(Elsewedy)_solar_farm
+,Solar Energy,Monkey Bay solar farm,,Monkey Bay,cancelled,20,,Droege Energy,-14.482,35.2651,https://www.gem.wiki/Monkey_Bay_solar_farm
+,Solar Energy,Nkhoma Deka solar farm,,Nkhoma,pre-construction,50,,Renewable Energy Services Africa (RESA); Solarcentury Africa (SOCA),-14.0423,34.1051,https://www.gem.wiki/Nkhoma_Deka_solar_farm
+,Solar Energy,Nkhotakota solar farm,,Nkhotakota,operating,21,,responsAbility Renewable Energy Holding (rAREH); Phanes Group,-12.968,34.255,https://www.gem.wiki/Nkhotakota_solar_farm
+,Solar Energy,Salima solar farm,,Kanzimbe,operating,60,,Matswani; InfraCo Africa; JCM Power,-13.7135,34.3269,https://www.gem.wiki/Salima_solar_farm
+,Solar Energy,Walkers Ferry solar farm,,Walkers Ferry,pre-construction,30,,Blantyre Water Board,-15.5283,34.8324,https://www.gem.wiki/Walkers_Ferry_solar_farm
+,Solar Energy,Lilongwe solar project,,,operating,1.1,,,-13.7787,33.7817,https://www.gem.wiki/Lilongwe_solar_project
+,Solar Energy,Nanjoka (Malawi) solar farm,,Nanjoka,construction,10,,Electricity Generation Company (Malawi) Ltd,-13.821,34.372,https://www.gem.wiki/Nanjoka_(Malawi)_solar_farm
+,Solar Energy,Nanjoka (Malawi) solar farm,,Nanjoka,pre-construction,10,,Electricity Generation Company (Malawi) Ltd,-13.821,34.372,https://www.gem.wiki/Nanjoka_(Malawi)_solar_farm
+,,,,,,,,,,,
+Eswatini,Bioenergy,Simunye Sugar Cogeneration power station,,Lubombo,operating,30,,Royal Eswatini Sugar Corp Ltd [100%],-26.1766,31.9079,https://www.gem.wiki/Simunye_Sugar_Cogeneration_power_station
+,Bioenergy,Ubombo Sugar Mill power station,,Lubombo,operating,40,,Ubombo Sugar Ltd [100%],-26.7756,31.9386,https://www.gem.wiki/Ubombo_Sugar_Mill_power_station
+,Bioenergy,Usutu power station,,Manzini Region,shelved - inferred 2 y,35,,Montigny [100%],-26.5317,31.0081,https://www.gem.wiki/Usutu_power_station
+,HydroEnergy,Ngwempisi River hydroelectric plant,,Manzini Region,announced,120,,Eswatini Electricity Co,-26.6914,31.1719,https://www.gem.wiki/Ngwempisi_River_hydroelectric_plant
+,Solar Energy,Edwaleni solar farm,,Edwaleni,pre-construction,100,,Frazium Energy Pty Ltd,-26.5272,31.1882,https://www.gem.wiki/Edwaleni_solar_farm
+,Solar Energy,Eswatini solar farms,,,pre-construction,25,,,-26.4083,31.5499,https://www.gem.wiki/Eswatini_solar_farms
+,Solar Energy,Ngwenya (Africa Clean Energy Development) solar farm,,Ngwenya,pre-construction,20,,Africa Clean Energy Development,-26.2251,31.0207,https://www.gem.wiki/Ngwenya_(Africa_Clean_Energy_Development)_solar_farm
+,Solar Energy,Balekane solar farm,,,pre-construction,15,,Globeleq Generation Ltd,-26.0274,31.5047,https://www.gem.wiki/Balekane_solar_farm
+,Solar Energy,Inkhundla Siphofaneni solar project,,Lubombo,operating,2.3,,,-26.7353,31.7662,https://www.gem.wiki/Inkhundla_Siphofaneni_solar_project
+,Solar Energy,Lavumisa solar farm,,,operating,10,,Eswatini Electricity Company,-27.1138,31.7246,https://www.gem.wiki/Lavumisa_solar_farm
+,Solar Energy,Manzini Inkhundla Manzini solar project,,Manzini Region,operating,1.1,,,-26.5012,31.3617,https://www.gem.wiki/Manzini_Inkhundla_Manzini_solar_project
+,Solar Energy,Ngwenya (Globeleq) solar farm,,,pre-construction,15,,Globeleq Generation Ltd,-26.226,31.0215,https://www.gem.wiki/Ngwenya_(Globeleq)_solar_farm
+,,,,,,,,,,,
+Niger,HydroEnergy,Kandadji hydroelectric plant,,Tillabéri,mothballed,130,,,14.6758,0.936,https://www.gem.wiki/Kandadji_hydroelectric_plant
+,Wind Energy,Tarka wind farm,,Tahoua Region,announced,250,,,14.9531,5.0184,https://www.gem.wiki/Tarka_wind_farm
+,Solar Energy,Gorou Banda solar farm,,Gorou Banda,operating,30,,Sogecom; Akuo Energy,13.428,2.133,https://www.gem.wiki/Gorou_Banda_solar_farm
+,Solar Energy,Guéssélbodi solar farm,,Guéssélbodi,shelved - inferred 2 y,30,,,14.206,1.4529,https://www.gem.wiki/Guéssélbodi_solar_farm
+,Solar Energy,Maradi (Savannah Energy) solar farm,,Maradi,announced,100,,Savannah Energy PLC,13.4947,7.0945,https://www.gem.wiki/Maradi_(Savannah_Energy)_solar_farm
+,Solar Energy,Maradi solar farm,,,announced,20,,,13.5236,7.1681,https://www.gem.wiki/Maradi_solar_farm
+,Solar Energy,Niger (NTPC) solar farm,,,announced,50,,NTPC Ltd,16.808,9.9986,https://www.gem.wiki/Niger_(NTPC)_solar_farm
+,Solar Energy,Zinder solar farm,,Zinder,announced,100,,Savannah Energy PLC,13.8086,8.9827,https://www.gem.wiki/Zinder_solar_farm
+,Solar Energy,Bilma solar project,,Bilma,operating,2.3,,,18.9993,12.8835,https://www.gem.wiki/Bilma_solar_project
+,Solar Energy,Diffa solar farm,,,announced,10,,,13.7396,12.624,https://www.gem.wiki/Diffa_solar_farm
+,Solar Energy,Dogondoutchi solar project,,Dogondoutchi,operating,2,,,13.2408,4.0966,https://www.gem.wiki/Dogondoutchi_solar_project
+,Solar Energy,Dosso solar plant,,,pre-construction,10,,,13.0485,3.2014,https://www.gem.wiki/Dosso_solar_plant
+,Solar Energy,Kéita solar project,,Kéita,operating,2.5,,,15.0545,5.7637,https://www.gem.wiki/Kéita_solar_project
+,Solar Energy,Malbaza solar project,,,operating,6,,,13.9551,5.5106,https://www.gem.wiki/Malbaza_solar_project
+,,,,,,,,,,,
+Liberia,HydroEnergy,Mount Coffee hydroelectric plant,,Careysburg,operating,88,,Liberia Electricity CORP (LEC) [100%],6.5064,-10.6503,https://www.gem.wiki/Mount_Coffee_hydroelectric_plant
+,HydroEnergy,St John River hydroelectric plant,,Grand Bassa,pre-construction,120,,,6.499,-9.5016,https://www.gem.wiki/St_John_River_hydroelectric_plant
+,Solar Energy,Liberia (SCATEC) solar farm,,,announced,20,,Scatec ASA,6.6442,-9.3248,https://www.gem.wiki/Liberia_(SCATEC)_solar_farm
+,Solar Energy,Mount Coffee solar farm,,Montserrado County,construction,20,,Gigawatt Global,6.4745,-10.6482,https://www.gem.wiki/Mount_Coffee_solar_farm
+,Solar Energy,Mount Coffee solar farm,,Montserrado County,announced,40,,,6.4745,-10.6482,https://www.gem.wiki/Mount_Coffee_solar_farm
+,Solar Energy,Roberts International Airport solar farm,,Monrovia,announced,15,,,6.2394,-10.3589,https://www.gem.wiki/Roberts_International_Airport_solar_farm
+,,,,,,,,,,,
+Comoros,Solar Energy,Anjouan solar project,,,operating,2.6,,,-12.2794,44.4039,https://www.gem.wiki/Anjouan_solar_project
+,Solar Energy,Union of Comoros solar farm,,Anjouan,shelved - inferred 2 y,2.5,,TUGLIQ Energy,-12.2313,44.4482,https://www.gem.wiki/Union_of_Comoros_solar_farm
+,Solar Energy,Union of Comoros solar farm,,Anjouan,shelved - inferred 2 y,2,,TUGLIQ Energy,-12.2313,44.4482,https://www.gem.wiki/Union_of_Comoros_solar_farm
+,Solar Energy,Union of Comoros solar farm,,Ngazidja,shelved - inferred 2 y,2.8,,TUGLIQ Energy,-11.7048,43.3292,https://www.gem.wiki/Union_of_Comoros_solar_farm
+,Solar Energy,Union of Comoros solar farm,,Ngazidja,shelved - inferred 2 y,2.8,,TUGLIQ Energy,-11.7048,43.3292,https://www.gem.wiki/Union_of_Comoros_solar_farm
+,,,,,,,,,,,
+Mali,Bioenergy,Bamako Waste to Energy power station,,Bamako,shelved - inferred 2 y,40,,,12.599,-8.001,https://www.gem.wiki/Bamako_Waste_to_Energy_power_station
+,HydroEnergy,Felou hydroelectric plant,,Kayes,operating,62,,Organisation pour la mise en valeur du fleuve Sénégal,14.3582,-11.3492,https://www.gem.wiki/Felou_hydroelectric_plant
+,HydroEnergy,Gouina hydroelectric plant,,Kayes,operating,140,,Organisation pour la mise en valeur du fleuve Sénégal [100%],14.013,-11.099,https://www.gem.wiki/Gouina_hydroelectric_plant
+,HydroEnergy,Manantali hydroelectric plant,,Kayes,operating,200,,,13.1955,-10.4292,https://www.gem.wiki/Manantali_hydroelectric_plant
+,HydroEnergy,Selingue hydroelectric plant,,Sikasso Region,operating,48,,Energie du Mali,11.6384,-8.2293,https://www.gem.wiki/Selingue_hydroelectric_plant
+,Wind Energy,Kayes Botéguékourou wind farm,,Kayes,pre-construction,151.2,,Rencore,14.4378,-11.4588,https://www.gem.wiki/Kayes_Botéguékourou_wind_farm
+,Solar Energy ,Akuo Kita solar farm,,Kita,operating,50,Akuo Kita Solar,Akuo Energy,13.0287,-9.5178,https://www.gem.wiki/Akuo_Kita_solar_farm
+,Solar Energy ,Amea Kati solar farm,,Tiakadougou-Dialakoro,pre-construction,50,AMEA Power,AMEA Power,11.7141,-8.1615,https://www.gem.wiki/Amea_Kati_solar_farm
+,Solar Energy ,Amea Kati solar farm,,Tiakadougou-Dialakoro,announced,50,,,11.7141,-8.1615,https://www.gem.wiki/Amea_Kati_solar_farm
+,Solar Energy ,Bougouni solar park,,Bougouni,announced,100,,NovaWind,11.4125,-7.4677,https://www.gem.wiki/Bougouni_solar_park
+,Solar Energy ,Diéma solar farm,,Diéma,shelved - inferred 2 y,100,Pal 4 Énergie Solaire,Mali Ministry of Energy and Water,14.5418,-9.1913,https://www.gem.wiki/Diéma_solar_farm
+,Solar Energy ,Fana solar farm,,Bamako,announced,50,Legendre Energie,Legendre Energie,12.6122,-7.9962,https://www.gem.wiki/Fana_solar_farm
+,Solar Energy ,Fekola Gold Mine solar farm,,,operating,30,B2Gold,BayWa R.E. AG; Suntrace,13.078,-11.395,https://www.gem.wiki/Fekola_Gold_Mine_solar_farm
+,Solar Energy ,Kourouba Solar Park,,,announced,33,,,12.0112,-8.2877,https://www.gem.wiki/Kourouba_Solar_Park
+,Solar Energy ,Loulo-Gounkoto complex solar farm,,,operating,20,,Barrick Gold Corp,12.8244,-11.1987,https://www.gem.wiki/Loulo-Gounkoto_complex_solar_farm
+,Solar Energy ,Loulo-Gounkoto complex solar farm,,,operating,40,,Barrick Gold Corp,12.8244,-11.1987,https://www.gem.wiki/Loulo-Gounkoto_complex_solar_farm
+,Solar Energy ,NTPC solar farm,,,announced,500,,,16.6762,-1.8602,https://www.gem.wiki/NTPC_solar_farm
+,Solar Energy ,Orange Kati solar farm,,,shelved - inferred 2 y,25,,Energie du Mali; Orange Mali,12.7556,-8.073,https://www.gem.wiki/Orange_Kati_solar_farm
+,Solar Energy ,Safo solar power plant,,Safo,construction,100,,,12.765,-7.927,https://www.gem.wiki/Safo_solar_power_plant
+,Solar Energy ,Sanankoroba 140MW solar farm,,Sanankoroba,announced,160,,NovaWind,12.4071,-7.9404,https://www.gem.wiki/Sanankoroba_140MW_solar_farm
+,Solar Energy ,Sanankoroba 200MW solar farm,,Sanankoroba,construction,200,,NovaWind,12.4024,-7.9457,https://www.gem.wiki/Sanankoroba_200MW_solar_farm
+,Solar Energy ,Segou solar farm,,Pélengana,pre-construction,33,Scatec,IFC InfraVentures; Scatec ASA; Africa Power,13.4187,-6.2176,https://www.gem.wiki/Segou_solar_farm
+,Solar Energy ,Sikasso solar farm,,Sikasso,shelved - inferred 2 y,30,PowerPro,PowerPro,11.3162,-5.6622,https://www.gem.wiki/Sikasso_solar_farm
+,Solar Energy ,Sikasso solar farm,,,shelved - inferred 2 y,20,PowerPro,PowerPro,11.3162,-5.6622,https://www.gem.wiki/Sikasso_solar_farm
+,Solar Energy ,Syama Hybrid solar farm,,,cancelled - inferred 4 y,20,Aggreko,Resolute Mining,10.7938,-6.0699,https://www.gem.wiki/Syama_Hybrid_solar_farm
+,Solar Energy ,Touna solar farm,,Touna,shelved - inferred 2 y,93,,Phanes Energy Mali-SA,13.1159,-5.8328,https://www.gem.wiki/Touna_solar_farm
+,Solar Energy ,Ansongo Ansongo Cercle solar project,,Gao,operating,1.3,,,15.6498,0.5051,https://www.gem.wiki/Ansongo_Ansongo_Cercle_solar_project
+,Solar Energy ,Kéniéba solar project,,Kayes,operating,1.1,,,12.8713,-11.2303,https://www.gem.wiki/Kéniéba_solar_project
+,Solar Energy ,Nara Nara Cercle solar project,,Koulikoro,operating,1.2,,,15.1677,-7.3078,https://www.gem.wiki/Nara_Nara_Cercle_solar_project
+,,,,,,,,,,,
+Equatorial Guinea,HydroEnergy,Djibloho hydroelectric plant,,Centro Sur,operating,120,,Ministry of Mines Industry and Energy [100%],1.6332,10.5906,https://www.gem.wiki/Djibloho_hydroelectric_plant
+,HydroEnergy,Sendje hydroelectric plant,,Litoral Province,construction,200,,Government of Equatorial Guinea,1.5924,9.7586,https://www.gem.wiki/Sendje_hydroelectric_plant
+,,,,,,,,,,,
+,,,,,,,,,,,
+Angola,Solar,Caraculo PV Plant,,Namibe Province,Operational (Phase 1),25 (Phase 1) / 50 (Planned Total),Solenova,Azule Energy & Sonango,-15.05,12.08,"https://www.azule-energy.com/en/energy-portfolio/,"
+,Solar,Luena Solar Power Plant,,"Luena, Moxico Province",Operational,25.3,Prodel,"Ministry of energy and water,Angola",-11.7833,20.7833,https://www.aler-renovaveis.org/en/countries/
+,Solar,Saurimo PV Plant,,Lunda-Sul,Operational,26.13,Prodel,Angola's government solar program,-9.66,20.39,https://www.aler-renovaveis.org/en/countries/
+,Hydropower,Luachimo Dam (Expansion),,Lunda-Norte,Technically Ready,34 (after expansion),ENE,Angola's government,-7.36306,20.84333,"https://www.aler-renovaveis.org/en/countries/,"
+,Wind,Nharea Wind Farm,,Bié,Announced,36,n/a,Angola's government,-12.5,16.00,"https://www.power-technology.com/marketdata/nharea-wind-farm-angola/,"
+,,,,,,,,,,,
+Zimbabwe,Coal,Hwange Thermal Power Station,,Hwange,Operational,"1,520",Zimbabwe Power Company,Zimbabwe Power Company,-18.383,26.483,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Hydro,Kariba South Power Station,,Kariba,Operational,"1,050",Zimbabwe Power Company,Zimbabwe Power Company,-16.519,28.765,"https://openinframap.org/stats/area/Zimbabwe/plants ,"
+,Coal,Munyati Power Station,,Munyati,Operational,120,Zimbabwe Power Company,Zimbabwe Power Company,-18.458,29.283,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Coal,Bulawayo Power Station,,Bulawayo,Operational,90,Zimbabwe Power Company,Zimbabwe Power Company,-20.145,28.587,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Coal,Harare Thermal Power Station,,Harare,Operational,50,Zimbabwe Power Company,Zimbabwe Power Company,-17.829,31.052,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Coal,ZhongXin Power Station,,Harare,Operational,50,Zimbabwe Zhongxin Electrical Energy,Zimbabwe Zhongxin Electrical Energy,-17.829,31.052,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Selous Solar Plant,,Selous,Operational,35,Zimplats,Zimplats,-17.633,30.383,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Nyabira Solar Plant,,Nyabira,Operational,25,Centragrid,Centragrid,-17.716,30.883,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Blanket Mine Solar Farm,,Gwanda,Operational,12,Caledonia Mining Corporation,Caledonia Mining Corporation,-20.933,29.017,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Cross Mabale Solar Plant,,Hwange District,Operational,7.5,Solgas Energy,Solgas Energy,-18.383,26.483,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Harava Solar Plant Phase 1,,Seke,Operational,6,Harava Solar,Harava Solar,-17.966,31.083,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Solar,Victoria Falls Solar Plant - Phase 1,,Victoria Falls,Operational,5,Power Ventures (Southern Energy),Power Ventures (Southern Energy),-17.931,25.83,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Hydro,Pungwe B Hydroelectric Power Station,,Manicaland,Operational,15,Nyangani Renewable Energy (Pty) Ltd,Nyangani Renewable Energy (Pty) Ltd,-18.983,32.667,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Hydro,Pungwe C Hydroelectric Power Station,,Manicaland,Operational,4.3,Nyangani Renewable Energy (Pty) Ltd,Nyangani Renewable Energy (Pty) Ltd,-18.983,32.667,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Hydro,Hauna Hydroelectric Power Station,,"Hauna, Manicaland",Operational,2.3,Nyangani Renewable Energy,Nyangani Renewable Energy,-18.983,32.667,"https://openinframap.org/stats/area/Zimbabwe/plants,"
+,Wind,Plumtree Wind Farm (planned),,"Plumtree, Matabeleland South",Planned,200,Optate Africa (with GE),Optate Africa,-20.483,27.817,"https://www.power-technology.com/news/optate-africa-to-build-200-mw-wind-farm-in-zimbabwe/,"
+,,,,,,,,,,,
+Botswana,Solar PV,Lesedi Solar Power Plant,,Lobatse,Operational,50,Scatec ASA,Scatec ASA,-24.3900,26.6200,"https://www.pvknowhow.com/news/botswana-solar-energy-renewable-shift/,"
+,Coal,Morupule B Power Station,,Palapye,Operational,~600,Botswana Power Corporation,Botswana Power Corporation,-22.522329,27.048833,"https://africa-energy-portal.org/aep/country/botswana,"
+,Coal,Morupule A Power Station,,Palapye,Operational (needs refurbishment),~132,Botswana Power Corporation,Botswana Power Corporation,-22.520000,27.036667,"https://www.wavespartnership.org/sites/waves/files/kc/Botswana%20Energy%20Accounts%20Technical%20Report_final.pdf,"
+,Solar PV,Phakalane PV Plant,,Gaborone,Operational,1.3,Botswana Power Corporation,Botswana Power Corporation,-24.5530,25.9370,"https://asrjetsjournal.org/index.php/American_Scientific_Journal/article/view/9740,"
+,,,,,,,,,,,
+Zambia,Hydropower,Kafue Gorge Lower Hydropower,,Kafue Gorge,Operational,750,ZESCO,Government,-15.883,28.1,"https://www.erb.org.zm/wp-content/uploads/files/esr2023.pdf,"
+,Hydropower,Kariba North Bank Power Station,,Kariba,Operational,720,ZESCO,Government,-16.516,28.765,"https://www.zda.org.zm/wp-content/uploads/2024/09/ZDA-Energy-Sector-Profile-2024.pdf,"
+,Hydropower,Kariba South Bank Power Station,,Kariba,Operational,600,ZESCO,Government,-16.516,28.765,"https://www.zda.org.zm/wp-content/uploads/2024/09/ZDA-Energy-Sector-Profile-2024.pdf,"
+,Solar PV,Copperbelt Energy Corporation (CEC) Solar Plant,,Copperbelt Province,Operational,34,CEC,Private,-12.80722,28.23639,"https://www.erb.org.zm/wp-content/uploads/files/esr2023.pdf,"
+,Hydro,Lusiwasi Upper Hydro Plant,,Lusiwasi,Operational (partial),15,ZESCO,Government,15.25,28.75,"https://www.erb.org.zm/wp-content/uploads/files/esr2023.pdf,"
+,Coal,Maamba Collieries Power Plant,,Maamba,Operational,300,Maamba Collieries,Private,-17.8,26.6,"https://www.zda.org.zm/wp-content/uploads/2024/09/ZDA-Energy-Sector-Profile-2024.pdf,"
+,Solar PV,Various Small-Scale Solar Plants,,Nationwide,Operational,~89,Various,Various,varies,varies,"https://www.giz.de/de/downloads/giz2024-en-sector-analysis-zambia-re-and-energy-storage-for-ci.pdf,"
+,,,,,,,,,,,
+DRC,Hydroelectric,Inga II Power Station,,Congo River,Operational,"1,424",SNEL (Société Nationale d'Électricité),,5.52889°S,13.62056°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Inga I Power Station,,Congo River,Operational,351,SNEL,,5.51694°S,(13.62194°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Nseke Hydroelectric Power Station,,Lualaba River,Operational,260,SNEL,,10.30417°S,25.40667°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Ruzizi II Power Station,,Ruzizi River,Operational,45,SNEL / Regional Partners,,2.85,29.15,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Ruzizi I Power Station,,Ruzizi River,Operational,40,SNEL / Regional Partners,,2.90,29.10,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Rutshuru Hydroelectric Power Station,,Rutshuru,Operational,13.8,SNEL,,1.22583°S,29.46000°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Mutwanga Hydroelectric Power Station,,Mutwanga,Operational,9.4,SNEL,,0.34000°N,29.76000°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Nzilo Hydroelectric Power Station,,Congo River,Operational,100,SNEL,,10.49972°S,25.46250°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo ,"
+,Hydroelectric,Mwadingusha Hydroelectric Power Station,,Lufira River,Operational,71,SNEL,,10.74500°S,27.24472°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Hydroelectric,Zongo II Hydroelectric Power Station,,Inkisi River,Operational,150,SNEL,,4.78250°S,14.90611°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Solar,Green Giant Solar Power Station,,Kwango,Planned (2030),"1,000",SkyPower Global,,4.78861°S,16.66778°E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,Solar,Kisangani Solar Power Station,,Tshopo Province,Operational ,40,Tshopo Provincial Administration,,0.54556° N,25.12361° E,"https://en.wikipedia.org/wiki/List_of_power_stations_in_the_Democratic_Republic_of_the_Congo,"
+,,,,,,,,,,,
+Algeria,Solar PV,Bechar Solar Power Plant,,Bechar Province,Under construction (expected operational 2026),80,Sonelgaz,Government of Algeria,31.6167 N,-2.2167 E,https://www.pvknowhow.com/news/algeria-solar-power-plant-construction-bechar/
+,Solar PV,Gara Djebilet Solar Plant,,Gara Djebilet,Planned (2025-2026),200,Sonelgaz,Government of Algeria,22.9000 N,0.0000 E,https://www.agenzianova.com/en/news/Algeria's-new-energy-transition-plan-comes-into-effect/
+,Solar PV,Multiple Solar Plants (15 sites),,Various Provinces,Planned (2025-2035),"3,200",Sonelgaz / Various,Government of Algeria,Various,Various,https://www.pvknowhow.com/news/algeria-solar-power-program-launches-3-2-gw/
+,Thermal (Combined Cycle),Biskra Combined Cycle Power Plant,,Biskra,Under construction (completion late 2025/early 2026),"1,340",Sonelgaz,Government of Algeria,34.8500 N,5.7300 E,https://www.power-technology.com/data-insights/top-5-thermal-power-plants-in-development-in-algeria/
+,Thermal (Combined Cycle),Bellara Power Plant,,Jijel Province,Under construction,362,Sonelgaz,Government of Algeria,36.8000 N,6.1000 E,https://energycapitalpower.com/5-energy-projects-to-watch-in-algeria-in-2025/
+,Solar PV,Batmet Solar Plant,,Batmet,Under construction (2024-2025),220,Consortium (Chinese firms),Government of Algeria,33.0000 N,2.5000 E,https://energycapitalpower.com/algerias-strategic-energy-vision-a-roadmap-for-modernization-and-diversification/
+,,,,,,,,,,,
+Mauritania,Solar,Sheikh Zayed Solar Power Plant,,Nouakchott,Operational,15,Masdar,Masdar (Abu Dhabi),18.0731 N,-15.9582 W,https://africa-energy-portal.org/aep/country/mauritania
+,Solar,Eight Rural Solar Plants,,Atar and others,Operational,16.6,Masdar,Masdar,Various,Various,https://africa-energy-portal.org/aep/country/mauritania
+,Solar,Zouerat Solar Plant,,Zouérat,Operational,3,Local operators,Local,20.7333 N,-13.0333 W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Mauritania
+,Solar,Nouakchott Solar Plant,,Nouakchott,Planned,50,Government / Private,Government,18.0731 N,-15.9582 W,https://www.afdb.org/sites/default/files/2024/08/23/desert-to-power_dtp_mauritania_roadmap_en_oct2020.pdf
+,Wind,Boulenouar Wind Power Station,,Boulenouar,Under construction,102.3,Siemens / SOMELEC,Government,21.3044 N,-16.5181 W,https://africa-energy-portal.org/aep/country/mauritania
+,Wind,Nouadhibou Wind Power Station,,Nouadhibou,Operational,4.4,SOMELEC and others,Government,20.9333 N,-17.0333 W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Mauritania
+,Wind,Nouakchott Wind Power Station,,Nouakchott,Operational,30,Local operators,Government,18.0731 N,-15.9582 W,https://africa-energy-portal.org/aep/country/mauritania
+,Thermal (Gas),Nouadhibou Thermal Power Station,,Nouadhibou,Operational,120,SOMELEC & Others,Government,20.9333 N,-17.0333 W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Mauritania
+,Thermal (Gas),Madkour Group Natural Gas Plant,,Nouakchott area,Planned (2025),160–180,Madkour Group,Private,Approx. 18.0731 N,Approx. -15.9582 W,https://www.ceotodaymagazine.com/2024/12/madkour-group-to-invest-200m-in-mauritania-natural-gas-power-plant/
+,,,,,,,,,,,
+Côte d'Ivoire,Natural Gas,Ciprel Power Station,,Abidjan,Operational,455,Ciprel,Ciprel,5.3021° N,-4.0754° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Natural Gas,Azito Power Station,,Abidjan,Operational,430,Azito Energy,Azito Energy,5.3021° N,-4.0754° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Natural Gas,Vridi Power Station,,Abidjan,Operational,100,Société d'Énergie de la Côte d'Ivoire (CI-Energies),Government of Côte d'Ivoire,5.2833° N,-4.0000° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Natural Gas,Atinkou Thermal Power Station,,"Taboth, Jacqueville Dept",Under construction (expected 2024),390,Atinkou,Atinkou,5.2558° N,-4.3289° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Hydroelectric,Soubré Hydroelectric Power Station,,Soubré,Operational,275,CI-Energies,Government of Côte d'Ivoire,5.8025° N,-6.6558° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Hydroelectric,Taabo Dam,,Taabo,Operational,210,CI-Energies,Government of Côte d'Ivoire,6.2106° N,-5.0839° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Solar,Boundiali Solar Power Station,,"Boundiali, Savanes District",Operational (2023),37.5,SOGEPE,SOGEPE,9.5686° N,-6.4767° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Solar,Sokhoro Solar Power Station,,Savanes District,Planned (2025),52,PFO Africa,PFO Africa,9.5297° N,-5.2239° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Biomass,Boundiali Biomass Power Station,,"Boundiali, Savanes District",Planned (2025),25,EcoStar Energy,EcoStar Energy,9.4919° N,-6.5033° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Biomass,Ayebo Biomass Power Station,,Comoé District,Planned (2024),46,Biovéa Énergie SA,Biovéa Énergie SA,5.4394° N,-3.2692° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Biomass,Divo Biomass Power Station,,Gôh-Djiboua District,Planned (2028),75,Soden,Soden,5.8469° N,-5.3139° W,https://en.wikipedia.org/wiki/List_of_power_stations_in_Ivory_Coast
+,Thermal (Combined Cycle),Songon Energies Power Plant,,Songon,Planned (expected 2027),372,Songon Energies,Private Consortium,5.3000° N,-4.1000° W,https://www.power-technology.com/projects/songon-energies-power-plant/
+,Thermal (Combined Cycle),CIPREL CCGT Power Plant Phase V,,Lagunes,Under construction (expected 2025),390,CIPREL,CIPREL,5.2558° N,-4.3289° W,https://www.power-technology.com/marketdata/power-plant-profile-ciprel-ccgt-power-plant-phase-v-ivory-coast/
+,,,,,,,,,,,
+Seychelles,Solar,Roche Caiman Floating Solar Farm,,"Roche Caiman Dam, Mahé Island","Under construction, operational by mid-2025",5.8,Masdar,Masdar,4.6323° S,55.4664° E,https://www.pvknowhow.com/news/seychelles-solar-farm-largest-floating-2025-2/
+,Thermal (Diesel),Roche Caiman Power Station,,"Roche Caiman, Mahé Island","Operational, expanding to 92 MW by mid-2025",92,Public Utilities Corporation (PUC),Government of Seychelles,4.6323° S,55.4664° E,http://www.seychellesnewsagency.com/articles/19690
+,Thermal (Diesel),Victoria Power Station,,"Victoria, Mahé Island",Operational,28,Public Utilities Corporation (PUC),Government of Seychelles,4.6194° S,55.4558° E,https://en.wikipedia.org/wiki/Roche_Caiman_Power_Station
+,Wind,Mahé Wind Farm,,Mahé Island,Operational,6,Public Utilities Corporation (PUC),Government of Seychelles,4.6200° S,55.4500° E,https://africa-energy-portal.org/aep/country/seychelles
+,,,,,,,,,,,
+Cape Verde,Solar,Praia Solar Power Plant,,"Praia, Santiago","Under construction, operational by end 2024",5,Ministry of Energy and Industry,Government of Cape Verde,14.9333 N,-23.5167 W,https://www.pvknowhow.com/news/cabo-verde-renewable-energy-50-percent-2030/
+,Solar,"Solar Power Plants on Four Islands (Fogo, Santo Antão, São Nicolau, Maio)",,"Fogo, Santo Antão, São Nicolau, Maio","Planned, commissioning June 2025",3.3 (1.3 + 1.2 + 0.4 + 0.4),Special Projects Management Unit (UGPE),Government of Cape Verde,,,https://www.aler-renovaveis.org/en/communication/news/cape-verdes-government-launches-tender-for-construction-and-administration-of-solar-parks-on-four-islands/
+,Solar,Photovoltaic Systems for Water Wells and Pumping Stations,,Santiago Island,Planned/ongoing (2025),Not specified (distributed small-scale),Ministry of Presidency of Council of Ministers,Government of Cape Verde,,,https://strategicenergy.eu/cape-verde-boosts-solar-production-with-support-from-portugal-and-e4-million-investment/
+,Wind,Multiple Wind Farms,,Various Islands,Operational,~50 (total wind capacity),Various (public and private),Government of Cape Verde,,,https://africa-energy-portal.org/aep/country/cape-verde
+,,,,,,,,,,,
+Sao Tome and Principe,Hydropower,Papagaio Hydroelectric Plant,,"Santo António, São Tomé Island",Operational,1,National Utility EMAE,Government of STP,~0.3383 N,~6.7278 E,"https://africa-energy-portal.org/news/sao-tome-and-principe-afdb-finances-energy-transition-programme,"
+,Thermal Hybrid,Santo Amaro Thermal Plant + Solar Hybrid,,"Lobata district, São Tomé Island",Planned / Under Development,Not specified,National Utility EMAE,Government of STP,~0.3500 N,~6.7000 E,"https://africa-energy-portal.org/news/sao-tome-and-principe-afdb-finances-energy-transition-programme,"
+,Solar PV,Small Solar Power Plant,,Santo Amaro area,Planned / Under Development,Not specified,National Utility EMAE,Government of STP,Not specified,Not specified,"https://africa-energy-portal.org/news/sao-tome-and-principe-afdb-finances-energy-transition-programme,"
+,,,,,,,,,,,
+Rwanda,Hydro,Nyabarongo I,"Mushishiro, Muhanga",Operational (2014),28,REG,REG,−1.98875,29.63319,https://en.wikipedia.org/wiki/Nyabarongo_I_Hydroelectric_Power_Station,
+,Hydro,Mukungwa I,"Kabushinge, Musanze",Operational (1982),12,REG,REG,−1.53678,29.68322,https://mapcarta.com/26985632,
+,Hydro,Ntaruka,"Ntaruka, Burera",Operational (1959),11.5,REG,REG,−1.47278,29.73694,https://mapcarta.com/13114342,
+,Hydro,Rukarara I,Nyamagabe,Operational (2011),9.5,REG,REG,−2.46833,29.55333,https://en.wikipedia.org/wiki/Rukarara_Hydroelectric_Power_Station,
+,Hydro,Rusumo Falls,"Rusumo, Kirehe (border)",Operational 2024,80,Rusumo Power Co.,Burundi/Rwanda/Tanzania JV,−2.37972,30.78583,https://en.wikipedia.org/wiki/Rusumo_Hydroelectric_Power_Station,
+,Solar,Rwamagana Solar (Agahozo-Shalom),Rwamagana,Operational 2015,8.5,GigaWatt Global,GigaWatt Global,−2.02611,30.37722,https://en.wikipedia.org/wiki/Rwamagana_Solar_Power_Station,
+,Solar,Nasho Solar,Kirehe,Operational 2017,3.3,REG,Govt of Rwanda / HGBF,−2.09710,30.7452,https://www.gem.wiki/Nasho_solar_farm?utm_source=chatgpt.com,
+,Solar,Jali (Kigali Solaire),"Gasabo, Kigali",Operational 2008,0.25,REG,REG,−1.90500,30.0595,https://www.gem.wiki/Jali_solar_farm?utm_source=chatgpt.com,
+,Geothermal,Gisenyi–Karisimbi & Bugarama prospects,NW & SW Rift zones,Exploration,Estimated 100-170 MW,"REG, MinInfra, ISOR",-,-,-,https://www.reg.rw/what-we-do/generation/geothermal/?utm_source=chatgpt.com,
+Somalia,Hydro,Baardhere (Juba River) Dam,"Baardhere, Gedo",Planned / feasibility,120,MoEWR,Federal Gov’t,2.339 N,42.280 E,https://documents1.worldbank.org/curated/en/997691468306287631/pdf/multi-page.pdf?utm_source=chatgpt.com,
+,Solar,Jabad-Geele I,Mogadishu,Operational 2020,8,BECO,BECO,2.047 N,45.318 E,https://africa-energy-portal.org/news/somalia-beco-builds-8-mwp-solar-power-plant-mogadishu?utm_source=chatgpt.com,
+,Solar,Jabad-Geele II,Mogadishu,Under construction 2025,25,BECO,BECO,2.047 N,45.318 E,https://beco.so/project/jabadgelle2/?utm_source=chatgpt.com,
+,Solar,Bosaso Hybrid Plant,"Bosaso, Bari",Operational 2019,1.2,Equator Energy,Equator Energy,11.289 N,49.182 E,,
+,Solar,NECSOM Solar + 20 MWh BESS,"Garowe, Nugal",Mid-stage dev.,5,NECSOM,NECSOM,8.400 N,48.467 E,https://frontier.dk/necsom-solar-pv-and-bess-project/?utm_source=chatgpt.com,
+,Solar,Garowe SESRP Solar + BESS,"Garowe, Nugal",Tender (Jan 2025),10,MoEWR,Gov’t (World Bank),8.400 N,48.467 E,https://hiiraan.com/news4/2025/Jan/199670/somalia_opens_tender_for_10_mw_solar_plant_in_garowe.aspx?utm_source=chatgpt.com,
+,Wind,Hargeisa Airport Pilot Farm,"Hargeisa, Somaliland",Operational 2014,0.1,Kaah Power,Somaliland Gov’t,9.514 N,44.088 E,https://www.dai.com/news/usaid-project-supports-construction-major-wind-farm-somaliland,
+,Wind,Hargeisa private wind rollout,Hargeisa,Turbines ordered,2,Various IPPs,Private,9.514 N,44.088 E,https://www.dai.com/news/usaid-project-supports-construction-major-wind-farm-somaliland,
+,Geothermal,Gulf of Aden Rift systems,Coastal Puntland & Somaliland,Reconnaissance,100-200,"MoEWR, private IPPs",,,,https://moewr.gov.so/energy-2/?utm_source=chatgpt.com,
+Burundi,Hydro,Rwegura,"Cibitoke, Kitenge River",Operational 1986,18,REGIDESO,REGIDESO,−2.93818,29.46338,https://en.wikipedia.org/wiki/Rwegura_Hydroelectric_Power_Station,
+,Hydro,Mugere,"Bujumbura Rural, Kabezi",Operational 1982,8,REGIDESO,REGIDESO,−3.49102,29.41479,https://en.wikipedia.org/wiki/Mugere_Hydroelectric_Power_Station,
+,Hydro,Ruzibazi,"Rumonge, Minago",Operational Sept 2022,15,REGIDESO,REGIDESO,−3.72346,29.36172,https://en.wikipedia.org/wiki/Ruzibazi_Hydroelectric_Power_Station,
+,Hydro,Kabu-16,"Cibitoke, Kaburantwa River",Operational Oct 2024,20,REGIDESO,REGIDESO,−2.92500,29.2625,https://en.wikipedia.org/wiki/Kabu_16_Hydroelectric_Power_Station,
+,Hydro,Rusumo Falls†,"Rusumo (Kirehe District, border)",Operational 2024,80 (shared),Rusumo Power Co.,Trilateral JV,−2.37972,30.78583,https://en.wikipedia.org/wiki/Rusumo_Hydroelectric_Power_Station?utm_source=chatgpt.com,
+,Solar,Mubuga – Phase 2,Gitega,Expansion approved 2023; pre-construction,7.5,Gigawatt Global,Gigawatt Global,−3.37472,29.98722,https://www.prnewswire.com/news-releases/burundis-solar-capacity-to-double-announces-president-ndayishimiye-at-ribbon-cutting-for-first-solar-field-301821173.html?utm_source=chatgpt.com,
+,Hydro,Jiji,Bururi,Civil works > 90 % – commissioning Q4 2025,32.5,REGIDESO / AfDB / EIB,REGIDESO / AfDB / EIB,−3.88733,29.56518,https://en.wikipedia.org/wiki/List_of_power_stations_in_Burundi?utm_source=chatgpt.com,
+,Hydro,Mulembwe,Bururi,78 % complete – COD 2026,16.5,REGIDESO / AfDB / EIB,REGIDESO / AfDB / EIB,−3.84599,29.57588,https://en.wikipedia.org/wiki/List_of_power_stations_in_Burundi?utm_source=chatgpt.com,
+,Hydro,Kirasa,Bujumbura Rural,IPP EPC contract signed; first power expected 2026,16,Kirasa Energy,Kirasa Energy,−3.59470,29.3531,,
+Mozambique,Hydro,Cahora Bassa,"Songo, Tete",Operational (since 1974),"2,075",Hidroeléctrica de Cahora Bassa (HCB),EDM 92 % / REN 8 %,−15.5859,32.7047,https://www.theenergyyear.com/energy-company/hidroelectrica-de-cahora-bassa/?utm_source=chatgpt.com,
+,Hydro,Chicamba,"Sussundenga, Manica",Operational,44,Electricidade de Moçambique (EDM),EDM,−19.1557,33.1456,https://mapcarta.com/W389993904,
+,Hydro,Mavuzi,Manica Province (Maria),Operational,41,EDM,EDM,−19.5260,33.493,https://globalenergyobservatory.org/geoid/40386?utm_source=chatgpt.com,
+,Hydro,Corumana,"Moamba District, Maputo",Operational (1988),16.6,EDM,EDM,−25.2185,32.1342,https://globalenergyobservatory.org/geoid/40384?utm_source=chatgpt.com,
+,Solar,Mocuba Solar,"Mocuba, Zambézia",Operational 2019,40,Globeleq / EDM,Mocuba Solar Energy Consortium,−16.8228,37.0347,https://en.wikipedia.org/wiki/Mocuba_Solar_Power_Station?utm_source=chatgpt.com,
+,Solar,Metoro Solar,"Metoro, Cabo Delgado",Operational Apr 2022,41,EDM,Neoen 75 % / EDM 25 %,−13.0783,39.8364,https://en.wikipedia.org/wiki/Metoro_Solar_Power_Station,
+,Solar,Cuamba (Tetereane) Solar + 7 MWh BESS,"Cuamba, Niassa",Operational Sep 2023,15,Globeleq,Globeleq / Source Energia / EDM,−14.8003,36.5061,https://en.wikipedia.org/wiki/Cuamba_Solar_Power_Station?utm_source=chatgpt.com,
+,Wind,Namaacha Wind Farm (Phase I–II),"Namaacha, Maputo Province",Under construction (approved 2024),120,EleQtra Mozambique,EleQtra,−25.8795,32.0188,https://www.gem.wiki/Namaacha_wind_farm?utm_source=chatgpt.com,
+Namibia,Hydro,Ruacana Hydroelectric Power Station,"Ruacana, Omusati",Operational (1978; 2012 upgrade),347,NamPower,NamPower,−17.39889,14.22139,https://en.wikipedia.org/wiki/Ruacana_Hydroelectric_Power_Station,
+,Hydro,Baynes Hydropower Project,"Kunene River border, Kunene",Permitting / EPC procurement (2025 COD target),600,NamPower/ENDE JV,Govts of Namibia & Angola,−17.18806,12.65056,https://www.sadc.int/project-portfolio/baynes-hydropower-project?utm_source=chatgpt.com,
+,Solar,Mariental (Hardap) Solar Park,"Mariental, Hardap",Operational 2019,45.5,Alten Energy Consortium,Alten 51 % + NamPower 19 %,−24.65278,18.02722,https://www.gem.wiki/Mariental_solar_farm?utm_source=chatgpt.com,
+,Solar,Omburu Solar Power Station,"Omaruru, Erongo",Operational Jun 2022,20,NamPower,NamPower,−21.48667,16.02944,https://en.wikipedia.org/wiki/Omburu_Solar_Power_Station,
+,Solar,Ejuva I & II Solar Complex,"Gobabis, Omaheke",Operational 2016,5,Ejuva SPVs (IPP),Mergence 66 % + local BEE,−22.43902,18.97261,https://www.mergence.com.na/our-funds/ejuva-one-and-ejuva-two-solarplants-gobabis/?utm_source=chatgpt.com,
+,Solar,Rosh Pinah Solar Park,"Rosh Pinah, ǁKaras",Operational 2017,5,Aloe Inv. 27,Old Mutual Inv. Group,−27.96556,16.78889,https://en.wikipedia.org/wiki/List_of_power_stations_in_Namibia?utm_source=chatgpt.com,
+,Solar,Osona Solar PV Plant,"Okahandja, Otjozondjupa",Operational 2020,5,Osona Sun Energy,Osona Sun Energy,−22.10861,16.78833,https://the-eis.com/elibrary/sites/default/files/downloads/literature/2182_ECR_5MW%20AC%20solar%20park_located%20on%20a%20portion%20of%20farm%20Osona%20Commonage%2065_portion%2082%20near%20Okahandja.pdf?utm_source=chatgpt.com,
+,Wind,Ombepo Wind Farm,"Lüderitz, ǁKaras",Operational 2017,6,InnoSun,InnoSun / Lüderitz Town,−26.63673,15.18696,https://www.thewindpower.net/windfarm_en_17339_ombepo.php?utm_source=chatgpt.com,
+,Wind,Diaz Wind Power Project,"Lüderitz, ǁKaras",Under construction (COD Jul 2025),44,InnoVent,InnoVent,−26.74297,15.16411,https://www.thewindpower.net/windfarm_en_41270_diaz.php?utm_source=chatgpt.com,
+,Geothermal,"Brandberg, Gross Barmen & 20+ hot springs",Damara Belt & Central Zone,"Reconnaissance surveys, reservoir modelling",≥100,"Ministry of Mines & Energy, Stellae Energy","Ministry of Mines & Energy, Stellae Energy",,,https://stellaeenergy.com/geothermal-energy-in-namibia?utm_source=chatgpt.com,
+,Nuclear,First Nuclear Power Plant (SMR/large-scale TBD),Site TBD,-,-,-,-,-,,https://www.worldnuclearreport.org/IMG/pdf/wnisr2024-table13-africa_rosatom_agreements.pdf?utm_source=chatgpt.com,
+Madagascar,Hydro,Andekaleka,"Brickaville, Atsinanana",Operational (1982; uprated 2012),91,JIRAMA,JIRAMA,−18.7940,48.6193,https://mapcarta.com/W506145670,
+,Hydro,Mandraka,"Mandraka, Analamanga",Operational,24,JIRAMA,JIRAMA,−18.9213,47.9295,https://www.gem.wiki/Mandraka_hydroelectric_plant?utm_source=chatgpt.com,
+,Hydro,Antelomita I & II,"Anjeva Gara, Analamanga",Operational,8.4,JIRAMA,JIRAMA,−19.0121,47.7053,https://en.wikipedia.org/wiki/Antelomita_Hydroelectric_Power_Station?utm_source=chatgpt.com,
+,Hydro,Sahanivotry,"Sahanivotry, Vakinankaratra",Operational (2008),16.5,HYDELEC SA,HYDELEC SA,−19.9975,47.2676,https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/MADAGASCAR%20anglais.pdf?utm_source=chatgpt.com,
+,Hydro,Farahantsana,"Mahitsy, Analamanga",Operational 2022,28,Tozzi Green Hydro MG,Mahitsy Hydro SA,−18.7482,47.3453,https://www.waterpowermagazine.com/news/farahantsana-hydroelectric-plant-inaugurated-in-madagascar-10416382/?utm_source=chatgpt.com,
+,Hydro,Sahofika,"Onive River, Vakinankaratra",Under construction (COD 2026),200,NEHO (IPP),NEHO Consortium,−19.5670,47.4067,https://mapafrica.afdb.org/en/projects/46002-P-MG-FA0-018?utm_source=chatgpt.com,
+,Hydro,Volobe Amont,"Volobe, Atsinanana",Under construction (COD 2028),120,Compagnie Générale d’Hydroélectricité de Volobe,Jovena 40% / Africa50 25% / SN Power 25% / Colas 10%,−18.1388,49.1866,https://www.gem.wiki/Volobe_Amont_hydroelectric_plant?utm_source=chatgpt.com,
+,Solar,Ambatolampy Solar Park,"Ambatolampy, Vakinankaratra",Operational (40 MW since 2022),40,Ambatolampy Solar Consortium,GreenYellow / Axian,−19.4884,47.445,https://mapcarta.com/W1202039777,
+,Solar,Ehoala Solar Park (Phase 1),"Fort-Dauphin, Anosy",Operational 2024,8,CrossBoundary Energy,CBE / Rio Tinto QMM,−25.0545,46.9479,https://mapcarta.com/W1266700506,
+,Wind,Ehoala Wind Farm,"Fort-Dauphin, Anosy",Turbine erection 2025,12 – 16,CrossBoundary Energy,CBE / Rio Tinto QMM,−25.0714,46.9586,https://www.thewindpower.net/windfarm_en_42195_ehoala-park.php?utm_source=chatgpt.com,
+Lesotho,Hydro,‘Muela Hydropower Station,Butha-Buthe District,Operational 1998 (major overhaul May 2025),72,LHDA,LHDA,−28.7804,28.4536,https://www.waterpowermagazine.com/news/lhda-completes-major-tunnel-maintenance-restores-power-at-muela-station/,
+,Solar,Ha-Ramarothole Solar Park – Phase I,"Ha-Ramarothole, Mafeteng",Operational Jun 2023,30,LEGCO,LEGCO / TBEA,−29.8094,27.3278,https://www.gem.wiki/Ha_Ramarothole_solar_farm,
+,Hydro,Oxbow Hydropower Scheme (LHWP Phase II),Mokhotlong,EPC procurement; COD target 2029,80,LHDA,Gov’t,−28.771,28.64,https://mapcarta.com/Oxbow_(Lesotho),
+,Solar,Ha-Ramarothole Solar – Phase II,Mafeteng,Pre-construction; 18-month build once contract signed,40,LEGCO,LEGCO / TBEA,−29.8094,27.3278,https://www.gem.wiki/Ha_Ramarothole_solar_farm,
+,Solar,Neo 1 Solar Plant,Mafeteng District,Financing close expected Q2 2025; COD Q1 2026,20,OnePower,Neo 1 SPV,−29.604,28.335,https://www.gem.wiki/Neo_1_solar_farm?utm_source=chatgpt.com,
+,Wind,Mohale’s Hoek Wind Farm,Mohale’s Hoek,ESIA cleared Aug 2024; site works 2025,60,Hirundo Energy,Hirundo Energy,−30.1426,27.4674,https://www.countrycoordinate.com/city-mohales-hoek-lesotho/?utm_source=chatgpt.com,
+,Wind,Masite Nek Wind Farm,"Masite Nek, Maseru",Feasibility & land leases 2025,30–40,Hirundo Energy,Hirundo Energy,−29.588,27.489,https://mapcarta.com/14210666,
+Mauritius ,Hydro,Champagne Hydro Station,"Sans Souci, Grand Port",Operational 1984,30,CEB,CEB,−20.437,57.58,https://ceb.mu/our-activities/power-stations/champagne-hydro-power-station?utm_source=chatgpt.com,
+,Hydro,Tamarind Falls Hydro,"Henrietta, Plaines Wilhems",Operational,9.5,CEB,CEB,−20.344,57.465,https://ceb.mu/our-activities/power-stations/tamarind-fall-hydro-power-station?utm_source=chatgpt.com,
+,Hydro,Ferney Hydro,Grand Port,Operational,10,CEB,CEB,−20.406,57.684,https://ceb.mu/our-activities/power-stations/ferney-hydro-power-station?utm_source=chatgpt.com,
+,Hydro,Le Val Hydro,Grand Port,Operational,4,CEB,CEB,−20.352,57.646,https://ceb.mu/our-activities/power-stations/le-val-hydro-power-station?utm_source=chatgpt.com,
+,Hydro,La Nicolière FC Hydro,Pamplemousses,Operational,0.35,CEB,CEB,−20.156,57.642,https://ceb.mu/our-activities/power-stations/la-nicoliere-fc-hydro-power-station?utm_source=chatgpt.com,
+,Solar,Bambous Solar Park,"Bambous, Black River",Operational 2014,15,Sarako Energy,Sarako,−20.313,57.415,https://www.power-technology.com/data-insights/power-plant-profile-bambous-solar-pv-park-mauritius/,
+,Solar,Solitude Solar Park,"Solitude, Pamplemousses",Operational 2019,15,GreenYellow,GreenYellow,−20.107,57.548,https://www.power-technology.com/data-insights/power-plant-profile-solitude-solar-pv-park-mauritius/,
+,Solar,Henrietta Solar Park,"Henrietta, Plaines Wilhems",Operational 2019,17,Akuo Energy,Akuo / Médine,−20.284,57.452,https://www.power-technology.com/data-insights/power-plant-profile-henrietta-solar-pv-park-mauritius/?utm_source=chatgpt.com,
+,Solar,Beau Champ Solar,"Beau Champ, Flacq",Operational 2020,14.2,Qair Energy,Qair Energy,−20.239,57.8,https://database.earth/energy/power-plants/solar-power/mauritius?utm_source=chatgpt.com,
+,Solar,Queen Victoria Solar,"Queen Victoria, Flacq",Operational 2021,13.8,Voltalia,Voltalia,−20.198,57.624,https://database.earth/energy/power-plant/queen-victoria?utm_source=chatgpt.com,
+,Wind,Plaine des Roches Wind Farm,Rivière du Rempart,Operational 2016,9,CEB / Quadran,CEB (IPP lease),−20.133,57.729,https://www.thewindpower.net/windfarm_en_23021_plaine-des-roches.php?utm_source=chatgpt.com,
+,Solar,Trou d’Eau Douce SS1 (Qair),Flacq East Coast,Civil works; COD 2025,30,Qair Energy,Qair,−20.200,57.783,https://www.dsneg.com/news/mauritius-french-qair-signs-for-60-mwac-of-sol-65472253.html?utm_source=chatgpt.com,
+,Solar,Trou d’Eau Douce SS2 (Qair),Flacq,Civil works; COD 2025,30,Qair Energy,Qair,−20.204,57.79,https://www.dsneg.com/news/mauritius-french-qair-signs-for-60-mwac-of-sol-65472253.html?utm_source=chatgpt.com,
+,Solar + BESS,Plaine des Roches (“Green Rock”),Rivière du Rempart,Grid-code certified May 2025,20,Corexsolar Intl.,Corexsolar / CEB,−20.131,57.734,https://newsmoris.com/2025/05/09/corexsolar-launches-10-mw-photovoltaic-power-plant-in-plaine-des-roches/?utm_source=chatgpt.com,
+Gabon,Hydro,Grand Poubara HPP,"Franceville, Ogooué R.",Operational 2013,160,SEEG,Govt of Gabon / SEEG,−1.77306,13.55111,https://en.wikipedia.org/wiki/Grand_Poubara_Dam?utm_source=chatgpt.com,
+,Hydro,Tchimbélé HPP,"Mbei R., Woleu-Ntem",Operational 1980,68,SEEG,SEEG,0.621,10.407,https://www.gem.wiki/Tchimbele_hydroelectric_plant?utm_source=chatgpt.com,
+,Hydro,Kinguélé HPP,"Mbei R., Estuaire",Operational 1980,58,SEEG,SEEG,0.455,10.281,https://www.gem.wiki/Kinguele_hydroelectric_plant?utm_source=chatgpt.com,
+,Hydro,Bongolo HPP,"Louetsi R., Ngounié",Operational 1992 – under rehabilitation,40,SEEG,SEEG,−2.23280,11.46317,https://constructionreviewonline.com/news/gabon-starts-rehabilitating-the-bongolo-hydroelectric-power-station/?utm_source=chatgpt.com,
+,Hydro,Kinguélé Aval HPP,"Estuaire, Mbei R.",Civil works > 40 % – COD 2026,35,Asonha Énergie,Meridiam / FGIS / Eranove,0.305,10.18972,https://en.wikipedia.org/wiki/Kingu%C3%A9l%C3%A9_Aval_Hydroelectric_Power_Station?utm_source=chatgpt.com,
+,Hydro,Ngoulmendjim HPP,"Komo R., Estuaire",Financial close stage,82,Komo Énergie,Eranove / FGIS,0.18028,10.14806,https://www.hs-alliance.org/published-assessments/ngoulmendjim?utm_source=chatgpt.com,
+,Solar,Ayémé Solar Park (Phase I–II),"Ayémé, Estuaire",Permitting; two 60 MW phases,120,Solen (IPP),Solen,0.3161,9.67624,https://mapcarta.com/17149848,
+,Solar,Oyem Solar Power Station,"Oyem, Woleu-Ntem",EPC contracts signed 2024,50,AMEA Power,AMEA Gabon Solar,1.59639,11.55111,https://en.wikipedia.org/wiki/List_of_power_stations_in_Gabon,
+,Solar,Mouila Solar Plant,"Mouila, Ngounié",Govt approval 2021; PPA agreed,20,Desiba Energy,Desiba Energy,−1.86846,11.05594,https://taiyangnews.info/markets/20-mw-solar-project-cleared-for-gabon?utm_source=chatgpt.com,
+,Wind,Cap Estérias Offshore/Coastal Wind (pilot),Estuaire coast,USTDA-funded feasibility (Apr 2025),TBD (first utility-scale wind),Min. Energy,Govt of Gabon,0.614,9.356,https://wattsupafrica.com/p/gabon-u-s-partner-on-wind-ambitions,
+South Sudan,Solar,Juba (Gondokoro) Solar + 14 MWh BESS,"Gondokoro, Central Equatoria",Operational Feb 2025,20,Ezra Construction & Dev. Group,Ezra Group,4.8694 N,31.4897 E,https://www.energyplanets.org/ezra-group-powers-ahead-with-renewable-energy-in-south-sudan/,
+,Hydro,Juba Mini-Hydro (run-of-river),"Juba, Central Equatori",Operational since 2006,5,South Sudan Electricity Corp. (SSEC),Government,4.86 N,31.58 E,https://en.wikipedia.org/wiki/List_of_power_stations_in_South_Sudan,
+,Hydro,Yei Mini-Hydro,"Yei, Central Equatoria",Operational 2008,1.2,Yei Electricity Co-op (YECO),YECO,4.09 N,30.68 E,https://en.wikipedia.org/wiki/List_of_power_stations_in_South_Sudan,
+,Hydro,Maridi Mini-Hydro,"Maridi, Western Equatoria",Operational 2011,0.9,Maridi Utilities,Local Gov’t,4.91 N,29.47 E,https://en.wikipedia.org/wiki/List_of_power_stations_in_South_Sudan,
+,Hydro,Kapoeta Mini-Hydro,"Kapoeta, Eastern Equatoria",Operational 2011,0.9,Kapoeta Utilities,Local Gov’t,4.77 N,33.59 E,https://en.wikipedia.org/wiki/List_of_power_stations_in_South_Sudan,
+,Solar,Nesitu Solar + 35 MWh BES,"Nesitu, Central Equatori",Commissioning 2025,29,Elsewedy Electric,Ministry of Energy & Dams,4.71 N,31.71 E,https://www.greenbuildingafrica.co.za/south-sudan-announces-20mw-35mwh-solarstorage-plant/?utm_source=chatgpt.com,
+,Hydro,Fula-Nimule (Phase I),"Nimule, Eastern Equatoria",Feasibility; AfDB structuring 2025,42,Ministry of Energy & Dams,Gov’t,3.67 N,31.97 E,https://solarquarter.com/2025/02/10/ezra-group-launches-20-mw-solar-power-project-with-14-mwh-battery-storage-in-south-sudan/?utm_source=chatgpt.com,
+,Hydro,Grand Fula (Phase II),"Nimule, Eastern Equatoria",Pre-construction; EPC bids invited 2024 – COD 2035,890,MoED / Private SPV,Gov’t + IPP,3.6729 N,31.9719 E,https://www.gem.wiki/Grand_Fula_hydroelectric_plant,
+,,,,,,,,,,,
+Senegal,Coal Power Station,Gallen Cement power station,"Gallen Village, Dakar, Senegal","Unknown, Senegal",cancelled,175,,Jindal Steel & Power Ltd [100%],14.500172,-14.439228,Jindal power station (Senegal)
+,,Jindal power station (Senegal) - Unit 1,"Unknown, Senegal","Unknown, Senegal",cancelled,175,,Jindal Steel & Power Ltd [100%],14.500172,-14.439228,Jindal power station (Senegal)
+,,Jindal power station (Senegal) - Unit 2,"Unknown, Senegal","Sendou, Bagny, Dakar, Senegal",cancelled,125,,Korea Electric Power Corp [100%],14.689064,-17.217628,Kepco Sendou power station
+,,Kepco Sendou power station - Unit 1,"Sendou, Bagny, Dakar, Senegal","Sendou, Bagny, Dakar, Senegal",cancelled,125,,Korea Electric Power Corp [100%],14.689064,-17.217628,Kepco Sendou power station
+,,Kepco Sendou power station - Unit 2,"Sendou, Bagny, Dakar, Senegal","Mboro, Thiès, Senegal",cancelled,250,,West Africa Energy SA [100%],14.766667,-16.9,Mboro power station
+,,Mboro power station,"Mboro, Thiès, Senegal","Sendou, Bagny, Dakar, Senegal",operating,125,,Alteia Fund Management Ltd; Government of Senegal; National Electricity Company of Senegal,14.686988,-17.213926,Sendou power station
+,,"Sendou power station - Unit 1, timepoint 1","Sendou, Bagny, Dakar, Senegal","Communauté rurale de Dindefelo, Département de Kédougou, Senegal",construction,128,,Organization for the Development of the Gambia River [100%],12.3664,-12.1901,Sambangalou hydroelectric plant
+,Hydro Power Plant,Sambangalou hydroelectric plant,"Communauté rurale de Dindefelo, Département de Kédougou, Senegal","Dakar, Dakar, Senegal",operating,90,,National Electricity Company of Senegal [100%],14.690486,-17.434005,Bel-Air C6 power station
+,Oil & Gas Power Station,Bel-Air C6 power station,"Dakar, Dakar, Senegal","Rufisque, Dakar, Senegal",operating,86,,ContourGlobal PLC [100%],14.718988,-17.297044,Cap des Biches (engine) power station
+,,Cap des Biches (engine) power station,"Rufisque, Dakar, Senegal","Rufisque, Dakar, Senegal",construction,300,,West Africa Energy SA [100%],14.722293,-17.300905,Cap des Biches power station
+,,Cap des Biches power station,"Rufisque, Dakar, Senegal","Dakar, Dakar, Senegal",operating,235,,Karpowership [100%],14.689333,-17.432331,Karpowership (Senegal) Aysegul Sultan power station
+,,Karpowership (Senegal) Aysegul Sultan power station,"Dakar, Dakar, Senegal","Dakar, Senegal",operating,68,,,14.743768,-17.26635,Kounoune power station
+,,Kounoune power station,"Dakar, Senegal","Kirène, Senegal",operating,35,,Les Ciment du Sahel SA,14.16427,-14.645775,Kyrene Cement power station
+,,Kyrene Cement power station,"Kirène, Senegal","Mbour, Thiès, Senegal",operating,120,,MP Energy Co Ltd [55%]; Africa50 SA [30%]; National Electricity Company of Senegal [15%],14.472403,-16.950748,Malicounda power station
+,,Malicounda power station,"Mbour, Thiès, Senegal","Sabodala, Senegal",operating,36,,Endeavour Mining PLC,13.18988,-12.114411,Sadobala-Massawa Gold Mine power plant
+,,Sadobala-Massawa Gold Mine power plant - Unit 1,"Sabodala, Senegal","Sabodala, Senegal",operating,18,,Endeavour Mining PLC,13.18988,-12.114411,Sadobala-Massawa Gold Mine power plant
+,,Sadobala-Massawa Gold Mine power plant - Unit 2,"Sabodala, Senegal","Sendou, Bagny, Dakar, Senegal",announced,125,,Alteia Fund Management Ltd; Government of Senegal; National Electricity Company of Senegal,14.686988,-17.213926,Sendou power station
+,,"Sendou power station - Unit 1, timepoint 2","Sendou, Bagny, Dakar, Senegal","Taiba Ndiaye, Thiès, Senegal",operating,115,,Tobene Power SA [100%],15.007438,-16.861741,Tobène power station
+,,Tobène power station,"Taiba Ndiaye, Thiès, Senegal","Communauté rurale de Bokhol, Département de Dagana, Senegal",operating,20,,GreenWish Group; Denham Capital Management LP,16.5172,-15.4692,Bokhol solar farm
+,Solar Power Plant,Bokhol solar farm,"Communauté rurale de Bokhol, Département de Dagana, Senegal","Dakar Region, Senegal",operating,1.5,,,14.7436,-17.1942,Dakar Region solar project I
+,,Dakar Region solar project I,"Dakar Region, Senegal","Dakar Region, Senegal",operating,6.5,,,14.686,-17.1971,Dakar Region solar project II
+,,Dakar Region solar project II,"Dakar Region, Senegal","M'bour, Senegal",operating,23,,National Electricity Company of Senegal,14.652,-17.103,Diass solar farm
+,,Diass solar farm,"M'bour, Senegal","Kahone, Senegal",operating,35,,ENGIE SA ; Fonds Souverain d'Investissements Stratégiques (FONSIS) ; Meridiam,14.169,-16.025,Kahone Solaire Sa solar farm
+,,Kahone Solaire Sa solar farm,"Kahone, Senegal","Communauté rurale de Dya, Département de Kaolack, Senegal",operating,25,Energy Resources Senegal (ERS),Energy Resources Senegal (ERS),14.178,-16.027,Kahone solar farm
+,,Kahone solar farm,"Communauté rurale de Dya, Département de Kaolack, Senegal","Touba, Senegal",operating,35,,ENGIE SA ; Fonds Souverain d'Investissements Stratégiques (FONSIS) ; Meridiam,14.7118,-15.905,Kaél solar farm
+,,Kaél solar farm,"Touba, Senegal","Communauté rurale de Malicounda, Senegal",operating,22,,Solaria Group; National Electricity Company of Senegal,14.4736,-16.9354,Malicounda solar farm
+,,Malicounda solar farm,"Communauté rurale de Malicounda, Senegal","Keur Momar Sarr, Senegal",pre-construction,10,,TotalEnergies SE; Sen'Eau,15.9243,-15.9708,Mékhé and Keur Momar Sarr solar farms
+,,Mékhé and Keur Momar Sarr solar farms - Keur Momar Sarr,"Keur Momar Sarr, Senegal","Mékhé, Senegal",pre-construction,10,,TotalEnergies SE; Sen'Eau,15.1182,-16.6415,Mékhé and Keur Momar Sarr solar farms
+,,Mékhé and Keur Momar Sarr solar farms - Mékhé,"Mékhé, Senegal","Niakhar, Senegal",pre-construction,30,Energy Resources Senegal (ERS); Climate Fund Managers (CFM),Climate Fund Managers (CFM); Energy Resources Senegal (ERS),14.4809,-16.3972,Niakhar solar farm
+,,Niakhar solar farm,"Niakhar, Senegal","Rufisque, Dakar Region, Senegal",operating,8.9,,,14.7279,-17.2422,Rufisque solar project
+,,Rufisque solar project,"Rufisque, Dakar Region, Senegal","Sabodala, Senegal",construction,37,,Endeavour Mining PLC,13.1902,-12.1146,Sabodala-Massawa Mine solar farm
+,,Sabodala-Massawa Mine solar farm,"Sabodala, Senegal","Sakal, Senegal",operating,20,,InnoVent Group,15.5983,-16.131,Sakal solar farm
+,,Sakal solar farm,"Sakal, Senegal","Santhiou Mékhé, Senegal",operating,30,,Schneider Electric; Meridiam; Solairedirect,15.1326,-16.6761,Santhiou Mékhé solar farm
+,,Santhiou Mékhé solar farm,"Santhiou Mékhé, Senegal","Département de Dagana, Senegal",operating,3.4,,,16.1743,-15.7894,Senegal solar project
+,,Senegal solar project,"Département de Dagana, Senegal","Merina Dakhar, Senegal",operating,30,Eiffage; Solairedirect,Solairedirect,15.1301,-16.676,Ten Merina solar farm
+,,Ten Merina solar farm,"Merina Dakhar, Senegal","Keur Pate, Louga, Senegal",operating,50,,EleQtra,15.8371,-16.3399,Léona wind farm
+,Wind Power Plant,Léona wind farm,"Keur Pate, Louga, Senegal","Gantour, Saint-Louis, Senegal",cancelled,15,,,15.8894,-16.4249,Saint Louis - Gantour wind farm
+,,Saint Louis - Gantour wind farm,"Gantour, Saint-Louis, Senegal","Ndiop, Saint-Louis, Senegal",cancelled,35,,,15.9521,-16.3408,Saint Louis - Mboye wind farm
+,,Saint Louis - Mboye wind farm,"Ndiop, Saint-Louis, Senegal","Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal",operating,55,,Lekela Power,15.0101,-16.8594,Taiba N’Diaye wind farm
+,,Taiba N’Diaye wind farm - Unit 1,"Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal","Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal",operating,55,,Lekela Power,15.0101,-16.8594,Taiba N’Diaye wind farm
+,,Taiba N’Diaye wind farm - Unit 2,"Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal","Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal",operating,48,,Lekela Power,15.0101,-16.8594,Taiba N’Diaye wind farm
+,,Taiba N’Diaye wind farm - Unit 3,"Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal","Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal",pre-construction,100,,Lekela Power,15.0101,-16.8594,Taiba N’Diaye wind farm
+,,Taiba N’Diaye wind farm - Unit 4,"Communauté rurale de Taïba Ndiaye, Département de Tivaouane, Senegal",,,,,,,,
+,,,,,,,,,,,
+,,,,"Warak, Warak, Adamaoua, Cameroon",pre-construction,75,,,7.497,13.8801,Bini à Warak hydroelectric plant
+Cameroon,Hydro Power Plant,Bini à Warak hydroelectric plant,"Warak, Warak, Adamaoua, Cameroon","Moloundou, Moloundou, Boumba-et-Ngoko, East Province, Cameroon",shelved,600,,,1.9508,15.6013,Chollet hydroelectric plant
+,,Chollet hydroelectric plant,"Moloundou, Moloundou, Boumba-et-Ngoko, East Province, Cameroon","Édéa II, Sanaga-Maritime, Littoral, Cameroon",operating,276,,unknown [39%]; Eneo employees [5%]; Actis Group [51%]; Republic of Cameroon [5%],3.8127,10.1278,Edea hydroelectric plant
+,,Edea hydroelectric plant,"Édéa II, Sanaga-Maritime, Littoral, Cameroon","Sanaga-Maritime, Littoral, Cameroon",pre-construction,1800,,,4.0728,10.6301,Grand Eweng hydroelectric plant
+,,Grand Eweng hydroelectric plant,"Sanaga-Maritime, Littoral, Cameroon","Bamenda, Bamenda, Menchum, Northwest, Cameroon",pre-construction,283,,,6.8257,9.9525,Kpep hydroelectric plant
+,,Kpep hydroelectric plant,"Bamenda, Bamenda, Menchum, Northwest, Cameroon","Lagdo, Nord, Cameroon",operating,72,,Government of Cameroon; ENEO Cameroon SA,9.0607,13.6871,Lagdo hydroelectric plant
+,,Lagdo hydroelectric plant,"Lagdo, Nord, Cameroon","Vallée-du-Ntem, South, Cameroon",operating,211,,Government of Cameroon,2.3959,10.3993,Memve'ele hydroelectric plant
+,,Memve'ele hydroelectric plant,"Vallée-du-Ntem, South, Cameroon","Nord-Ouest, Cameroon",pre-construction,72,,Cameroon Ministry of Water Resources and Energy,6.2753,10.043,Menchum hydroelectric plant
+,,Menchum hydroelectric plant,"Nord-Ouest, Cameroon","Lekié, Centre, Cameroon",operating,420,,Africa50 Infrastructure Fund [15%]; Stoa Infra & Energy [10%]; International Finance Corp [20%]; EDF Energy Ltd [40%]; Republic of Cameroon [15%],4.3541,11.6152,Nachtigal hydroelectric plant
+,,Nachtigal hydroelectric plant,"Lekié, Centre, Cameroon","Ngoila, Ngoila, Haut-Nyong, East Province, Cameroon",shelved,84,,,2.6318,14.0301,Ngoila hydroelectric plant
+,,Ngoila hydroelectric plant,"Ngoila, Ngoila, Haut-Nyong, East Province, Cameroon","Sanaga-Maritime, Littoral, Cameroon",operating,396,,Eneo employees [5%]; State of Cameroon [5%]; Actis Group [51%]; unknown [39%],4.0787,10.4639,Song Loulou hydroelectric plant
+,,Song Loulou hydroelectric plant,"Sanaga-Maritime, Littoral, Cameroon","Song Mbong, Song Mbong, Centre, Cameroon",cancelled,180,,,3.8623,10.7395,Song Mbong hydroelectric plant
+,,Song Mbong hydroelectric plant,"Song Mbong, Song Mbong, Centre, Cameroon","Yaoundé, Cameroon",operating,60,,ENEO Cameroon SA [100%],3.798884,11.505469,Ahala power station
+,Oil & Gas Power Station,Ahala power station - IC,"Yaoundé, Cameroon","Douala, Cameroon",operating,88,,Globeleq Generation Ltd,3.967229,9.817752,Dibabmba power station
+,,Dibabmba power station - Unit 1,"Douala, Cameroon","Kribi, Cameroon",operating,216,,Globeleq Generation Ltd,3.033904,9.974822,Kribi power station
+,,Kribi power station - Unit 1,"Kribi, Cameroon","Limbé, Southwest, Cameroon",announced,85,,Ministry of Water and Energy (Cameroon) [100%],4.008072,9.123855,Limbé power station
+,,Limbé power station - Unit 2,"Limbé, Southwest, Cameroon","Limbé, Southwest, Cameroon",pre-construction,265,,Ministry of Water and Energy (Cameroon) [100%],4.008072,9.123855,Limbé power station
+,,Limbé power station - CC1,"Limbé, Southwest, Cameroon","North, Cameroon",cancelled,50,Sturdee Energy Southern Africa; GSC Energy,InfraCo Africa,9.3198,13.3909,Elan solar farm
+,Solar Power Plant,Elan solar farm - Unit 1,"North, Cameroon","Garoua, Bénoué Department, North, Cameroon",operating,30,,EB Solaire,9.3271,13.3621,Garoua solar farm
+,,Garoua solar farm,"Garoua, Bénoué Department, North, Cameroon","Guider, Cameroon",pre-construction,28.6,,Scatec ASA,9.9296,13.9445,Guider solar farm
+,,Guider solar farm - extension,"Guider, Cameroon",Cameroon,announced,1000,,Abu Dhabi Future Energy Co; Infinity,4.9355,12.7738,Infinity Power (Cameroon) solar farms
+,,Infinity Power (Cameroon) solar farms - solar phases,Cameroon,"Lagdo, Bénoué Department, North, Cameroon",shelved,20,Sinohydro (中国水利水电建设股份有限公司),Sinohydro Corp Ltd,8.7713,13.7804,Lagdo solar farm
+,,Lagdo solar farm,"Lagdo, Bénoué Department, North, Cameroon","Maroua, Cameroon",pre-construction,28.6,,Scatec ASA,10.5998,14.3264,Maroua solar farm
+,,Maroua solar farm - Extension,"Maroua, Cameroon","Ngaoundere, Cameroon",announced,20,,GDS Orion Solar,7.3264,13.5821,Ngaoundéré solar farm
+,,Ngaoundéré solar farm,"Ngaoundere, Cameroon","Mbalmayo, Nyong-et-So'o Department, Centre, Cameroon",cancelled,72,JCM Greenquest,JCM Greenquest Corp,4.6863,11.9415,South Grid solar farm
+,,South Grid solar farm,"Mbalmayo, Nyong-et-So'o Department, Centre, Cameroon","Douala II, Wouri, Littoral, Cameroon",operating,1.1,,,4.016,9.7154,Douala Ii Wouri solar project
+,,Douala Ii Wouri solar project,"Douala II, Wouri, Littoral, Cameroon","Guider, Cameroon",operating,15,,Scatec ASA,9.9296,13.9445,Guider solar farm
+,,Guider solar farm - Unit 1,"Guider, Cameroon","Maroua, Cameroon",operating,15,,Scatec ASA,10.5998,14.3264,Maroua solar farm
+,,Maroua solar farm - Unit 1,"Maroua, Cameroon",Cameroon,announced,40,,,5.6542,10.09,Bamboutos Mountains wind farm
+,Wind Power Plant,Bamboutos Mountains wind farm,Cameroon,Cameroon,operating,100,,,4.8918,12.3598,Cameroon wind farm
+,,Cameroon wind farm,Cameroon,Cameroon,announced,1000,,Abu Dhabi Future Energy Co; Infinity,5.045,12.4442,Infinity Power (Cameroon) wind farms
+,,Infinity Power (Cameroon) wind farms,Cameroon,,,,,,,,
+,,,,,,,,,,,
+,,,,"Jerada, Jerada, Oriental, Morocco",retired,55,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.3095035,-2.1904519,Jerada power station
+Morocco,Coal Power Station,Jerada power station - Unit 1 ,"Jerada, Jerada, Oriental, Morocco","Jerada, Jerada, Oriental, Morocco",retired,55,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.3095035,-2.1904519,Jerada power station
+,,Jerada power station - Unit 2,"Jerada, Jerada, Oriental, Morocco","Jerada, Jerada, Oriental, Morocco",retired,55,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.3095035,-2.1904519,Jerada power station
+,,Jerada power station - Unit 3,"Jerada, Jerada, Oriental, Morocco","Jerada, Jerada, Oriental, Morocco",operating,350,,Office National de l'Electricité et de l'Eau Potable (Morocco); SEPCOIII Electric Power Construction Co Ltd,34.3095035,-2.1904519,Jerada power station
+,,Jerada power station - Unit 4,"Jerada, Jerada, Oriental, Morocco","Jerada, Jerada, Oriental, Morocco",cancelled,350,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.3095035,-2.1904519,Jerada power station
+,,Jerada power station - Unit 5,"Jerada, Jerada, Oriental, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,330,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 1,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,330,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 2,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,348,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 3,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,348,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 4,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,350,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 5,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco",operating,350,,TAQA Morocco SA [100%],33.1047305,-8.6376352,Jorf Lasfar power station
+,,Jorf Lasfar power station - Unit 6,"El Jorf Lasfar, El Jadida, Doukkala-Abda, Morocco","Mohammedia, Mohammedia, Grand Casablanca, Morocco",operating,150,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.681854,-7.434761,Mohammedia power station
+,,Mohammedia power station - Unit 3,"Mohammedia, Mohammedia, Grand Casablanca, Morocco","Mohammedia, Mohammedia, Grand Casablanca, Morocco",operating,150,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.681854,-7.434761,Mohammedia power station
+,,Mohammedia power station - Unit 4,"Mohammedia, Mohammedia, Grand Casablanca, Morocco","Nador, Nador, Morocco",cancelled,660,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.166667,-2.933333,Nador power station
+,,Nador power station - Unit 1,"Nador, Nador, Morocco","Nador, Nador, Morocco",cancelled,660,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.166667,-2.933333,Nador power station
+,,Nador power station - Unit 2,"Nador, Nador, Morocco","Cap Ghir Safi, Souss-Massa, Morocco",operating,693,,Safi Energy Company SA [100%],32.149115,-9.282294,Safi power station
+,,Safi power station - Unit 1,"Cap Ghir Safi, Souss-Massa, Morocco","Cap Ghir Safi, Souss-Massa, Morocco",operating,693,,Safi Energy Company SA [100%],32.149115,-9.282294,Safi power station
+,,Safi power station - Unit 2,"Cap Ghir Safi, Souss-Massa, Morocco","Agadir, Taroudant, Souss-Massa Region, Morocco",construction,335,Office National de L'Electricite de L'Eau Potable (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],30.4751,-8.8052,Abdelmoumen hydroelectric plant
+,Hydro Power Plant,Abdelmoumen hydroelectric plant,"Agadir, Taroudant, Souss-Massa Region, Morocco","cercle d'Afourar, Azilal Province, Morocco",operating,466,Office National de L'Electricite de L'Eau Potable (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.2077,-6.5317,Afourer hydroelectric plant
+,,Afourer hydroelectric plant,"cercle d'Afourar, Azilal Province, Morocco","Ait Oum El Bekht, cercle de El Ksiba, Ait Mellal Province, Morocco",operating,92,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.6933,-5.8885,Ahmed El Hansali hydroelectric plant
+,,Ahmed El Hansali hydroelectric plant,"Ait Oum El Bekht, cercle de El Ksiba, Ait Mellal Province, Morocco","Ait Ouaarda, cercle d'Afourar, Azilal Province, Morocco",operating,94,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.1089,-6.5095,Ait Ouarda hydroelectric plant
+,,Ait Ouarda hydroelectric plant,"Ait Ouaarda, cercle d'Afourar, Azilal Province, Morocco","cercle de El Borouj, Settat Province, Morocco",operating,128,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.4764,-7.6377,Al Massira hydroelectric plant
+,,Al Massira hydroelectric plant,"cercle de El Borouj, Settat Province, Morocco","Cercle de Ouazzane دائرة وزان, Ouezzane Province, Morocco",operating,240,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],34.5978,-5.201,Al Wahda hydroelectric plant
+,,Al Wahda hydroelectric plant,"Cercle de Ouazzane دائرة وزان, Ouezzane Province, Morocco","Bir Tam Tam, cercle de El Menzel, Sefrou Province, Morocco",operating,240,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],33.9318,-4.6768,Allal Al Fassi hydroelectric plant
+,,Allal Al Fassi hydroelectric plant,"Bir Tam Tam, cercle de El Menzel, Sefrou Province, Morocco","Bin El Ouidane, cercle d'Ouaouizeght, Azilal Province, Morocco",operating,135,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.1069,-6.4641,Bin El Ouidane hydroelectric plant
+,,Bin El Ouidane hydroelectric plant,"Bin El Ouidane, cercle d'Ouaouizeght, Azilal Province, Morocco","El Menzel, Fès-Meknès, Sefrou, Morocco",announced,300,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],33.8421,-4.5486,El Menzel II hydroelectric plant
+,,El Menzel II hydroelectric plant,"El Menzel, Fès-Meknès, Sefrou, Morocco","Sour El Aaz, cercle de El Attaouia, Kelaat Sraghna Province, Morocco",operating,67,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de l'Electricite et de l'Eau Potable,31.846,-7.0783,Hassan I hydroelectric plant
+,,Hassan I hydroelectric plant,"Sour El Aaz, cercle de El Attaouia, Kelaat Sraghna Province, Morocco","Chefchaouen, Tetouan, Morocco",announced,300,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],35.2969,-5.2288,Ifahsa hydroelectric plant
+,,Ifahsa hydroelectric plant,"Chefchaouen, Tetouan, Morocco","Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco",announced,62,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.9394,-5.6675,Imezdilfane hydroelectric plant
+,,Imezdilfane hydroelectric plant,"Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco","Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco",announced,28,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.9394,-5.6675,Tajemout hydroelectric plant
+,,Tajemout hydroelectric plant,"Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco","Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco",announced,38,	Office National de L'Electricite de L'Eau Potable [100%] (المكتب الوطنى للكهرباء والماء الصالح للشرب),Office National de L'Electricite de L'Eau Potable [100%],32.9394,-5.6675,Taskdert hydroelectric plant
+,,Taskdert hydroelectric plant,"Khenifra, Oum Er-Rbia River Basin, Béni Mellal, Khénifra, Morocco","Ain Beni Mathar, Jerada, Morocco",operating,470,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.0705,-2.1049,Ain Beni Mathar power plant
+,Oil & Gas Power Station,Ain Beni Mathar power plant - Unit 1,"Ain Beni Mathar, Jerada, Morocco","El Wahda Dam, Taounate, Morocco",announced,450,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.574275,-5.104071,Al Wahda power plant
+,,Al Wahda power plant - Unit 1,"El Wahda Dam, Taounate, Morocco","El Wahda Dam, Taounate, Morocco",announced,450,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.574275,-5.104071,Al Wahda power plant
+,,Al Wahda power plant - Unit 2,"El Wahda Dam, Taounate, Morocco","Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco",announced,400,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.056149,-6.199127,Dhar Doum CCGT power station
+,,Dhar Doum CCGT power station - Unit 1,"Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco","Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco",announced,400,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.056149,-6.199127,Dhar Doum CCGT power station
+,,Dhar Doum CCGT power station - Unit 2,"Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco","Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco",announced,400,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.056149,-6.199127,Dhar Doum CCGT power station
+,,Dhar Doum CCGT power station - Unit 3,"Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco","Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco",announced,400,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],35.056149,-6.199127,Dhar Doum CCGT power station
+,,Dhar Doum CCGT power station - Unit 4,"Dhar Doum, Tangier-Tétouan-Al Hoceima, Morocco","Jorf Lasfar, Casablanca-Settat, Morocco",announced,600,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.161029,-8.62481,Jorf Lasfar CCGT power station
+,,Jorf Lasfar CCGT power station - Unit 1,"Jorf Lasfar, Casablanca-Settat, Morocco","Jorf Lasfar, Casablanca-Settat, Morocco",announced,600,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.161029,-8.62481,Jorf Lasfar CCGT power station
+,,Jorf Lasfar CCGT power station - Unit 2,"Jorf Lasfar, Casablanca-Settat, Morocco","Kenitra, Rabat-Salé-Kénitra, Morocco",operating,105,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.34408,-6.5709,Kenitra power plant
+,,Kenitra power plant - Unit 1,"Kenitra, Rabat-Salé-Kénitra, Morocco","Kenitra, Rabat-Salé-Kénitra, Morocco",operating,105,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.34408,-6.5709,Kenitra power plant
+,,Kenitra power plant - Unit 2,"Kenitra, Rabat-Salé-Kénitra, Morocco","Kenitra, Rabat-Salé-Kénitra, Morocco",operating,105,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],34.34408,-6.5709,Kenitra power plant
+,,Kenitra power plant - Unit 3,"Kenitra, Rabat-Salé-Kénitra, Morocco","Mohammedia Prefecture, Grand Casablanca Region, Morocco",operating,100,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.68086,-7.4363,Mohammedia 2 Power Plant
+,,Mohammedia 2 Power Plant - Unit 1,"Mohammedia Prefecture, Grand Casablanca Region, Morocco","Mohammedia Prefecture, Grand Casablanca Region, Morocco",operating,100,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.68086,-7.4363,Mohammedia 2 Power Plant
+,,Mohammedia 2 Power Plant - Unit 2,"Mohammedia Prefecture, Grand Casablanca Region, Morocco","Mohammedia Prefecture, Grand Casablanca Region, Morocco",operating,100,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.68086,-7.4363,Mohammedia 2 Power Plant
+,,Mohammedia 2 Power Plant - Unit 3,"Mohammedia Prefecture, Grand Casablanca Region, Morocco","Mohammedia, Mohammedia, Grand Casablanca, Morocco",operating,150,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.681854,-7.434761,Mohammedia power station
+,,Mohammedia power station - Unit 1,"Mohammedia, Mohammedia, Grand Casablanca, Morocco","Mohammedia, Mohammedia, Grand Casablanca, Morocco",operating,150,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],33.681854,-7.434761,Mohammedia power station
+,,Mohammedia power station - Unit 2,"Mohammedia, Mohammedia, Grand Casablanca, Morocco","Houara, Tangier-Tétouan, Morocco",operating,400,,Energie Electrique de Tahaddart [100%],35.589177,-5.986626,Tahaddart power plant
+,,Tahaddart power plant - Unit 1,"Houara, Tangier-Tétouan, Morocco","Houara, Tangier-Tétouan, Morocco",construction,457,,Energie Electrique de Tahaddart [100%],35.589177,-5.986626,Tahaddart power plant
+,,Tahaddart power plant - Unit 2,"Houara, Tangier-Tétouan, Morocco","Tantan, Guelmim-Oued Noun, Morocco",operating,116,,Office National de l'Electricité et de l'Eau Potable (Morocco) [100%],28.43905,-11.09704,Tan Tan power plant
+,,Tan Tan power plant - Unit 1,"Tantan, Guelmim-Oued Noun, Morocco","Tantan, Guilmim-Oued Noun, Morocco",announced,7500,Hydrogenious LOHC Technologies; CWP Global,,28.4372,-11.0993,AMUN solar farm
+,Solar Power Plant,AMUN solar farm,"Tantan, Guilmim-Oued Noun, Morocco","cercle d'Assoul, Tinghir Province, Morocco",announced,2500,Adani Green Energy,,31.8288,-5.305,Adani Green solar farm
+,,Adani Green solar farm - Unit 1,"cercle d'Assoul, Tinghir Province, Morocco","cercle d'Assoul, Tinghir Province, Morocco",announced,2500,Adani Green Energy,,31.8288,-5.305,Adani Green solar farm
+,,Adani Green solar farm - Unit 2,"cercle d'Assoul, Tinghir Province, Morocco","Ain Beni Mathar Solar Farm, Jerada Province, Morocco",construction,69,Voltalia,Moroccan Agency for Sustainable Energy (MASEN),34.0097,-2.0324,Ain Beni Mathar solar farm
+,,Ain Beni Mathar solar farm,"Ain Beni Mathar Solar Farm, Jerada Province, Morocco","Bejaad, Boujad, Khouribga Province, Morocco",construction,48,Enel Green Power Morocco,Moroccan Agency for Sustainable Energy (MASEN),32.7782,-6.3965,Bajaad solar farm
+,,Bajaad solar farm,"Bejaad, Boujad, Khouribga Province, Morocco","El Hajeb, Fès-Meknès, El Hajeb Province, Morocco",construction,36,AMEA Power (أيميا باور),Moroccan Agency for Sustainable Energy (MASEN),33.6879,-5.371,El Hajeb solar farm
+,,El Hajeb solar farm,"El Hajeb, Fès-Meknès, El Hajeb Province, Morocco","South Morocco, Morocco",pre-construction,2000,Gesellschaft für Alternative Ingenieurtechnische Anwendungen; Ajlan Bros; Energy China International Construction Group,,28.2732,-10.6224,Energy China solar farm
+,,Energy China solar farm,"South Morocco, Morocco","Hjar Nahal, Tangier-Tetouan-Al Hoceima, Morocco",operating,34,GreenPower Morocco; AMEA Power (أيميا باور),AMEA Power; GreenPower Morocco,35.6107,-5.9173,GPM1 solar farm
+,,GPM1 solar farm,"Hjar Nahal, Tangier-Tetouan-Al Hoceima, Morocco","Tangier-Asilah, Morocco",pre-construction,30,GreenPower Morocco,Moroccan Agency for Sustainable Energy (MASEN),35.4619,-6.0365,Green Power PV Plant solar farm
+,,Green Power PV Plant solar farm,"Tangier-Asilah, Morocco","Guelmim, Morocco",construction,100,,KfW; MASEN,31.8221,-6.4213,Guelmim Green Hydrogen solar farm
+,,Guelmim Green Hydrogen solar farm,"Guelmim, Morocco","Guercif, Oriental, Guercif, Morocco",pre-construction,48,Voltalia,Moroccan Agency for Sustainable Energy (MASEN),34.2375,-3.3512,Guercif solar farm
+,,Guercif solar farm,"Guercif, Oriental, Guercif, Morocco","Ain Bni Mathar, cercle d'Aïn Bni Mathar دائرة عين بني مطهر, Jerada Province, Morocco",operating,20,Abengoa,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE); Abengoa SA,34.0683,-2.1047,ISCC Ain Beni Mathar solar farm
+,,ISCC Ain Beni Mathar solar farm,"Ain Bni Mathar, cercle d'Aïn Bni Mathar دائرة عين بني مطهر, Jerada Province, Morocco","Kelaa Sraghna, Marrakesh-Safi, Kelaa Sraghna, Morocco",shelved,48,Taqa Maroc,Moroccan Agency for Sustainable Energy (MASEN),32.0422,-7.405,Kelaa Sraghna Solar
+,,Kelaa Sraghna Solar,"Kelaa Sraghna, Marrakesh-Safi, Kelaa Sraghna, Morocco","Guelmim-Oued Noun, Morocco",pre-construction,7000,Xlinks; Octopus Energy Group,Xlinks; Octopus Energy Group Ltd,28.5274,-10.0316,Morocco-UK Solar Power
+,,Morocco-UK Solar Power,"Guelmim-Oued Noun, Morocco","Argana, Taroudannt, Morocco",cancelled,200,,Moroccan Agency for Sustainable Energy (MASEN),30.7793,-9.1242,Noor Argana solar farm
+,,Noor Argana solar farm,"Argana, Taroudannt, Morocco","Ain Beni Mathar, Jerada Province, Morocco",shelved,42,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),34.0164,-2.0258,Noor Atlas Ain Beni Mathar solar farm
+,,Noor Atlas Ain Beni Mathar solar farm - PV 5,"Ain Beni Mathar, Jerada Province, Morocco","Bouanane, Oriental, Figuig Province, Morocco",shelved,30,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),32.0392,-3.0493,Noor Atlas Bouanane solar farm
+,,Noor Atlas Bouanane solar farm - PV 7,"Bouanane, Oriental, Figuig Province, Morocco","Boudnib, Atlas mountains, Morocco",shelved,42,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),31.1402,-7.9101,Noor Atlas Boudnib solar farm
+,,Noor Atlas Boudnib solar farm - PV 6,"Boudnib, Atlas mountains, Morocco","Boulmane (Enjil), Fès-Meknès, Boulemane Province, Morocco",pre-construction,42,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),33.2476,-3.9102,Noor Atlas Boulmane (Enjil) solar farm
+,,Noor Atlas Boulmane (Enjil) solar farm - PV 8,"Boulmane (Enjil), Fès-Meknès, Boulemane Province, Morocco","Outat El Haj, Boulemane Provinc, Morocco",shelved,36,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),31.1728,-7.3362,Noor Atlas Outat El Haj solar farm
+,,Noor Atlas Outat El Haj solar farm - PV 4,"Outat El Haj, Boulemane Provinc, Morocco","Tahla (Bouizakarne), Taza Pronivce, Morocco",cancelled,25,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),31.1728,-7.3362,Noor Atlas Tahla (Bouizakarne) solar farm
+,,Noor Atlas Tahla (Bouizakarne) solar farm - PV 2,"Tahla (Bouizakarne), Taza Pronivce, Morocco","Tan Tan, Guelmim-Oued Noun, Tan-Tan Province, Morocco",shelved,36,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),28.2105,-11.0873,Noor Atlas Tan Tan solar farm
+,,Noor Atlas Tan Tan solar farm - PV 3,"Tan Tan, Guelmim-Oued Noun, Tan-Tan Province, Morocco","Tata, Tata City, Tata Province, Morocco",pre-construction,36,,Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),29.3862,-8.0379,Noor Atlas Tata solar farm
+,,Noor Atlas Tata solar farm - PV 1,"Tata, Tata City, Tata Province, Morocco","Draa-Tafilalet, Atlas Mountains, Morocco",shelved,115,,,32.8838,-4.7101,Noor Midelt II solar farm
+,,Noor Midelt II solar farm - 2 PV,"Draa-Tafilalet, Atlas Mountains, Morocco","Draa-Tafilalet, Atlas Mountains, Morocco",shelved,115,,,32.8838,-4.7101,Noor Midelt II solar farm
+,,Noor Midelt II solar farm - 2 Solar Thermal,"Draa-Tafilalet, Atlas Mountains, Morocco","Midelt, Midelt Province, Morocco",pre-construction,400,,,32.8838,-4.7101,Noor Midelt III solar farm
+,,Noor Midelt III solar farm,"Midelt, Midelt Province, Morocco","Midelt, Midelt Province, Morocco",construction,400,,MASEN; EDF Renewables; Masdar Clean Energy; Green of Africa,32.8838,-4.7101,Noor Midelt solar farm
+,,Noor Midelt solar farm - 1 PV,"Midelt, Midelt Province, Morocco","Midelt, Midelt Province, Morocco",pre-construction,400,,MASEN; EDF Renewables; Masdar Clean Energy; Green of Africa,32.8838,-4.7101,Noor Midelt solar farm
+,,Noor Midelt solar farm - 1 Solar Thermal,"Midelt, Midelt Province, Morocco","Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco",operating,160,NOMAC,TSK; MASEN; ARiES Energy; ACWA Power Co; ASRA,31.0106,-6.8626,Noor Ouarzazate solar farm
+,,Noor Ouarzazate solar farm - Unit 1,"Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco","Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco",operating,200,MASEN; NOMAC,SENER; ACWA Power Co,31.0106,-6.8626,Noor Ouarzazate solar farm
+,,Noor Ouarzazate solar farm - Unit 2,"Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco","Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco",operating,150,MASEN; NOMAC,SENER; ACWA Power Co,31.0106,-6.8626,Noor Ouarzazate solar farm
+,,Noor Ouarzazate solar farm - Unit 3,"Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco","Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco",operating,72,ACWA Power,ACWA Power Co; MASEN,31.0106,-6.8626,Noor Ouarzazate solar farm
+,,Noor Ouarzazate solar farm - Unit 4,"Ouarzazate, cercle d'Ouarzazate, Ouarzazate Province, Morocco","Erfoud, Souss-Massa-Draâ, Morocco",operating,40,Office National de l'Electricité et de l'Eau Potable (Morocco) (المكتب الوطني للكهرباء والماء الصالح للشرب (المغرب)),Moroccan Agency for Sustainable Energy (MASEN); Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),31.513,-4.275,Noor Tafilalt Erfoud Solar
+,,Noor Tafilalt Erfoud Solar - PV 1,"Erfoud, Souss-Massa-Draâ, Morocco","Missour, Fez-Bouleman, Morocco",operating,40,Office National de l'Electricité et de l'Eau Potable (Morocco) (المكتب الوطني للكهرباء والماء الصالح للشرب (المغرب)),Moroccan Agency for Sustainable Energy (MASEN); Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),32.8071,-4.0285,Noor Tafilalt Missour Solar
+,,Noor Tafilalt Missour Solar PV 2,"Missour, Fez-Bouleman, Morocco","Zagora, Guelmin-Semara, Morocco",operating,40,Office National de l'Electricité et de l'Eau Potable (Morocco) (المكتب الوطني للكهرباء والماء الصالح للشرب (المغرب)),Moroccan Agency for Sustainable Energy (MASEN); Electricity Branch of the Moroccan Water Conservancy and Electricity Bureau (ONEE-BE),30.265,-5.819,Noor Tafilalt Zagora Solar
+,,Noor Tafilalt Zagora Solar - PV 3,"Zagora, Guelmin-Semara, Morocco","Ben Guerir, Rehamna, Morocco",construction,22,,,32.2331,-7.9536,OCP-Benguerir I solar farm
+,,OCP-Benguerir I solar farm,"Ben Guerir, Rehamna, Morocco","Ben Guerir, Rehamna, Morocco",pre-construction,45,,,32.2331,-7.9536,OCP-Benguerir II solar farm
+,,OCP-Benguerir II solar farm,"Ben Guerir, Rehamna, Morocco","Khouribga, Béni Mellal-Khénifra, Khouribga, Morocco",construction,30,,,32.8744,-6.9199,OCP-Khouribga I solar farm
+,,OCP-Khouribga I solar farm,"Khouribga, Béni Mellal-Khénifra, Khouribga, Morocco","Khouribga, Béni Mellal-Khénifra, Khouribga, Morocco",construction,105,,,32.8744,-6.9199,OCP-Khouribga II solar farm
+,,OCP-Khouribga II solar farm,"Khouribga, Béni Mellal-Khénifra, Khouribga, Morocco","Sidi Bennour, Casablanca-Settat, Sidi Bennour Province, Morocco",construction,48,Taqa Maroc,Moroccan Agency for Sustainable Energy (MASEN),32.6524,-8.4277,Sidi Bennour solar farm
+,,Sidi Bennour solar farm,"Sidi Bennour, Casablanca-Settat, Sidi Bennour Province, Morocco","Taroudant, Sous Valley, Souss-Massa, Morocco",construction,36,AMEA Power (أيميا باور),Moroccan Agency for Sustainable Energy (MASEN),30.4703,-8.877,Taroudant Solar
+,,Taroudant Solar,"Taroudant, Sous Valley, Souss-Massa, Morocco","Guelmim-Oued Noun, Morocco",pre-construction,5000,Total Eren,Total Eren SA,28.9833,-10.0667,Total Eren-Guelmim-Oued Noun Solar
+,,Total Eren-Guelmim-Oued Noun Solar,"Guelmim-Oued Noun, Morocco","Ameur Seflia, Cercle de Kenitra-Banlieue, Kénitra Province, Morocco",operating,2.3,,,34.3025,-6.3816,Ameur Seflia Cercle De Kenitra-Banlieue solar project
+,,Ameur Seflia Cercle De Kenitra-Banlieue solar project,"Ameur Seflia, Cercle de Kenitra-Banlieue, Kénitra Province, Morocco","Ben Guerir, Pachalik de Benguerir باشوية ابن جرير, Rhamna Province, Morocco",operating,18,OCP Group (المجمع الشريف للفوسفاط),Moroccan Agency for Sustainable Energy (MASEN),32.2213,-7.9282,Ben Guerir solar farm
+,,Ben Guerir solar farm,"Ben Guerir, Pachalik de Benguerir باشوية ابن جرير, Rhamna Province, Morocco","cercle de Azemmour, El Jadida Province, Morocco",operating,6.2,,,33.2891,-8.2974,Cercle De Azemmour solar project
+,,Cercle De Azemmour solar project,"cercle de Azemmour, El Jadida Province, Morocco","cercle de Chrarda, Sidi Kacem Province, Morocco",operating,1.4,,,34.2957,-5.6636,Cercle De Chrarda solar project
+,,Cercle De Chrarda solar project,"cercle de Chrarda, Sidi Kacem Province, Morocco","Cercle de El Gara دائرة الكارة, Berrechid Province, Morocco",operating,1.2,,,33.2395,-7.5494,Cercle De El Gara دائرة الكارة solar project
+,,Cercle De El Gara دائرة الكارة solar project,"Cercle de El Gara دائرة الكارة, Berrechid Province, Morocco","cercle de Missour, Boulemane Province, Morocco",operating,17.5,,,33.0048,-4.0885,Cercle De Missour solar project
+,,Cercle De Missour solar project,"cercle de Missour, Boulemane Province, Morocco","Ait Oum El Bekht, cercle de El Ksiba, Ait Mellal Province, Morocco",pre-construction,10,Gesellschaft für Alternative Ingenieurtechnische Anwendungen; H2Pro,,32.5911,-5.9422,Gaia-H2Pro solar farm
+,,Gaia-H2Pro solar farm,"Ait Oum El Bekht, cercle de El Ksiba, Ait Mellal Province, Morocco","Gmassa, cercle d'Majjat, Province of Shishawa, Morocco",operating,10.7,,,31.451,-8.4378,Gmassa Cercle D'Majjat solar project
+,,Gmassa Cercle D'Majjat solar project,"Gmassa, cercle d'Majjat, Province of Shishawa, Morocco","Jerada, Morocco",pre-construction,10,Marco Photovoltaique,Moroccan Agency for Sustainable Energy (MASEN),34.3058,-2.1772,Jerada-Marco Photovoltaique solar farm
+,,Jerada-Marco Photovoltaique solar farm,"Jerada, Morocco","Lamzoudia لمزوضية, Cercle de Chichaoua دائرة شيشاوة, Province of Shishawa, Morocco",operating,1.8,,,31.7117,-8.4534,Lamzoudia لمزوضية Cercle De Chichaoua دائرة شيشاوة solar project
+,,Lamzoudia لمزوضية Cercle De Chichaoua دائرة شيشاوة solar project,"Lamzoudia لمزوضية, Cercle de Chichaoua دائرة شيشاوة, Province of Shishawa, Morocco","Pachalik de Al Aaroui, Nador Province, Morocco",operating,2.6,,,35.0338,-2.9744,Pachalik De Al Aaroui solar project
+,,Pachalik De Al Aaroui solar project,"Pachalik de Al Aaroui, Nador Province, Morocco","Touizgui ⵜⵡⵉⵣⴳⵉ تويزكي, Cercle d'Assa دائرة آسا, Morocco",operating,1.6,,,28.626,-9.4677,Touizgui ⵜⵡⵉⵣⴳⵉ تويزكي Cercle D'Assa دائرة آسا solar project
+,,Touizgui ⵜⵡⵉⵣⴳⵉ تويزكي Cercle D'Assa دائرة آسا solar project,"Touizgui ⵜⵡⵉⵣⴳⵉ تويزكي, Cercle d'Assa دائرة آسا, Morocco",Morocco,announced,2500,Adani Green Energy,,32.8868,-5.9422,Adani Green wind farm
+,Wind Power Plant,Adani Green wind farm - Unit 1,Morocco,Morocco,announced,2500,Adani Green Energy,,32.8868,-5.9422,Adani Green wind farm
+,,Adani Green wind farm - Unit 2,Morocco,"Guilmim-Oued Noun, Morocco",pre-construction,80,Enel Green Power,Enel Green Power SpA,31.1728,-7.3362,Aferkat wind farm
+,,Aferkat wind farm,"Guilmim-Oued Noun, Morocco","Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco",operating,102,,Moroccan Wind Energy Company (EEM),27.9538,-11.9975,Akhfenir wind farm
+,,Akhfenir wind farm - Unit 1,"Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco","Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco",operating,100,,Moroccan Wind Energy Company (EEM),27.9538,-11.9975,Akhfenir wind farm
+,,Akhfenir wind farm - Unit 2,"Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco","Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco",pre-construction,50,,Moroccan Wind Energy Company (EEM),27.9538,-11.9975,Akhfenir wind farm
+,,Akhfenir wind farm - Unit 3,"Akhfenir, cercle de Tarfaya دائرة طرفاية, Tarfaya Province, Morocco","Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco",operating,54,Theolia,Theolia SA; Office National de l'Electricité et de l'Eau Potable (Morocco),35.8184,-5.4538,Al Koudia wind farm
+,,Al Koudia wind farm - Unit 1,"Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco","Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco",construction,200,,Theolia SA; Office National de l'Electricité et de l'Eau Potable (Morocco),35.8184,-5.4538,Al Koudia wind farm
+,,Al Koudia wind farm - Expansion,"Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco","Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco",construction,120,,Theolia SA; Office National de l'Electricité et de l'Eau Potable (Morocco),35.8184,-5.4538,Al Koudia wind farm
+,,Al Koudia wind farm - RP 2022,"Taghramt, cercle d'Anjra, Fahs-Anjra Province, Morocco","Essaouira, Pachalik d'Essaouira, Essaouira Province, Morocco",operating,60,Siemens Gamesa Renewable Energy SA (Siemens Gamesa Renewable Energy Siemens Gamesa Ανανεωσιμη Ενεργεια Ανωμυμη Εταιρεια),,31.3973,-9.8067,Amougdoul Essaouira wind farm
+,,Amougdoul Essaouira wind farm,"Essaouira, Pachalik d'Essaouira, Essaouira Province, Morocco","Tantan, Guilmim-Oued Noun, Morocco",announced,7500,Hydrogenious LOHC Technologies; CWP Global,Hydrogenious LOHC Technologies; CWP Global,28.4372,-11.0993,AMUN wind farm
+,,AMUN wind farm,"Tantan, Guilmim-Oued Noun, Morocco","Marakesh-Safi, Morocco",construction,108,Green Breeze (Société Green Breeze),Green Breeze Co,31.6634,-7.8741,Cap Cantin wind farm
+,,Cap Cantin wind farm,"Marakesh-Safi, Morocco","South Morroco, Morocco",pre-construction,4000,Gaia Energy; Ajlan Bros; Energy China International Construction Group,,28.2732,-10.6224,Energy China wind farm
+,,Energy China wind farm,"South Morroco, Morocco",Morocco,pre-construction,10,Gaia Energy; H2Pro,,32.4057,-5.3929,Gaia-H2Pro wind farm
+,,Gaia-H2Pro wind farm,Morocco,"Guelmim, Morocco",construction,100,,KfW; MASEN,31.8221,-6.4213,Guelmim Green Hydrogen wind farm
+,,Guelmim Green Hydrogen wind farm,"Guelmim, Morocco","Ksar El Majaz, cercle d'Anjra, Fahs-Anjra Province, Morocco",operating,51,,,35.8054,-5.493,Haouma wind farm
+,,Haouma wind farm,"Ksar El Majaz, cercle d'Anjra, Fahs-Anjra Province, Morocco","Essaouira, Marakesh-Safi, Morocco",construction,270,,Office National de l'Electricité et de l'Eau Potable (Morocco),31.6634,-7.8741,Jbel Lahdid wind farm
+,,Jbel Lahdid wind farm,"Essaouira, Marakesh-Safi, Morocco","Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco",operating,120,,ACWA Power Co,35.7609,-5.576,Khalladi wind farm
+,,Khalladi wind farm,"Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco","Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco",operating,10,Lafarge Maroc,,35.6063,-5.4385,Lafarge wind farm
+,,Lafarge wind farm - Unit 1,"Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco","Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco",operating,10,Lafarge Maroc,,35.6063,-5.4385,Lafarge wind farm
+,,Lafarge wind farm - Unit 2,"Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco","Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco",operating,12,Lafarge Maroc,,35.6063,-5.4385,Lafarge wind farm
+,,Lafarge wind farm - Unit 3,"Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco","cercle de Midelt دائرة ميدلت, Midelt Province, Morocco",operating,210,Navera Group; Enel Green Power; Siemens,Office National de l'Electricité et de l'Eau Potable (Morocco),32.722,-4.6565,Midelt wind farm
+,,Midelt wind farm,"cercle de Midelt دائرة ميدلت, Midelt Province, Morocco",Morocco,pre-construction,3500,Xlinks; Octopus Energy,Xlinks; Octopus Energy,28.5274,-10.0316,Morocco-UK wind farm
+,,Morocco-UK wind farm,Morocco,"Safi, Marakesh-Safi, Morocco",operating,18,InnoVent Group,Office National de l'Electricité et de l'Eau Potable (Morocco),31.6634,-7.8741,Oualidia wind farm
+,,Oualidia wind farm - Unit 1,"Safi, Marakesh-Safi, Morocco","Safi, Marakesh-Safi, Morocco",operating,17,InnoVent Group,Office National de l'Electricité et de l'Eau Potable (Morocco),31.6634,-7.8741,Oualidia wind farm
+,,Oualidia wind farm - Unit 2,"Safi, Marakesh-Safi, Morocco","Tangier, Tanger-Tetouan-Al Hoceima, Morocco",pre-construction,70,Navera Group; Enel Green Power; Siemens,Office National de l'Electricité et de l'Eau Potable (Morocco),35.7888,-5.8145,Tangier 2 wind farm
+,,Tangier 2 wind farm,"Tangier, Tanger-Tetouan-Al Hoceima, Morocco","Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco",operating,107,ONEE-BE,,35.6471,-5.606,Tangier wind farm
+,,Tangier wind farm - Unit 1,"Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco","Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco",operating,33,ONEE-BE,,35.6467,-5.6078,Tangier wind farm
+,,Tangier wind farm - Unit 2,"Malloussa, cercle de Fahs, Fahs-Anjra Province, Morocco","Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco",operating,300,EDF Energie Nouvelles,Office National de l'Electricité et de l'Eau Potable (Morocco),35.611,-5.432,Tarfaya wind farm
+,,Tarfaya wind farm,"Saddina, Cercle de Jebala دائرة جبالة, Tetouan Province, Morocco","Cercle de Taza دائرة تازة, Taza Province, Morocco",operating,87,EDF Energie Nouvelles,Office National de l'Electricité et de l'Eau Potable (Morocco),34.2553,-4.0049,Taza wind farm
+,,Taza wind farm - Unit 1,"Cercle de Taza دائرة تازة, Taza Province, Morocco","Taza, Taza, Morocco",pre-construction,63,,Office National de l'Electricité et de l'Eau Potable (Morocco),34.2553,-4.0049,Taza wind farm
+,,Taza wind farm - Unit 2,"Taza, Taza, Morocco","Guelmim-Oued Noun Solar, Morocco",announced,5000,Total Eren,,28.9884,-10.0508,Total Eren-Guelmim-Oued Noun wind farm
+,,Total Eren-Guelmim-Oued Noun wind farm,"Guelmim-Oued Noun Solar, Morocco","Dakhla, Morocco",announced,10000,Hydrogène de France (HDF Energy),Hydrogène de France (HDF Energy),23.7186,-15.9418,White Dunes wind farm
+,,White Dunes wind farm,"Dakhla, Morocco",,,,,,,,
+,,,,,,,,,,,
+,,,,"N'Djamena, Chad",operating,60,,Societe Nationale d'Electricite du Tchad,12.13501,14.99649,Farcha power station
+Chad,Oil & Gas Power Station,Farcha power station - Unit 2,"N'Djamena, Chad","N'Djamena, Chad",announced,90,,Societe Nationale d'Electricite du Tchad,12.13501,14.99649,Farcha power station
+,,Farcha power station - Unit 3,"N'Djamena, Chad","N'Djamena, Chad",operating,7,,Societe Nationale d'Electricite du Tchad,12.13501,14.99649,Farcha power station
+,,Farcha power station - Unit 1,"N'Djamena, Chad","N'Djamena, Chad",operating,22,,Societe Nationale d'Electricite du Tchad,12.112785,15.066372,N'Djamena power station
+,,N'Djamena power station - Unit 1,"N'Djamena, Chad","Gassi, Chad",shelved,200,,Alcaal Renovables SRL,12.0813,15.1455,Ronier–Djermaya Oil Pipeline
+,Solar Power Plant,Alcaal Gassi solar farm,"Gassi, Chad","Borkou, Chad",cancelled,200,,Almaden Emirates Fortune Power LLC,15.6134,19.0156,Almaden solar farm
+,,Almaden solar farm,"Borkou, Chad","Doba, Logone Oriental, Chad",announced,300,,Savannah Energy PLC,8.6764,16.8515,Centrale Solaire de Komé solar farm
+,,Centrale Solaire de Komé solar farm,"Doba, Logone Oriental, Chad","N’Djamena, Chad",shelved,100,,Savannah Energy PLC,12.1192,15.0503,Centrales d’Energie Renouvelable de N’Djamena solar farm
+,,Centrales d’Energie Renouvelable de N’Djamena solar farm,"N’Djamena, Chad","Djermaya, Chad",announced,28,,,12.2235,16.5629,Desert to Power (Chad) solar farms
+,,Desert to Power (Chad) solar farms - Djermaya,"Djermaya, Chad","Djermaya, Chad",pre-construction,36,,InfraCo Africa; Smart Energies; Anergi International Ltd,12.3969,15.0536,Djermaya solar farm
+,,Djermaya solar farm - Unit 1,"Djermaya, Chad","Djermaya, Chad",pre-construction,24,,InfraCo Africa; Smart Energies; Anergi International Ltd,12.3969,15.0536,Djermaya solar farm
+,,Djermaya solar farm - Unit 2,"Djermaya, Chad","Gaoui, Chad",shelved,50,,Merl Solar Technologies,12.1787,15.1483,Gaoui solar farm
+,,Gaoui solar farm - Unit 1,"Gaoui, Chad","Gaoui, Chad",shelved,50,,Merl Solar Technologies,12.1787,15.1483,Gaoui solar farm
+,,Gaoui solar farm - Unit 2,"Gaoui, Chad","Gassi, Chad",announced,30,,,12.0739,15.1433,Gassi (RESPITE) solar farm
+,,Gassi (RESPITE) solar farm,"Gassi, Chad","N’Djamena, Chad",cancelled,60,,AMEA Power,12.1192,15.0503,N'Djamena (AMEA) solar farm
+,,N'Djamena (AMEA) solar farm - Unit 1,"N’Djamena, Chad","N’Djamena, Chad",cancelled,60,,AMEA Power,12.1192,15.0503,N'Djamena (AMEA) solar farm
+,,N'Djamena (AMEA) solar farm - Unit 2,"N’Djamena, Chad","Gassi District, N’Djamena, Chad",construction,21.5,,QAir Group,12.0905,15.1331,N'Djamena (Qair) solar farm
+,,N'Djamena (Qair) solar farm - Unit 1,"Gassi District, N’Djamena, Chad","N'Djamena, Chad",announced,35,,Scatec ASA,12.1557,15.0835,N'Djamena (Scatec) solar farm
+,,N'Djamena (Scatec) solar farm,"N'Djamena, Chad","N'Djamena, Chad",announced,120,,CE Convalt Energy,12.1292,15.0325,N'Djamena Airport solar farm
+,,N'Djamena Airport solar farm - Unit 2,"N'Djamena, Chad","Sarh, Chad",cancelled,30,,,10.9701,20.2539,Sarh solar farm
+,,Sarh solar farm,"Sarh, Chad","N’Djamena, Chad",cancelled,32,,Arborescence Capital; NewSolar Invest; CIEC Monaco,12.1192,15.0503,Starsol solar farm
+,,Starsol solar farm,"N’Djamena, Chad","Lamadji District, N’Djamena, Chad",construction,8.5,,QAir Group,12.1349,15.0564,N'Djamena (Qair) solar farm
+,,N'Djamena (Qair) solar farm - Unit 2,"Lamadji District, N’Djamena, Chad","N'Djamena, Chad",construction,5,,CE Convalt Energy,12.1292,15.0325,N'Djamena Airport solar farm
+,,N'Djamena Airport solar farm - Unit 1,"N'Djamena, Chad","N'Djamena, Chad",announced,100,,Savannah Energy PLC,12.1232,15.0712,Centrales d’Energie Renouvelable de N’Djamena wind farm
+,Wind Power Plant,Centrales d’Energie Renouvelable de N’Djamena wind farm,"N'Djamena, Chad",,,,,,,,
+,,,,,,,,,,,
+,,,,"Atebubu-Amantin Municipal District, Bono East Region, Ghana",construction,60,,Africa Plantation for Sustainable Development Ltd [100%],7.7542,-0.9844,Atebubu power station
+Ghana,Bioenergy Power Station,Atebubu power station - Unit 1,"Atebubu-Amantin Municipal District, Bono East Region, Ghana","Ningo-Prampram District, Greater Accra Region, Ghana",cancelled,60,,Armech Africa Ltd [100%],5.7355,0.0316,Tema W2E power station
+,,Tema W2E power station - Unit 1,"Ningo-Prampram District, Greater Accra Region, Ghana","Otuam, Aboano, Ekumfi District, Central region, Ghana",cancelled,350,,Sunon Asogli Power Ltd [100%],5.666667,-1,Aboano power station
+,Coal Power Station,Aboano power station - Unit 1,"Otuam, Aboano, Ekumfi District, Central region, Ghana","Otuam, Aboano, Ekumfi District, Central region, Ghana",cancelled,350,,Sunon Asogli Power Ltd [100%],5.666667,-1,Aboano power station
+,,Aboano power station - Unit 2,"Otuam, Aboano, Ekumfi District, Central region, Ghana","Otuam, Aboano, Ekumfi District, Central region, Ghana",cancelled,1400,,Sunon Asogli Power Ltd [100%],5.666667,-1,Aboano power station
+,,Aboano power station - Unit 3,"Otuam, Aboano, Ekumfi District, Central region, Ghana","Asuogyaman District, Eastern Region, Ghana",operating,1020,,Volta River Authority [100%],6.2999,0.0557,Aksombo hydroelectric plant
+,Hydro Power Station,Aksombo hydroelectric plant,"Asuogyaman District, Eastern Region, Ghana","Awisam, Central Province, Ghana",pre-construction,50,,Volta River Authority,5.7915,-1.579,Awisam hydroelectric plant
+,,Awisam hydroelectric plant,"Awisam, Central Province, Ghana","Bole District, Savannah Region, Ghana",operating,404,Bui Power Authority (BPA),Bui Power Authority (BPA) [100%],8.2792,-2.2356,Bui hydroelectric plant
+,,Bui hydroelectric plant,"Bole District, Savannah Region, Ghana","Juale, Juale, Northern Region, Northern Region, Ghana",announced,90,,Volta River Authority,8.6818,0.1436,Juale hydroelectric plant
+,,Juale hydroelectric plant,"Juale, Juale, Northern Region, Northern Region, Ghana","Lower Manya Krobo Municipal District, Eastern Region, Ghana",operating,160,,Volta River Authority [100%],6.1187,0.1238,Kpong hydroelectric plant
+,,Kpong hydroelectric plant,"Lower Manya Krobo Municipal District, Eastern Region, Ghana","North East Region, Ghana",pre-construction,60,,Volta River Authority,10.5851,-0.8418,Pwalugu hydroelectric plant
+,,Pwalugu hydroelectric plant,"North East Region, Ghana","Tanoso, Brong-Ahafo, Ghana",pre-construction,56,,Volta River Authority,6.7003,-1.6843,Tanoso hydroelectric plant
+,,Tanoso hydroelectric plant,"Tanoso, Brong-Ahafo, Ghana","Aboadze, Western, Ghana",shelved,330,,Rotan Power Ltd [100%],4.968973,-1.663185,Aboadze Rotan power station
+,Oil & Gas Power Station,Aboadze Rotan power station - Unit 1,"Aboadze, Western, Ghana","Aboadze, Western, Ghana",shelved,330,,Rotan Power Ltd [100%],4.968973,-1.663185,Aboadze Rotan power station
+,,Aboadze Rotan power station - Unit 2,"Aboadze, Western, Ghana","Tema, Ghana",operating,370,,Aksa Enerji Uretim AŞ,5.692748,0.021523,Aksa Ghana HFO power plant
+,,Aksa Ghana HFO power plant - Unit 1,"Tema, Ghana","Aboadze, Western, Ghana",operating,203,,Amandi Energy Ltd [100%],4.968201,-1.667387,Amandi power station
+,,Amandi power station - Unit 1,"Aboadze, Western, Ghana","Tema, Greater Accra, Ghana",operating,194,,Early Power Ltd [100%],5.677739,0.019369,Bridge power station
+,,Bridge power station - Unit 1,"Tema, Greater Accra, Ghana","Tema, Greater Accra, Ghana",pre-construction,200,,Early Power Ltd [100%],5.677739,0.019369,Bridge power station
+,,Bridge power station - Unit 2,"Tema, Greater Accra, Ghana","Aboadze, Western, Ghana",cancelled,750,,OneEnergy Ltd [100%],4.972809,-1.658802,Ghana 1000 power station
+,,Ghana 1000 power station - 01 Jan,"Aboadze, Western, Ghana","Aboadze, Western, Ghana",cancelled,550,,OneEnergy Ltd [100%],4.972809,-1.658802,Ghana 1000 power station
+,,Ghana 1000 power station - 02 Jan,"Aboadze, Western, Ghana","Sekondi, Western, Ghana",operating,450,,Karpowership [100%],4.93844,-1.696663,Karpowership (Ghana) Osman Khan power station
+,,Karpowership (Ghana) Osman Khan power station - Unit 1,"Sekondi, Western, Ghana","Tema, Greater Accra, Ghana",operating,350,,Cenpower Generation Co Ltd [100%],5.681203,0.041086,Kpone IPP (KIPP) power station
+,,Kpone IPP (KIPP) power station - Unit 1,"Tema, Greater Accra, Ghana","Tema, Greater Accra, Ghana",operating,110,,Volta River Authority [100%],5.734624,0.009259,Kpone Thermal power plant
+,,Kpone Thermal power plant - GT 1,"Tema, Greater Accra, Ghana","Tema, Greater Accra, Ghana",operating,110,,Volta River Authority [100%],5.734624,0.009259,Kpone Thermal power plant
+,,Kpone Thermal power plant - GT 2,"Tema, Greater Accra, Ghana","Kpone, Greater Accra, Ghana",operating,200,,Sunon Asogli Power Ltd [100%],5.6803,0.047054,Sunon Asogli power station
+,,Sunon Asogli power station - Unit 1,"Kpone, Greater Accra, Ghana","Kpone, Greater Accra, Ghana",operating,360,,Sunon Asogli Power Ltd [100%],5.6803,0.047054,Sunon Asogli power station
+,,Sunon Asogli power station - Unit 2,"Kpone, Greater Accra, Ghana","Aboadze, Western, Ghana",operating,330,,Takoradi Power Co [100%],4.971862,-1.658276,Takoradi (TAPCO) 1 Thermal power plant
+,,Takoradi (TAPCO) 1 Thermal power plant - Unit 1,"Aboadze, Western, Ghana","Aboadze, Western, Ghana",operating,132,,Volta River Authority [100%],4.974647,-1.657951,Takoradi (TAPCO) 3 Thermal power plant
+,,Takoradi (TAPCO) 3 Thermal power plant - Unit 1,"Aboadze, Western, Ghana","Aboadze, Western, Ghana",operating,320,,Takoradi International Co Ltd [100%],4.971632,-1.659773,Takoradi (TICO) Thermal power plant
+,,Takoradi (TICO) Thermal power plant - Unit 2,"Aboadze, Western, Ghana","Tema, Greater Accra, Ghana",operating,110,,CENIT Energy Limited (CEL) [100%],5.674457,0.012238,Tema CENIT Thermal power plant (TCTPP)
+,,Tema CENIT Thermal power plant (TCTPP) - Unit 1,"Tema, Greater Accra, Ghana","Tema, Greater Accra, Ghana",operating,110,,Volta River Authority [100%],5.673994,0.010585,Tema Thermal Power Complex
+,,Tema Thermal Power Complex - Unit 1,"Tema, Greater Accra, Ghana","Tema, Greater Accra, Ghana",operating,80,,Volta River Authority [100%],5.673994,0.010585,Tema Thermal Power Complex
+,,Tema Thermal Power Complex - Unit 2,"Tema, Greater Accra, Ghana","Bolgatanga, Ghana",operating,100,UBI Energy,UBI Energy Corp,10.7854,-0.8487,Blue Power Energy solar farm
+,Solar Power Plant,Blue Power Energy solar farm,"Bolgatanga, Ghana","Bodi, Ghana",cancelled,50,,Signik Energy Ltd,9.2358,-2.4518,Bodi solar farm
+,,Bodi solar farm,"Bodi, Ghana","Bole District, Savannah Region, Ghana",operating,50,Bui Power Authority (BPA),Sinohydro Corp Ltd,8.2794,-2.2363,Bui Floating solar farm
+,,Bui Floating solar farm - Unit 1,"Bole District, Savannah Region, Ghana","Bole District, Savannah Region, Ghana",pre-construction,50,Bui Power Authority (BPA),Sinohydro Corp Ltd,8.2794,-2.2363,Bui Floating solar farm
+,,Bui Floating solar farm - Unit 2,"Bole District, Savannah Region, Ghana","Bole District, Savannah Region, Ghana",pre-construction,50,Bui Power Authority (BPA),Sinohydro Corp Ltd,8.2794,-2.2363,Bui Floating solar farm
+,,Bui Floating solar farm - Unit 3,"Bole District, Savannah Region, Ghana","Bole District, Savannah Region, Ghana",pre-construction,50,Bui Power Authority (BPA),Sinohydro Corp Ltd,8.2794,-2.2363,Bui Floating solar farm
+,,Bui Floating solar farm - Unit 4,"Bole District, Savannah Region, Ghana","Bole District, Savannah Region, Ghana",pre-construction,50,Bui Power Authority (BPA),Sinohydro Corp Ltd,8.2794,-2.2363,Bui Floating solar farm
+,,Bui Floating solar farm - Unit 5,"Bole District, Savannah Region, Ghana","Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, Ghana",announced,60,,Bui Power Authority (BPA),5.6221,-0.176,Bui Hydro Dam solar farm
+,,Bui Hydro Dam solar farm - Unit 2,"Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, Ghana","Yendi, Ghana",operating,50,,Bui Power Authority (BPA),8.2784,-2.2368,Bui solar farm
+,,Bui solar farm - Unit 1,"Yendi, Ghana","Buipe, Ghana",announced,30,,Bui Power Authority (BPA),8.7896,-1.468,Bui solar farm
+,,Bui solar farm - Unit 2,"Buipe, Ghana","Sawla, Ghana",announced,30,,Bui Power Authority (BPA),9.2726,-2.4161,Bui solar farm
+,,Bui solar farm - Unit 3,"Sawla, Ghana","Bolgatanga, Ghana",announced,30,,Bui Power Authority (BPA),10.795,-0.8609,Bui solar farm
+,,Bui solar farm - Unit 4,"Bolgatanga, Ghana","Zebilla, Ghana",announced,30,,Bui Power Authority (BPA),10.9401,-0.4803,Bui solar farm
+,,Bui solar farm - Unit 5,"Zebilla, Ghana","Tumu, Ghana",announced,30,,Bui Power Authority (BPA),8.1198,-1.0223,Bui solar farm
+,,Bui solar farm - Unit 6,"Tumu, Ghana","Bawku, Ghana",announced,30,,Bui Power Authority (BPA),8.1198,-1.0223,Bui solar farm
+,,Bui solar farm - Unit 7,"Bawku, Ghana","Pru East District, Bono East Region, Ghana",announced,30,,Bui Power Authority (BPA),8.1198,-1.0223,Bui solar farm
+,,Bui solar farm - Unit 8,"Pru East District, Bono East Region, Ghana","Gomoa Central District, Central Region, Ghana",operating,20,BXC Ghana,BXC Ghana Ltd,5.3728,-0.6933,Bxc Solar Power Station
+,,Bxc Solar Power Station,"Gomoa Central District, Central Region, Ghana","Dagbon, Ghana",operating,50,,Bui Power Authority (BPA),9.3982,-0.9743,Dagbon solar farm
+,,Dagbon solar farm,"Dagbon, Ghana","Pru East District, Bono East Region, Ghana",construction,100,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 1,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 10,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 11,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 12,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",construction,100,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 2,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 3,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 4,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 5,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 6,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 7,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 8,"Pru East District, Bono East Region, Ghana","Pru East District, Bono East Region, Ghana",announced,80,,Meinergy Ghana,8.1198,-1.0223,Ghana Meinergy solar project
+,,Ghana Meinergy solar project - Unit 9,"Pru East District, Bono East Region, Ghana","Winneba, Effutu Municipal District, Central Region, Ghana",operating,20,Beijing Xiaocheng Tech,Meinergy Ghana,5.3413,-0.7024,Gomoa Onyadze solar farm
+,,Gomoa Onyadze solar farm,"Winneba, Effutu Municipal District, Central Region, Ghana","Central Gonja District, Savannah Region, Ghana",announced,20,,La Honda; EleQtra,8.8061,-1.3084,Gushie Solar Power Project
+,,Gushie Solar Power Project,"Central Gonja District, Savannah Region, Ghana","Jema, Ghana",cancelled,70,,Avior Energy Ltd,7.9038,-1.7685,Jema solar farm
+,,Jema solar farm,"Jema, Ghana","Kusawgu, Ghana",cancelled,400,,Savanna Solar Ltd,9.1969,-1.0439,Kusawgu solar farm
+,,Kusawgu solar farm,"Kusawgu, Ghana","East Gonja Municipal District, Savannah Region, Ghana",cancelled,30,,TFI Co Ltd,8.0301,-1.0801,Mahe-Obomshai solar farm
+,,Mahe-Obomshai solar farm,"East Gonja Municipal District, Savannah Region, Ghana","Nabogu, Ghana",cancelled,40,,Sada Solargiga Power Co Ltd,9.7446,-0.8227,Nabogu solar farm
+,,Nabogu solar farm,"Nabogu, Ghana","Nante, Ghana",pre-construction,20,,Avior Energy Ltd,7.9579,-1.7473,Nante Solar Energy Project
+,,Nante Solar Energy Project,"Nante, Ghana","Sankana, Ghana",cancelled,100,,Home Energy Africa LTD (HEAfrica),8.0301,-1.0801,Nyimbale-Sankana Solar Power Farm
+,,Nyimbale-Sankana Solar Power Farm,"Sankana, Ghana","Ellembelle District, Western Region, Ghana",cancelled,155,,Blue Energy,5.0152,-2.4548,Nzema solar farm
+,,Nzema solar farm,"Ellembelle District, Western Region, Ghana","Prampram, Ghana",cancelled,157,,Energy One Ghana Ltd,5.7105,0.1101,Prampram solar farm
+,,Prampram solar farm,"Prampram, Ghana","East Mamprusi Municipal District, North East Region, Ghana",construction,50,,Volta River Authority,10.6006,-0.3306,Pwalugu Solar Component
+,,Pwalugu Solar Component,"East Mamprusi Municipal District, North East Region, Ghana","East Gonja Municipal District, Savannah Region, Ghana",cancelled,100,,Sun Investment Group (SIG),8.0301,-1.0801,Sede solar farm
+,,Sede solar farm,"East Gonja Municipal District, Savannah Region, Ghana","Bole, Ghana",cancelled,50,,Signik Energy Ltd,9.0299,-2.4881,Siginik Solar PV Farm
+,,Siginik Solar PV Farm,"Bole, Ghana","Tamale, Ghana",cancelled,20,,Eni SpA,10.7854,-0.848,Tamale solar farm
+,,Tamale solar farm,"Tamale, Ghana","Tampion, Ghana",cancelled,100,,WhiteCap Development Ltd,9.5826,-0.6784,Tampion solar farm
+,,Tampion solar farm,"Tampion, Ghana","Tilli, Ghana",shelved,20,,Windiga SA,10.8814,-0.559,Tilli solar farm
+,,Tilli solar farm,"Tilli, Ghana","Banda District, Bono Region, Ghana",operating,1.7,,,8.2653,-2.2532,Banda District solar project
+,,Banda District solar project,"Banda District, Bono Region, Ghana","Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, Ghana",operating,5,,Bui Power Authority (BPA),5.6221,-0.176,Bui Hydro Dam solar farm
+,,Bui Hydro Dam solar farm - Unit 1,"Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, Ghana","Ejisu Municipal District, Ashanti Region, Ghana",operating,1.7,,,6.6146,-1.4599,Ejisu Municipal District solar project
+,,Ejisu Municipal District solar project,"Ejisu Municipal District, Ashanti Region, Ghana","Upper West Region, Ghana",operating,13,,Volta River Authority,10.1729,-2.5335,Kaleo solar project
+,,Kaleo solar project - Unit 1,"Upper West Region, Ghana","Upper West Region, Ghana",operating,15,,Volta River Authority,10.1729,-2.5335,Kaleo solar project
+,,Kaleo solar project - Unit 2,"Upper West Region, Ghana","Kassena-Nankana Municipal District, Ghana",operating,2.8,,,10.9234,-1.0554,Kassena-Nankana Municipal District solar project
+,,Kassena-Nankana Municipal District solar project,"Kassena-Nankana Municipal District, Ghana","Upper West Region, Ghana",operating,6.5,,,10.6461,-2.8841,Lawra solar project
+,,Lawra solar project,"Upper West Region, Ghana",,,,,,,,
+,,,,,,,,,,,
+,,,,"Djambala, Plateaux Department, Republic of the Congo",operating,120,,,-2.9353,16.0373,Imboulou hydroelectric plant
+Congo,Hydro Power Plant,Imboulou hydroelectric plant,"Djambala, Plateaux Department, Republic of the Congo","Pool Department, Republic of the Congo",cancelled,150,,,-2.9018,14.9503,Kouembali hydroelectric plant
+,,Kouembali hydroelectric plant,"Pool Department, Republic of the Congo",Republic of the Congo,operating,74,Energie Electrique du Congo,Energie Electrique du Congo,-3.8987,13.7656,Moukoukoulou hydroelectric plant
+,,Moukoukoulou hydroelectric plant,Republic of the Congo,"Mossendjo, Mossendjo, Niari, Republic of the Congo",shelved,230,,,-2.9118,12.8468,Mourala hydroelectric plant
+,,Mourala hydroelectric plant,"Mossendjo, Mossendjo, Niari, Republic of the Congo","Nyanga, Nyanga, Niari, Republic of the Congo",shelved,101,,,-3.1334,12.9333,Nyanga hydroelectric plant
+,,Nyanga hydroelectric plant,"Nyanga, Nyanga, Niari, Republic of the Congo","Kakamoeka, Kouilou Department, Republic of the Congo",cancelled,100,,,-4.0764,12.157,Sounda Gorge hydroelectric plant
+,,Sounda Gorge hydroelectric plant,"Kakamoeka, Kouilou Department, Republic of the Congo",Republic of the Congo,pre-construction,700,,China Overseas Energy Technology Group Co Ltd,-4.0817,12.1562,Sounda hydroelectric plant
+,,Sounda hydroelectric plant,Republic of the Congo,"Tilala, Pointe-Noire, Republic of the Congo",operating,157,,Société Centrale Electrique du Congo SA [100%],-4.889746,11.915549,Centrale Électrique du Congo (CEC) power station
+,Oil & Gas Power Station,Centrale Électrique du Congo (CEC) power station - Unit 1,"Tilala, Pointe-Noire, Republic of the Congo","Tilala, Pointe-Noire, Republic of the Congo",operating,157,,Société Centrale Electrique du Congo SA [100%],-4.889746,11.915549,Centrale Électrique du Congo (CEC) power station
+,,Centrale Électrique du Congo (CEC) power station - Unit 2,"Tilala, Pointe-Noire, Republic of the Congo","Tilala, Pointe-Noire, Republic of the Congo",operating,170,,Société Centrale Electrique du Congo SA [100%],-4.889746,11.915549,Centrale Électrique du Congo (CEC) power station
+,,Centrale Électrique du Congo (CEC) power station - Unit 3,"Tilala, Pointe-Noire, Republic of the Congo","Tilala, Pointe-Noire, Republic of the Congo",announced,516,,Société Centrale Electrique du Congo SA [100%],-4.889746,11.915549,Centrale Électrique du Congo (CEC) power station
+,,Centrale Électrique du Congo (CEC) power station - Unit 4,"Tilala, Pointe-Noire, Republic of the Congo","Djeno, Pointe-Noire, Republic of the Congo",shelved,50,,Aksa Enerji Uretim AŞ [100%],-4.920492,11.937759,Congo Natural Gas Combined Cycle power plant
+,,Congo Natural Gas Combined Cycle power plant - CC1,"Djeno, Pointe-Noire, Republic of the Congo","Djeno, Pointe-Noire, Republic of the Congo",operating,50,,Aksa Enerji Uretim AŞ [100%],-4.920492,11.937759,Congo Natural Gas Combined Cycle power plant
+,,Congo Natural Gas Combined Cycle power plant - GT1-GT2,"Djeno, Pointe-Noire, Republic of the Congo",Republic of the Congo,pre-construction,100,,AMEA Power,0.3659,16.1368,Congo-Brazzaville solar farm
+,Solar Power Plant,Congo-Brazzaville solar farm,Republic of the Congo,"Special Economic Zone of Ignie, Pool Department, Republic of the Congo",pre-construction,50,Tinda Cash Group,Tinda Cash Group,-0.3043,15.4995,Ignié solar farm
+,,Ignié solar farm,"Special Economic Zone of Ignie, Pool Department, Republic of the Congo","Owando, Cuvette Department, Republic of the Congo",shelved,50,,Ultra Green Corp; Copasol SA,-0.3043,15.4995,Imbimbi solar farm
+,,Imbimbi solar farm,"Owando, Cuvette Department, Republic of the Congo","Owando, Cuvette Department, Republic of the Congo",shelved,50,,Ultra Green Corp; Copasol SA,-0.3043,15.4995,Maloukau Trade Industrial Estate solar farm
+,,Maloukau Trade Industrial Estate solar farm,"Owando, Cuvette Department, Republic of the Congo","Tié-Tié (arrondissement 3), Pointe-Noire (commune), Pointe-Noire (département), Republic of the Congo",shelved,50,,Ultra Green Corp; Copasol SA,-4.7807,11.8923,Pointe Noire Industrial Estate solar farm
+,,Pointe Noire Industrial Estate solar farm,"Tié-Tié (arrondissement 3), Pointe-Noire (commune), Pointe-Noire (département), Republic of the Congo","District de Kabo, Sangha, Republic of the Congo",operating,2,,,1.3863,16.3364,District De Kabo solar project
+,,District De Kabo solar project,"District de Kabo, Sangha, Republic of the Congo",,,,,,,,
+,,,,,,,,,,,
+,,,,"Brikama, The Gambia",operating,24,,Global Electrical Group Ltd [100%],13.295627,-16.63458,Brikama (GEG) power plant
+Gambia,Oil & Gas Power Station,Brikama (GEG) power plant - Unit 1,"Brikama, The Gambia","Brikama, The Gambia",operating,20,NAWEC,,13.293112,-16.635452,Brikama (NAWEC) power plant
+,,Brikama (NAWEC) power plant - Unit 1,"Brikama, The Gambia","Banjul, The Gambia",operating,36,,Karpowership,13.456491,-16.579775,Goktay Bey (Karpowership) power plant
+,,Goktay Bey (Karpowership) power plant - Unit 1,"Banjul, The Gambia","Kotu Eaat, The Gambia",operating,41,,,13.45394,-16.69623,Kotu power station
+,,Kotu power station - Unit 1,"Kotu Eaat, The Gambia","Kombo North/Saint Mary, Brikama, West Coast Division (The Gambia), The Gambia",operating,23,,Economic Community of West African States (ECOWAS),13.2979,-16.6757,Jambur solar farm
+,,Jambur solar farm,"Kombo North/Saint Mary, Brikama, West Coast Division (The Gambia), The Gambia","Soma, Lower River Division, The Gambia",pre-construction,80,,Economic Community of West African States (ECOWAS),13.3978,-15.7263,Soma solar farm (The Gambia)
+,,Soma solar farm (The Gambia) - Unit 1,"Soma, Lower River Division, The Gambia","Soma, Lower River Division, The Gambia",pre-construction,70,,Economic Community of West African States (ECOWAS),13.3978,-15.7263,Soma solar farm (The Gambia)
+,,Soma solar farm (The Gambia) - Unit 2,"Soma, Lower River Division, The Gambia",The Gambia,announced,350,,NEK Umwelttechnik AG,13.3182,-16.8683,The Gambia NEK offshore wind farm
+,,The Gambia NEK offshore wind farm,The Gambia,The Gambia,announced,200,,NEK Umwelttechnik AG,13.4785,-16.297,The Gambia NEK onshore wind farm
+,,The Gambia NEK onshore wind farm,The Gambia,,,,,,,,
+,,,,,,,,,,,
+,,,,"Noumbiel, Sud-Ouest Region, Burkina Faso",announced,60,,,9.8479,-2.9844,Noumbiel hydroelectric plant
+Burkina Faso,Hydro Power Plant,Noumbiel hydroelectric plant,"Noumbiel, Sud-Ouest Region, Burkina Faso",Burkina Faso,operating,57,,IAMGOLD Corp,13.873919,-0.917234,Essakane Gold Mine power station
+,Oil & Gas Power Station,Essakane Gold Mine power station - Unit 1,Burkina Faso,"Ougadougou, Burkina Faso",operating,54,,Société Nationale d'électricité du Burkina,12.251145,-1.575717,Komsilga power plant
+,,Komsilga power plant - 01 Feb,"Ougadougou, Burkina Faso","Ougadougou, Burkina Faso",operating,55,,Société Nationale d'électricité du Burkina,12.433618,-1.486981,Kossodo power plant
+,,Kossodo power plant - Unit 2,"Ougadougou, Burkina Faso","Ougadougou, Burkina Faso",operating,36,,Société Nationale d'électricité du Burkina,12.251145,-1.575717,Komsilga power plant
+,,Komsilga power plant - Unit 3,"Ougadougou, Burkina Faso","Katenga, Burkina Faso",pre-construction,25,,,12.5962,-1.4545,Donsin solar farm
+,Solar Power Plant,Donsin solar farm,"Katenga, Burkina Faso","Kaya, Burkina Faso",pre-construction,75,,,13.1003,-1.0834,Kaya solar farm
+,,Kaya solar farm,"Kaya, Burkina Faso","Bobo-Dioulasso, Houet Province, Burkina Faso",operating,38,ENGIE,Africa REN,10.701,-4.194,Kodeni solar farm
+,,Kodeni solar farm,"Bobo-Dioulasso, Houet Province, Burkina Faso","Kondougou, Boulkiemdé, Burkina Faso",construction,20,,Ministry of Energy (Burkina Faso),12.2521,-2.3598,Koudougou solar farm
+,,Koudougou solar farm,"Kondougou, Boulkiemdé, Burkina Faso","Koupéla, Burkina Faso",announced,75,,,12.1723,-0.3427,Koupéla solar farm
+,,Koupéla solar farm,"Koupéla, Burkina Faso","Matourkou, Burkina Faso",pre-construction,30,,Société Nationale d'électricité du Burkina,11.0853,-4.3716,Matourkou solar farm
+,,Matourkou solar farm,"Matourkou, Burkina Faso","Nagréongo, Oubritenga, Burkina Faso",operating,30,GreenYellow,Africa REN; Stoa Infra & Energy; Qair SAS; GreenYellow,12.4853,-1.2448,Nagréongo solar farm
+,,Nagréongo solar farm,"Nagréongo, Oubritenga, Burkina Faso","Ouagadougou, Burkina Faso",pre-construction,150,,,12.4143,-1.5152,Ouagadougou solar farm
+,,Ouagadougou solar farm,"Ouagadougou, Burkina Faso","Pâ, Pâ Department, Balé, Burkina Faso",operating,30,,Urbasolar SAS,11.6581,-3.0541,Pâ Solar Mouhon solar farm
+,,Pâ Solar Mouhon solar farm,"Pâ, Pâ Department, Balé, Burkina Faso","Ouagadougou, Kadiogo, Burkina Faso",pre-construction,42,,Ministry of Energy (Burkina Faso),12.4245,-1.4835,Yeleen solar farm
+,,Yeleen solar farm - Ougadouou,"Ouagadougou, Kadiogo, Burkina Faso","Ouagadougou, Kadiogo, Burkina Faso",operating,37,,Cegelec,12.3079,-1.6367,Zagtouli solar farm
+,,Zagtouli solar farm - Unit 1,"Ouagadougou, Kadiogo, Burkina Faso","Zano, Tenkodogo Department, Boulgou, Burkina Faso",operating,24,,Africa Energy Corp ; GreenYellow,11.7022,-0.3702,Zano solar farm
+,,Zano solar farm,"Zano, Tenkodogo Department, Boulgou, Burkina Faso","Ouarkay, Mouhoun, Burkina Faso",operating,26.6,Zina Solaire,AMEA Power,12.0644,-3.6333,Zina solar farm
+,,Zina solar farm,"Ouarkay, Mouhoun, Burkina Faso","Dedougou, Burkina Faso",announced,18,,,12.4662,-3.4888,Dedougou solar farm
+,,Dedougou solar farm,"Dedougou, Burkina Faso","Oudalan, Burkina Faso",operating,14.9,,,14.37,0.0763,Essakane solar project
+,,Essakane solar project,"Oudalan, Burkina Faso","Dedougou, Burkina Faso",pre-construction,18,,Qair Energy,12.4463,-3.4811,Souri solar farm
+,,Souri solar farm,"Dedougou, Burkina Faso","Ouagadougou, Kadiogo, Burkina Faso",operating,13,,Cegelec,12.3079,-1.6367,Zagtouli solar farm
+,,Zagtouli solar farm - Unit 2,"Ouagadougou, Kadiogo, Burkina Faso",,,,,,,,
+,,,,,,,,,,,
+,,,,"Cross Border Location 1: Aplahoué, Kouffo Department, Benin
+Cross Border Location 2: Plateaux Region, Togo",cancelled,148,,Benin Electric Community (CEB) [100%],6.9826,1.5593,Adjarala hydroelectric plant
+Benin,Hydro Power Plant,Adjarala hydroelectric plant,"Cross Border Location 1: Aplahoué, Kouffo Department, Benin
+Cross Border Location 2: Plateaux Region, Togo","Dogo, Kétou, Kétou, Southern Benin, Benin",shelved,128,,,7.5132,2.4413,Ketou-Dogo Bis hydroelectric plant
+,,Ketou-Dogo Bis hydroelectric plant,"Dogo, Kétou, Kétou, Southern Benin, Benin","Godomey, Benin, Benin",operating,127,,Benpower SA [100%],6.431224,2.306546,Maria Gleta power station I
+,Oil & Gas Power Station,Maria Gleta power station I - Unit 1,"Godomey, Benin, Benin","Maria Gleta, Benin, Benin",shelved,144,,Benpower SA [100%],6.431224,2.306546,Maria Gleta power station II
+,,Maria Gleta power station II - Unit 2,"Maria Gleta, Benin, Benin","Pobè, Plateau Department, Benin",operating,25,,Eiffage,7.1003,2.6409,Illoulofin Solar
+,Solar Power Plant,Illoulofin Solar - Unit 1,"Pobè, Plateau Department, Benin","Pobè, Plateau Department, Benin",construction,25,,Eiffage,7.1003,2.6409,Illoulofin Solar
+,,Illoulofin Solar - Unit 2,"Pobè, Plateau Department, Benin","Illoulofin, Pobe, Plateau, Benin",construction,25,Beninese Electricity Production CO.,Toyota Tsusho Corp,6.9887,2.66,Pobè solar farm
+,,Pobè solar farm,"Illoulofin, Pobe, Plateau, Benin","Bohicon, Zou, Benin",announced,15,,GreenYellow,7.1862,2.0602,Bohicon solar farm
+,,Bohicon solar farm,"Bohicon, Zou, Benin","Djougou, Donga, Benin",announced,10,,GreenYellow,9.7178,1.6624,Djougou solar farm
+,,Djougou solar farm,"Djougou, Donga, Benin","Natitingou, Atakora, Benin",announced,10,,GreenYellow,10.2957,1.3874,Natitingou solar farm
+,,Natitingou solar farm,"Natitingou, Atakora, Benin","Parakou, Borgou, Benin",announced,15,,GreenYellow,9.3522,2.5907,Parakou solar farm
+,,Parakou solar farm,"Parakou, Borgou, Benin",,,,,,,,
+,,,,,,,,,,,
+,,,,"Plateaux Region, Togo",operating,66,,Communaute Electrique du Benin,7.424,1.435,Nangbeto hydroelectric plant
+Togo,Hydro Power Plant,Nangbeto hydroelectric plant,"Plateaux Region, Togo","Lome, Golfe, Maritime, Togo",operating,65,,ERANOVE [100%],6.155768,1.306281,Kékéli Efficient power plant
+,Oil & Gas Powe Station,Kékéli Efficient power plant,"Lome, Golfe, Maritime, Togo","Lomé, Togo",operating,100,,ContourGlobal PLC,6.15684,1.302176,Lomé Contour power station
+,,Lomé Contour power station,"Lomé, Togo","Sotouboua, Centrale Region, Togo",pre-construction,390,,ARISE IIP,8.7801,1.0201,ARISE IIP solar farm
+,Solar Power Plant,ARISE IIP solar farm,"Sotouboua, Centrale Region, Togo","Dapoang, Savanes, Togo",pre-construction,25,,RESPITE,10.8685,0.1974,Dalwak solar farm
+,,Dalwak solar farm,"Dapoang, Savanes, Togo","Dapaong, Tône Prefecture, Savanes Region, Togo",pre-construction,30,,AMEA Power,10.8514,0.0094,Dapaong solar farm
+,,Dapaong solar farm,"Dapaong, Tône Prefecture, Savanes Region, Togo","Kozah, Togo",announced,42,,,9.4482,1.2147,Kpalassi Solar Power Station
+,,Kpalassi Solar Power Station,"Kozah, Togo","Salimde, Tchaoudjo, Togo",announced,50,,,9.0245,1.2118,Salimde solar farm
+,,Salimde solar farm,"Salimde, Tchaoudjo, Togo","Blitta, Centrale Region, Togo",operating,30,Amea Togo Solar,AMEA Power,8.3078,1.0103,Sheikh Mohamed Bin Zayed solar farm
+,,Sheikh Mohamed Bin Zayed solar farm,"Blitta, Centrale Region, Togo","Blitta, Centrale Region, Togo",operating,20,Amea Togo Solar,AMEA Power,8.3078,1.0103,Sheikh Mohamed Bin Zayed solar farm
+,,Sheikh Mohamed Bin Zayed solar farm,"Blitta, Centrale Region, Togo","Blitta, Centrale Region, Togo",construction,20,Amea Togo Solar,AMEA Power,8.3078,1.0103,Sheikh Mohamed Bin Zayed solar farm
+,,Sheikh Mohamed Bin Zayed solar farm,"Blitta, Centrale Region, Togo","Sokodé, Togo",pre-construction,64,Meridiam,Meridiam,8.9956,1.1447,Sokodé solar farm
+,,Sokodé solar farm,"Sokodé, Togo","Kara, Kozah, Kara Region, Togo",operating,2.4,,,9.4639,1.2271,Kara Kozah solar project
+,,Kara Kozah solar project,"Kara, Kozah, Kara Region, Togo","Maritime Region, Togo",cancelled,24,Benin Electric Community (CEB),Eco Delta Group,6.2064,1.3042,Lomé wind farm
+,Wind Power Plant,Lomé wind farm,"Maritime Region, Togo",,,,,,,,
+,,,,,,,,,,,
+,,,,"Al Jabalian, White Nile State, Sudan",operating,76,,Kenana Sugar Company [100%],13.0743,32.9279,Kenana power station
+Sudan,Bioenergy Power Station,Kenana power station - Unit 1,"Al Jabalian, White Nile State, Sudan","Al Gutaina, White Nile State, Sudan	",operating,31,White Nile Sugar Company,Kenana Sugar Company [30%]; other [70%],14.0721,32.4686,White Nile Sugar Factory power station
+,,White Nile Sugar Factory power station - Unit 3,"Al Gutaina, White Nile State, Sudan	","Al Gutaina, White Nile State, Sudan	",operating,31,White Nile Sugar Company,Kenana Sugar Company [30%]; other [70%],14.0721,32.4686,White Nile Sugar Factory power station
+,,White Nile Sugar Factory power station - Unit 4,"Al Gutaina, White Nile State, Sudan	","Arkyiai, Red Sea State, Sudan","cancelled",300,,National Electricity Corp [100%],19.583333,35.616667,Arkyiai power station
+,Coal Power Station,Arkyiai power station - Unit 1,"Arkyiai, Red Sea State, Sudan","Arkyiai, Red Sea State, Sudan","cancelled",300,,National Electricity Corp [100%],19.583333,35.616667,Arkyiai power station
+,,Arkyiai power station - Unit 2,"Arkyiai, Red Sea State, Sudan","Merowe, Nile River Basin, Ash Shalal ar Rabia, Northern State, Sudan","operating",1250,Sinohydro (中国水利水电建设股份有限公司),"Ministry of Irrigation and Water Resources [100%]",18.6689,32.0503,Merowe Dam hydroelectric plant
+,Hydro Power Plant,Merowe Dam hydroelectric plant,"Merowe, Nile River Basin, Ash Shalal ar Rabia, Northern State, Sudan","Er Roseires, Blue River Basin, Ad Damazin, Blue Nile, Sudan",operating,280,,"Ministry of Irrigation and Water Resources [100%]",11.7981,34.3875,Roseires Dam hydroelectric plant
+,,Roseires Dam hydroelectric plant,"Er Roseires, Blue River Basin, Ad Damazin, Blue Nile, Sudan","Rumaylah, Atbarah River Basin, Setit River Basin, Khartoum, Sudan",operating,320,,"Ministry of Irrigation and Water Resources [100%]",14.2767,35.8969,Rumela hydroelectric plant
+,,Rumela hydroelectric plant,"Rumaylah, Atbarah River Basin, Setit River Basin, Khartoum, Sudan","Al-Fulah, West Kordofan, Sudan","pre-construction",135,,Sudanese Thermal Power Generating Co Ltd [100.0%],11.712995,28.328845,Al-Fulah power station
+,Oil & Gas Power Station,Al-Fulah power station - Unit 1,"Al-Fulah, West Kordofan, Sudan","Al-Fulah, West Kordofan, Sudan","pre-construction",135,,Sudanese Thermal Power Generating Co Ltd [100.0%],11.712995,28.328845,Al-Fulah power station
+,,Al-Fulah power station - Unit 2,"Al-Fulah, West Kordofan, Sudan","Al-Fulah, West Kordofan, Sudan","pre-construction",135,,Sudanese Thermal Power Generating Co Ltd [100.0%],11.712995,28.328845,Al-Fulah power station
+,,Al-Fulah power station - Unit 3,"Al-Fulah, West Kordofan, Sudan","Al-Fulah, West Kordofan, Sudan",shelved,450,,Sudanese Thermal Power Generating Co Ltd [100.0%],11.712995,28.328845,Al-Fulah power station
+,,Al-Fulah power station - CC1-Al Fullah Radifa,"Al-Fulah, West Kordofan, Sudan","Khartoum, Khartoum, Sudan","cancelled",350,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.434073,32.546811,Albagair power station
+,,Albagair power station - Unit 1,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan","cancelled",150,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.434073,32.546811,Albagair power station
+,,Albagair power station - Unit 2,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan","cancelled",250,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.434073,32.546811,Albagair power station
+,,Albagair power station - Unit 3,"Khartoum, Khartoum, Sudan","Al Junaynah, West Darfur, Sudan",operating,8,Sudanese Thermal Power Generating,Sudanese Thermal Power Generating Co Ltd ,13.448166,22.465361,El Geneina Power Plant
+,,El Geneina Power Plant - Unit 1,"Al Junaynah, West Darfur, Sudan","Al Junaynah, West Darfur, Sudan",operating,4.8,Sudanese Thermal Power Generating,Sudanese Thermal Power Generating Co Ltd ,13.448166,22.465361,El Geneina Power Plant
+,,El Geneina Power Plant - Unit 2,"Al Junaynah, West Darfur, Sudan","Al Junaynah, West Darfur, Sudan",operating,1.6,Sudanese Thermal Power Generating,Sudanese Thermal Power Generating Co Ltd ,13.448166,22.465361,El Geneina Power Plant
+,,El Geneina Power Plant - Unit 3,"Al Junaynah, West Darfur, Sudan","Khartoum, Khartoum, Sudan",operating,110,,Sudanese Thermal Power Generating Co Ltd [100%],16.120165,32.691961,Garri 1 Power Plant
+,,Garri 1 Power Plant - Unit 1,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,110,,Sudanese Thermal Power Generating Co Ltd [100%],16.120165,32.691961,Garri 1 Power Plant
+,,Garri 1 Power Plant - Unit 2,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,110,,Sudanese Thermal Power Generating Co Ltd [100%],16.119496,32.696871,Garri 2 Power Plant
+,,Garri 2 Power Plant - Unit 1,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,110,,Sudanese Thermal Power Generating Co Ltd [100%],16.119496,32.696871,Garri 2 Power Plant
+,,Garri 2 Power Plant - Unit 2,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan	",construction,187,,Sudanese Thermal Power Generating Co Ltd [100%],16.117383,32.697406,Garri 3 Power Plant
+,,Garri 3 Power Plant - Unit 1,"Khartoum, Khartoum, Sudan	","Khartoum, Khartoum, Sudan	",construction,187,,Sudanese Thermal Power Generating Co Ltd [100%],16.117383,32.697406,Garri 3 Power Plant
+,,Garri 3 Power Plant - Unit 2,"Khartoum, Khartoum, Sudan	","Khartoum, Khartoum, Sudan	",construction,187,,Sudanese Thermal Power Generating Co Ltd [100%],16.117383,32.697406,Garri 3 Power Plant
+,,Garri 3 Power Plant - Unit 3,"Khartoum, Khartoum, Sudan	","Khartoum, Khartoum, Sudan	",shelved,240,,Sudanese Thermal Power Generating Co Ltd [100%],16.117383,32.697406,Garri 3 Power Plant
+,,Garri 3 Power Plant - CC,"Khartoum, Khartoum, Sudan	","Khartoum, Khartoum, Sudan",operating,55,,Sudanese Thermal Power Generating Co Ltd [100%],16.117416,32.701705,Garri 4 Power Plant
+,,Garri 4 Power Plant - Unit 1,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,55,,Sudanese Thermal Power Generating Co Ltd [100%],16.117416,32.701705,Garri 4 Power Plant
+,,Garri 4 Power Plant - Unit 2,"Khartoum, Khartoum, Sudan","Port Saudan, Red Sea, Sudan",operating,150,Karpowership,Karadeniz Holding AŞ [100%],19.609512,37.228398,Karadeniz Powership
+,,Karadeniz Powership - Unit 1,"Port Saudan, Red Sea, Sudan","Khartoum, Khartoum, Sudan",operating,257,,Dar Ikhtisas Technologies (Malaysia) Sdn Bhd,15.648236,32.563096,Kilo-X Dit power plant
+,,Kilo-X Dit power plant - Unit 1,"Khartoum, Khartoum, Sudan","Rabak, White Nile, Sudan	",operating,125,,Sudanese Thermal Power Generating Co Ltd [100.0%],13.208986,32.823243,Kosti power plant
+,,Kosti power plant - Unit 1,"Rabak, White Nile, Sudan	","Rabak, White Nile, Sudan	",operating,125,,Sudanese Thermal Power Generating Co Ltd [100.0%],13.208986,32.823243,Kosti power plant
+,,Kosti power plant - Unit 2,"Rabak, White Nile, Sudan	","Rabak, White Nile, Sudan	",operating,125,,Sudanese Thermal Power Generating Co Ltd [100.0%],13.208986,32.823243,Kosti power plant
+,,Kosti power plant - Unit 3,"Rabak, White Nile, Sudan	","Rabak, White Nile, Sudan	",operating,125,,Sudanese Thermal Power Generating Co Ltd [100.0%],13.208986,32.823243,Kosti power plant
+,,Kosti power plant - Unit 4,"Rabak, White Nile, Sudan	","Khartoum, Khartoum, Sudan",operating,60,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.651704,32.56277,Mahmoud Sharif power station
+,,Mahmoud Sharif power station - 02 Jan,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,60,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.651704,32.56277,Mahmoud Sharif power station
+,,Mahmoud Sharif power station - 02 Feb,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,100,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.651704,32.56277,Mahmoud Sharif power station
+,,Mahmoud Sharif power station - 03 Jan,"Khartoum, Khartoum, Sudan","Khartoum, Khartoum, Sudan",operating,100,,Sudanese Thermal Power Generating Co Ltd [100.0%],15.651704,32.56277,Mahmoud Sharif power station
+,,Mahmoud Sharif power station - 03 Feb,"Khartoum, Khartoum, Sudan","Nyala, Nyala, South Darfur, Sudan",operating,30,Sudanese Thermal Power Generating,Sudanese Thermal Power Generating Co Ltd,12.059319,24.899161,New Nyala Power Plant
+,,New Nyala Power Plant - Unit 1,"Nyala, Nyala, South Darfur, Sudan","Nyala, South Darfur, Sudan",operating,14,,,12.059319,24.899161,Nyala Power Plant
+,,Nyala Power Plant - Unit 1,"Nyala, South Darfur, Sudan","Nyala, South Darfur, Sudan",operating,1.5,,,12.059319,24.899161,Nyala Power Plant
+,,Nyala Power Plant - Unit 2,"Nyala, South Darfur, Sudan","Nyala, South Darfur, Sudan",construction,20,,,12.059319,24.899161,Nyala Power Plant
+,,Nyala Power Plant - Unit 3,"Nyala, South Darfur, Sudan","Nyala, South Darfur, Sudan",construction,20,,,12.059319,24.899161,Nyala Power Plant
+,,Nyala Power Plant - Unit 4,"Nyala, South Darfur, Sudan","Port Sudan, Red Sea, Sudan",operating ,187,,Sudanese Thermal Power Generating Co Ltd [100.0%,19.626296,37.217713,Port Sudan power station
+,,Port Sudan power station - Unit 1,"Port Sudan, Red Sea, Sudan","Port Sudan, Red Sea, Sudan",announced,500,,Sudanese Thermal Power Generating Co Ltd [100.0%,19.626296,37.217713,Port Sudan power station
+,,Port Sudan power station - Unit 2,"Port Sudan, Red Sea, Sudan","Port Sudan, Red Sea, Sudan",announced,500,,Sudanese Thermal Power Generating Co Ltd [100.0%,19.626296,37.217713,Port Sudan power station
+,,Port Sudan power station - Unit 3,"Port Sudan, Red Sea, Sudan","Port Sudan, Red Sea, Sudan",operating ,187,,Sudanese Thermal Power Generating Co Ltd [100.0%,19.626296,37.217713,Port Sudan power station
+,,Port Sudan power station - 01 Feb,"Port Sudan, Red Sea, Sudan","Port Sudan, Red Sea, Sudan",construction,170,,Sudanese Thermal Power Generating Co Ltd [100.0%,19.626296,37.217713,Port Sudan power station
+,,Port Sudan power station - 01 Mar,"Port Sudan, Red Sea, Sudan","Ad Da'ein, East Darfur State, Sudan",operating,5.4,,,11.4548,26.2188,Ad Da'Ein solar project
+,Solar Power Plant,Ad Da'Ein solar project,"Ad Da'ein, East Darfur State, Sudan","Al Fasher, North Darfur State, Sudan",operating,5.6,,,13.6703,25.463,Al Fasher solar project
+,,Al Fasher solar project,"Al Fasher, North Darfur State, Sudan","Khartoum, Sudan",shelved,10,,Ministry of Water Resources and Electricity (Sudan),15.6441,32.484,Khartoum Solar Power Project
+,,Khartoum Solar Power Project,"Khartoum, Sudan","Dongola, Northern Sudan, Sudan",shelved,20,,Ministry of Water Resources Irrigation and Electricity (Sudan),19.2009,30.3395,Dongola wind farm
+,Wind Power Plant,Dongola wind farm - Unit 1,"Dongola, Northern Sudan, Sudan","Dongola, Northern Sudan, Sudan",shelved,80,,Ministry of Water Resources Irrigation and Electricity (Sudan),19.2009,30.3395,Dongola wind farm
+,,Dongola wind farm - Unit 2,"Dongola, Northern Sudan, Sudan","Red Sea, Sudan","cancelled",20,,,19.6192,37.2117,Khartoum wind farm
+,,Khartoum wind farm,"Red Sea, Sudan","Nyala, Nyala, South Darfur State, Sudan","pre-construction",20,,,12.1344,24.7811,Nyala wind farm
+,,Nyala wind farm,"Nyala, Nyala, South Darfur State, Sudan","Tokar, Red Sea, Sudan","pre-construction",180,,,18.5809,37.7825,Red Sea wind farm
+,,Red Sea wind farm,"Tokar, Red Sea, Sudan",,,,,,,,
